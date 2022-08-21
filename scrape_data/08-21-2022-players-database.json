@@ -3,15 +3,16 @@
 		"player_id": 1,
 		"first_name": "Trae",
 		"last_name": "Young",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Atlanta Hawks",
 		"height": 185,
 		"weight": 81,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Trae-Young-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/trae-young",
+		"team_id": null,
 		"stats": {
 			"Overall": 90,
 			"Outside Scoring": 91,
@@ -72,15 +73,16 @@
 		"player_id": 2,
 		"first_name": "Dejounte",
 		"last_name": "Murray",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way Slashing Playmaker",
+		"nba_team": "Atlanta Hawks",
 		"height": 193,
 		"weight": 77,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Dejounte-Murray-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dejounte-murray",
+		"team_id": null,
 		"stats": {
 			"Overall": 87,
 			"Outside Scoring": 85,
@@ -141,15 +143,16 @@
 		"player_id": 3,
 		"first_name": "Clint",
 		"last_name": "Capela",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Atlanta Hawks",
 		"height": 208,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Clint-Capela-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/clint-capela",
+		"team_id": null,
 		"stats": {
 			"Overall": 85,
 			"Outside Scoring": 63,
@@ -210,16 +213,17 @@
 		"player_id": 4,
 		"first_name": "John",
 		"last_name": "Collins",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Interior Finisher",
+		"nba_team": "Atlanta Hawks",
 		"height": 206,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/John-Collins-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/john-collins",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 83,
@@ -280,16 +284,17 @@
 		"player_id": 5,
 		"first_name": "Bogdan",
 		"last_name": "Bogdanovic",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Atlanta Hawks",
 		"height": 198,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Bogdan-Bogdanovic-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/bogdan-bogdanovic",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 86,
@@ -350,16 +355,17 @@
 		"player_id": 6,
 		"first_name": "Onyeka",
 		"last_name": "Okongwu",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Atlanta Hawks",
 		"height": 203,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Onyeka-Okongwu-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/onyeka-okongwu",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 66,
@@ -420,16 +426,17 @@
 		"player_id": 7,
 		"first_name": "De'Andre",
 		"last_name": "Hunter",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Atlanta Hawks",
 		"height": 203,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/DeAndre-Hunter-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/deandre-hunter",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 80,
@@ -490,16 +497,17 @@
 		"player_id": 8,
 		"first_name": "Frank",
 		"last_name": "Kaminsky III",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Atlanta Hawks",
 		"height": 213,
 		"weight": 109,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Frank-Kaminsky-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/frank-kaminsky-iii",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 82,
@@ -560,16 +568,17 @@
 		"player_id": 9,
 		"first_name": "Aaron",
 		"last_name": "Holiday",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "3PT Playmaker",
+		"nba_team": "Atlanta Hawks",
 		"height": 183,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Holiday-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/aaron-holiday",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 82,
@@ -630,16 +639,17 @@
 		"player_id": 10,
 		"first_name": "Lou",
 		"last_name": "Williams",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Atlanta Hawks",
 		"height": 188,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Lou-Williams-2K-Rating-1-411x300.png",
 		"player_url": "https://www.2kratings.com/lou-williams",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 74,
@@ -700,16 +710,17 @@
 		"player_id": 11,
 		"first_name": "Jalen",
 		"last_name": "Johnson",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Atlanta Hawks",
 		"height": 203,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Johnson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jalen-johnson",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 66,
@@ -770,16 +781,17 @@
 		"player_id": 12,
 		"first_name": "Skylar",
 		"last_name": "Mays",
-		"team": "Atlanta Hawks",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Mid-Range Specialist",
+		"nba_team": "Atlanta Hawks",
 		"height": 193,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Skylar-Mays-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/skylar-mays",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 78,
@@ -840,16 +852,17 @@
 		"player_id": 13,
 		"first_name": "Jayson",
 		"last_name": "Tatum",
-		"team": "Boston Celtics",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "2-Way Scoring Machine",
+		"nba_team": "Boston Celtics",
 		"height": 203,
 		"weight": 94,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jayson-Tatum-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jayson-tatum",
+		"team_id": null,
 		"stats": {
 			"Overall": 90,
 			"Outside Scoring": 85,
@@ -910,16 +923,17 @@
 		"player_id": 14,
 		"first_name": "Jaylen",
 		"last_name": "Brown",
-		"team": "Boston Celtics",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "2-Way 3-Level Scorer",
+		"nba_team": "Boston Celtics",
 		"height": 198,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaylen-Brown-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jaylen-brown",
+		"team_id": null,
 		"stats": {
 			"Overall": 86,
 			"Outside Scoring": 83,
@@ -980,16 +994,17 @@
 		"player_id": 15,
 		"first_name": "Malcolm",
 		"last_name": "Brogdon",
-		"team": "Boston Celtics",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Boston Celtics",
 		"height": 196,
 		"weight": 103,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Malcolm-Brogdon-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/malcolm-brogdon",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 84,
@@ -1050,15 +1065,16 @@
 		"player_id": 16,
 		"first_name": "Robert",
 		"last_name": "Williams III",
-		"team": "Boston Celtics",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Boston Celtics",
 		"height": 203,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Robert-Williams-III-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/robert-williams-iii",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 72,
@@ -1119,16 +1135,17 @@
 		"player_id": 17,
 		"first_name": "Al",
 		"last_name": "Horford",
-		"team": "Boston Celtics",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "2-Way Finisher",
+		"nba_team": "Boston Celtics",
 		"height": 206,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Al-Horford-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/al-horford",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 77,
@@ -1189,16 +1206,17 @@
 		"player_id": 18,
 		"first_name": "Derrick",
 		"last_name": "White",
-		"team": "Boston Celtics",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Boston Celtics",
 		"height": 193,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-White-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/derrick-white",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 85,
@@ -1259,16 +1277,17 @@
 		"player_id": 19,
 		"first_name": "Marcus",
 		"last_name": "Smart",
-		"team": "Boston Celtics",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Boston Celtics",
 		"height": 191,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/marcus-smart",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 61,
@@ -1329,16 +1348,17 @@
 		"player_id": 20,
 		"first_name": "Danilo",
 		"last_name": "Gallinari",
-		"team": "Boston Celtics",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Boston Celtics",
 		"height": 208,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Danilo-Gallinari-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/danilo-gallinari",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 79,
@@ -1399,16 +1419,17 @@
 		"player_id": 21,
 		"first_name": "Payton",
 		"last_name": "Pritchard",
-		"team": "Boston Celtics",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Sharpshooter",
+		"nba_team": "Boston Celtics",
 		"height": 185,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Payton-Pritchard-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/payton-pritchard",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 86,
@@ -1469,16 +1490,17 @@
 		"player_id": 22,
 		"first_name": "Grant",
 		"last_name": "Williams",
-		"team": "Boston Celtics",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Boston Celtics",
 		"height": 198,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Grant-Williams-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/grant-williams",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 81,
@@ -1539,16 +1561,17 @@
 		"player_id": 23,
 		"first_name": "Sam",
 		"last_name": "Hauser",
-		"team": "Boston Celtics",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Boston Celtics",
 		"height": 201,
 		"weight": 98,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Sam-Hauser-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/sam-hauser",
+		"team_id": null,
 		"stats": {
 			"Overall": 70,
 			"Outside Scoring": 72,
@@ -1609,15 +1632,16 @@
 		"player_id": 24,
 		"first_name": "Luke",
 		"last_name": "Kornet",
-		"team": "Boston Celtics",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Boston Celtics",
 		"height": 218,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Luke-Kornet-2K-Rating.png",
 		"player_url": "https://www.2kratings.com/luke-kornet",
+		"team_id": null,
 		"stats": {
 			"Overall": 70,
 			"Outside Scoring": 69,
@@ -1678,16 +1702,17 @@
 		"player_id": 25,
 		"first_name": "Kevin",
 		"last_name": "Durant",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Brooklyn Nets",
 		"height": 208,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Durant-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kevin-durant",
+		"team_id": null,
 		"stats": {
 			"Overall": 96,
 			"Outside Scoring": 93,
@@ -1748,16 +1773,17 @@
 		"player_id": 26,
 		"first_name": "Kyrie",
 		"last_name": "Irving",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Brooklyn Nets",
 		"height": 188,
 		"weight": 87,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyrie-Irving-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kyrie-irving",
+		"team_id": null,
 		"stats": {
 			"Overall": 92,
 			"Outside Scoring": 93,
@@ -1818,16 +1844,17 @@
 		"player_id": 27,
 		"first_name": "Ben",
 		"last_name": "Simmons",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"PG",
 			"PF"
 		],
 		"archetype": "2-Way Slashing Playmaker",
+		"nba_team": "Brooklyn Nets",
 		"height": 211,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ben-Simmons-Nets-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/ben-simmons",
+		"team_id": null,
 		"stats": {
 			"Overall": 84,
 			"Outside Scoring": 67,
@@ -1888,16 +1915,17 @@
 		"player_id": 28,
 		"first_name": "T.J.",
 		"last_name": "Warren",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Brooklyn Nets",
 		"height": 203,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/T.J.-Warren-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tj-warren",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 84,
@@ -1958,16 +1986,17 @@
 		"player_id": 29,
 		"first_name": "LaMarcus",
 		"last_name": "Aldridge",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Finisher",
+		"nba_team": "Brooklyn Nets",
 		"height": 211,
 		"weight": 117,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/LaMarcus-Aldridge-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/lamarcus-aldridge",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 80,
@@ -2028,16 +2057,17 @@
 		"player_id": 30,
 		"first_name": "Nicolas",
 		"last_name": "Claxton",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Brooklyn Nets",
 		"height": 211,
 		"weight": 98,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nicolas-Claxton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nicolas-claxton",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 68,
@@ -2098,16 +2128,17 @@
 		"player_id": 31,
 		"first_name": "Seth",
 		"last_name": "Curry",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Sharpshooter",
+		"nba_team": "Brooklyn Nets",
 		"height": 188,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Seth-Curry-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/seth-curry",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 89,
@@ -2168,16 +2199,17 @@
 		"player_id": 32,
 		"first_name": "Joe",
 		"last_name": "Harris",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Brooklyn Nets",
 		"height": 198,
 		"weight": 98,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Joe-Harris-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/joe-harris",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 80,
@@ -2238,16 +2270,17 @@
 		"player_id": 33,
 		"first_name": "Blake",
 		"last_name": "Griffin",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Point Center",
+		"nba_team": "Brooklyn Nets",
 		"height": 206,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Blake-Griffin-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/blake-griffin",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 61,
@@ -2308,16 +2341,17 @@
 		"player_id": 34,
 		"first_name": "Cameron",
 		"last_name": "Thomas",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Inside the Arc Scorer",
+		"nba_team": "Brooklyn Nets",
 		"height": 191,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cam-Thomas-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cameron-thomas",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 83,
@@ -2378,16 +2412,17 @@
 		"player_id": 35,
 		"first_name": "Edmond",
 		"last_name": "Sumner",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "3PT Shot Creator",
+		"nba_team": "Brooklyn Nets",
 		"height": 193,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Edmond-Sumner-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/edmond-sumner",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 78,
@@ -2448,15 +2483,16 @@
 		"player_id": 36,
 		"first_name": "Day'Ron",
 		"last_name": "Sharpe",
-		"team": "Brooklyn Nets",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Brooklyn Nets",
 		"height": 206,
 		"weight": 119,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/DayRon-Sharpe-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dayron-sharpe",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 55,
@@ -2517,16 +2553,17 @@
 		"player_id": 37,
 		"first_name": "LaMelo",
 		"last_name": "Ball",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "2-Way Slashing Playmaker",
+		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/LaMelo-Ball-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/lamelo-ball",
+		"team_id": null,
 		"stats": {
 			"Overall": 86,
 			"Outside Scoring": 85,
@@ -2587,16 +2624,17 @@
 		"player_id": 38,
 		"first_name": "Miles",
 		"last_name": "Bridges",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Slashing Four",
+		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Miles-Bridges-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/miles-bridges",
+		"team_id": null,
 		"stats": {
 			"Overall": 84,
 			"Outside Scoring": 86,
@@ -2657,16 +2695,17 @@
 		"player_id": 39,
 		"first_name": "Terry",
 		"last_name": "Rozier III",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Charlotte Hornets",
 		"height": 185,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Terry-Rozier-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/terry-rozier",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 86,
@@ -2727,16 +2766,17 @@
 		"player_id": 40,
 		"first_name": "Gordon",
 		"last_name": "Hayward",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Sharpshooter",
+		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Gordon-Hayward-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/gordon-hayward",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 81,
@@ -2797,16 +2837,17 @@
 		"player_id": 41,
 		"first_name": "Montrezl",
 		"last_name": "Harrell",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Interior Finisher",
+		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Montrezl-Harrell-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/montrezl-harrell",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 64,
@@ -2867,16 +2908,17 @@
 		"player_id": 42,
 		"first_name": "P.J.",
 		"last_name": "Washington",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/P.J.-Washington-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/pj-washington",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 78,
@@ -2937,16 +2979,17 @@
 		"player_id": 43,
 		"first_name": "Kelly",
 		"last_name": "Oubre Jr.",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Balanced Scorer",
+		"nba_team": "Charlotte Hornets",
 		"height": 198,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kelly-Oubre-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kelly-oubre-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 80,
@@ -3007,15 +3050,16 @@
 		"player_id": 44,
 		"first_name": "Mason",
 		"last_name": "Plumlee",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Charlotte Hornets",
 		"height": 211,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Mason-Plumlee-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/mason-plumlee",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 64,
@@ -3076,15 +3120,16 @@
 		"player_id": 45,
 		"first_name": "Isaiah",
 		"last_name": "Thomas",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Offense Initiator",
+		"nba_team": "Charlotte Hornets",
 		"height": 175,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Thomas-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/isaiah-thomas",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 77,
@@ -3145,16 +3190,17 @@
 		"player_id": 46,
 		"first_name": "Cody",
 		"last_name": "Martin",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Charlotte Hornets",
 		"height": 198,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cody-Martin-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cody-martin",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 75,
@@ -3215,15 +3261,16 @@
 		"player_id": 47,
 		"first_name": "Nick",
 		"last_name": "Richards",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"C"
 		],
 		"archetype": "Finisher",
+		"nba_team": "Charlotte Hornets",
 		"height": 213,
 		"weight": 111,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nick-Richards-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nick-richards",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 66,
@@ -3284,16 +3331,17 @@
 		"player_id": 48,
 		"first_name": "Jalen",
 		"last_name": "McDaniels",
-		"team": "Charlotte Hornets",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Charlotte Hornets",
 		"height": 208,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jalen-McDaniels-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jalen-mcdaniels",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 73,
@@ -3354,16 +3402,17 @@
 		"player_id": 49,
 		"first_name": "DeMar",
 		"last_name": "DeRozan",
-		"team": "Chicago Bulls",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Slashing Shot Creator",
+		"nba_team": "Chicago Bulls",
 		"height": 198,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/DeMar-DeRozan-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/demar-derozan",
+		"team_id": null,
 		"stats": {
 			"Overall": 90,
 			"Outside Scoring": 92,
@@ -3424,16 +3473,17 @@
 		"player_id": 50,
 		"first_name": "Zach",
 		"last_name": "LaVine",
-		"team": "Chicago Bulls",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Inside-Out Playmaker",
+		"nba_team": "Chicago Bulls",
 		"height": 196,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Zach-LaVine-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/zach-lavine",
+		"team_id": null,
 		"stats": {
 			"Overall": 88,
 			"Outside Scoring": 89,
@@ -3494,15 +3544,16 @@
 		"player_id": 51,
 		"first_name": "Nikola",
 		"last_name": "Vucevic",
-		"team": "Chicago Bulls",
 		"positions": [
 			"C"
 		],
 		"archetype": "Interior Finisher",
+		"nba_team": "Chicago Bulls",
 		"height": 208,
 		"weight": 117,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nikola-Vucevic-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nikola-vucevic",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 81,
@@ -3563,16 +3614,17 @@
 		"player_id": 52,
 		"first_name": "Lonzo",
 		"last_name": "Ball",
-		"team": "Chicago Bulls",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "2-Way 3PT Playmaker",
+		"nba_team": "Chicago Bulls",
 		"height": 198,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Lonzo-Ball-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/lonzo-ball",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 77,
@@ -3633,15 +3685,16 @@
 		"player_id": 53,
 		"first_name": "Andre",
 		"last_name": "Drummond",
-		"team": "Chicago Bulls",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Beast",
+		"nba_team": "Chicago Bulls",
 		"height": 208,
 		"weight": 126,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Andre-Drummond-Nets-2K-Ratings-411x300.png",
 		"player_url": "https://www.2kratings.com/andre-drummond",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 57,
@@ -3702,16 +3755,17 @@
 		"player_id": 54,
 		"first_name": "Alex",
 		"last_name": "Caruso",
-		"team": "Chicago Bulls",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Chicago Bulls",
 		"height": 196,
 		"weight": 84,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Alex-Caruso-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/alex-caruso",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 72,
@@ -3772,16 +3826,17 @@
 		"player_id": 55,
 		"first_name": "Coby",
 		"last_name": "White",
-		"team": "Chicago Bulls",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Chicago Bulls",
 		"height": 193,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Coby-White-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/coby-white",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 79,
@@ -3842,16 +3897,17 @@
 		"player_id": 56,
 		"first_name": "Javonte",
 		"last_name": "Green",
-		"team": "Chicago Bulls",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Chicago Bulls",
 		"height": 193,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Javonte-Green-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/javonte-green",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 78,
@@ -3912,16 +3968,17 @@
 		"player_id": 57,
 		"first_name": "Ayo",
 		"last_name": "Dosunmu",
-		"team": "Chicago Bulls",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Chicago Bulls",
 		"height": 193,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ayo-Dosunmu-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/ayo-dosunmu",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 82,
@@ -3982,15 +4039,16 @@
 		"player_id": 58,
 		"first_name": "Tristan",
 		"last_name": "Thompson",
-		"team": "Chicago Bulls",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Chicago Bulls",
 		"height": 206,
 		"weight": 107,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tristan-Thompson-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/tristan-thompson",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 65,
@@ -4051,15 +4109,16 @@
 		"player_id": 59,
 		"first_name": "Tony",
 		"last_name": "Bradley",
-		"team": "Chicago Bulls",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Chicago Bulls",
 		"height": 208,
 		"weight": 112,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tony-Bradley-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tony-bradley-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 60,
@@ -4120,16 +4179,17 @@
 		"player_id": 60,
 		"first_name": "Patrick",
 		"last_name": "Williams",
-		"team": "Chicago Bulls",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Chicago Bulls",
 		"height": 201,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Patrick-Williams-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/patrick-williams",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 72,
@@ -4190,15 +4250,16 @@
 		"player_id": 61,
 		"first_name": "Darius",
 		"last_name": "Garland",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Darius-Garland-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/darius-garland",
+		"team_id": null,
 		"stats": {
 			"Overall": 88,
 			"Outside Scoring": 93,
@@ -4259,15 +4320,16 @@
 		"player_id": 62,
 		"first_name": "Jarrett",
 		"last_name": "Allen",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 208,
 		"weight": 107,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jarrett-Allen-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jarrett-allen",
+		"team_id": null,
 		"stats": {
 			"Overall": 86,
 			"Outside Scoring": 82,
@@ -4328,16 +4390,17 @@
 		"player_id": 63,
 		"first_name": "Evan",
 		"last_name": "Mobley",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 211,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Evan-Mobley-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/evan-mobley",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 79,
@@ -4398,16 +4461,17 @@
 		"player_id": 64,
 		"first_name": "Kevin",
 		"last_name": "Love",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Stretch Five",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 203,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Love-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kevin-love",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 83,
@@ -4468,16 +4532,17 @@
 		"player_id": 65,
 		"first_name": "Collin",
 		"last_name": "Sexton",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Collin-Sexton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/collin-sexton",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 81,
@@ -4538,16 +4603,17 @@
 		"player_id": 66,
 		"first_name": "Lauri",
 		"last_name": "Markkanen",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 211,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Lauri-Markkanen-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/lauri-markkanen",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 80,
@@ -4608,15 +4674,16 @@
 		"player_id": 67,
 		"first_name": "Ricky",
 		"last_name": "Rubio",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 188,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ricky-Rubio-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/ricky-rubio",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 79,
@@ -4677,16 +4744,17 @@
 		"player_id": 68,
 		"first_name": "Caris",
 		"last_name": "LeVert",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 198,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Caris-LeVert-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/caris-levert",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 79,
@@ -4747,16 +4815,17 @@
 		"player_id": 69,
 		"first_name": "Isaac",
 		"last_name": "Okoro",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 196,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Isaac-Okoro-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/isaac-okoro",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 73,
@@ -4817,16 +4886,17 @@
 		"player_id": 70,
 		"first_name": "Cedi",
 		"last_name": "Osman",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "3PT Shot Creator",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 201,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cedi-Osman-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cedi-osman",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 79,
@@ -4887,15 +4957,16 @@
 		"player_id": 71,
 		"first_name": "Robin",
 		"last_name": "Lopez",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"C"
 		],
 		"archetype": "Back-To-Basket Big",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 213,
 		"weight": 124,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Robin-Lopez-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/robin-lopez",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 73,
@@ -4956,15 +5027,16 @@
 		"player_id": 72,
 		"first_name": "Rajon",
 		"last_name": "Rondo",
-		"team": "Cleveland Cavaliers",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
 		"weight": 84,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Rajon-Rondo-Cavs-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/rajon-rondo",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 64,
@@ -5025,16 +5097,17 @@
 		"player_id": 73,
 		"first_name": "Luka",
 		"last_name": "Doncic",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"PG",
 			"SF"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Dallas Mavericks",
 		"height": 201,
 		"weight": 98,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Luka-Doncic-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/luka-doncic",
+		"team_id": null,
 		"stats": {
 			"Overall": 95,
 			"Outside Scoring": 91,
@@ -5095,16 +5168,17 @@
 		"player_id": 74,
 		"first_name": "Christian",
 		"last_name": "Wood",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Stretch Five",
+		"nba_team": "Dallas Mavericks",
 		"height": 206,
 		"weight": 96,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Christian-Wood-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/christian-wood",
+		"team_id": null,
 		"stats": {
 			"Overall": 84,
 			"Outside Scoring": 78,
@@ -5165,16 +5239,17 @@
 		"player_id": 75,
 		"first_name": "Spencer",
 		"last_name": "Dinwiddie",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Dallas Mavericks",
 		"height": 198,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Spencer-Dinwiddie-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/spencer-dinwiddie",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 79,
@@ -5235,15 +5310,16 @@
 		"player_id": 76,
 		"first_name": "JaVale",
 		"last_name": "McGee",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Beast",
+		"nba_team": "Dallas Mavericks",
 		"height": 213,
 		"weight": 122,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/JaVale-McGee-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/javale-mcgee",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 66,
@@ -5304,16 +5380,17 @@
 		"player_id": 77,
 		"first_name": "Dorian",
 		"last_name": "Finney-Smith",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Dallas Mavericks",
 		"height": 201,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Dorian-Finney-Smith-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dorian-finney-smith",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 79,
@@ -5374,16 +5451,17 @@
 		"player_id": 78,
 		"first_name": "Dwight",
 		"last_name": "Powell",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Dallas Mavericks",
 		"height": 208,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Dwight-Powell-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dwight-powell",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 77,
@@ -5444,16 +5522,17 @@
 		"player_id": 79,
 		"first_name": "Tim",
 		"last_name": "Hardaway Jr.",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Mid-Range Specialist",
+		"nba_team": "Dallas Mavericks",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tim-Hardaway-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tim-hardaway-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 79,
@@ -5514,16 +5593,17 @@
 		"player_id": 80,
 		"first_name": "Josh",
 		"last_name": "Green",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Dallas Mavericks",
 		"height": 196,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Josh-Green-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/josh-green",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 78,
@@ -5584,16 +5664,17 @@
 		"player_id": 81,
 		"first_name": "Maxi",
 		"last_name": "Kleber",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Dallas Mavericks",
 		"height": 208,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Maxi-Kleber-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/maxi-kleber",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 61,
@@ -5654,16 +5735,17 @@
 		"player_id": 82,
 		"first_name": "Reggie",
 		"last_name": "Bullock",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Dallas Mavericks",
 		"height": 198,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Reggie-Bullock-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/reggie-bullock",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 83,
@@ -5724,15 +5806,16 @@
 		"player_id": 83,
 		"first_name": "Davis",
 		"last_name": "Bertans",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"PF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Dallas Mavericks",
 		"height": 208,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Davis-Bertans-2K-Rating-1-413x300.png",
 		"player_url": "https://www.2kratings.com/davis-bertans",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 73,
@@ -5793,16 +5876,17 @@
 		"player_id": 84,
 		"first_name": "Frank",
 		"last_name": "Ntilikina",
-		"team": "Dallas Mavericks",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "2-Way Tempo Pusher",
+		"nba_team": "Dallas Mavericks",
 		"height": 193,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Frank-Ntilikina-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/frank-ntilikina",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 71,
@@ -5863,15 +5947,16 @@
 		"player_id": 85,
 		"first_name": "Nikola",
 		"last_name": "Jokic",
-		"team": "Denver Nuggets",
 		"positions": [
 			"C"
 		],
 		"archetype": "3-Level Scorer",
+		"nba_team": "Denver Nuggets",
 		"height": 211,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nikola-Jokic-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nikola-jokic",
+		"team_id": null,
 		"stats": {
 			"Overall": 96,
 			"Outside Scoring": 90,
@@ -5932,16 +6017,17 @@
 		"player_id": 86,
 		"first_name": "Jamal",
 		"last_name": "Murray",
-		"team": "Denver Nuggets",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Denver Nuggets",
 		"height": 191,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jamal-Murray-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jamal-murray",
+		"team_id": null,
 		"stats": {
 			"Overall": 85,
 			"Outside Scoring": 86,
@@ -6002,16 +6088,17 @@
 		"player_id": 87,
 		"first_name": "Michael",
 		"last_name": "Porter Jr.",
-		"team": "Denver Nuggets",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Denver Nuggets",
 		"height": 208,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Michael-Porter-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/michael-porter-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 78,
@@ -6072,16 +6159,17 @@
 		"player_id": 88,
 		"first_name": "Aaron",
 		"last_name": "Gordon",
-		"team": "Denver Nuggets",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Interior Finisher",
+		"nba_team": "Denver Nuggets",
 		"height": 203,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Gordon-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/aaron-gordon",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 73,
@@ -6142,15 +6230,16 @@
 		"player_id": 89,
 		"first_name": "DeMarcus",
 		"last_name": "Cousins",
-		"team": "Denver Nuggets",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Denver Nuggets",
 		"height": 208,
 		"weight": 122,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/DeMarcus-Cousins-Nuggets-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/demarcus-cousins",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 73,
@@ -6211,16 +6300,17 @@
 		"player_id": 90,
 		"first_name": "Nah'Shon",
 		"last_name": "Hyland",
-		"team": "Denver Nuggets",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Denver Nuggets",
 		"height": 188,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/NahShon-Hyland-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nahshon-hyland",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 80,
@@ -6281,16 +6371,17 @@
 		"player_id": 91,
 		"first_name": "Zeke",
 		"last_name": "Nnaji",
-		"team": "Denver Nuggets",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Denver Nuggets",
 		"height": 206,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Zeke-Nnaji-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/zeke-nnaji",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 75,
@@ -6351,16 +6442,17 @@
 		"player_id": 92,
 		"first_name": "Bruce",
 		"last_name": "Brown Jr.",
-		"team": "Denver Nuggets",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Well-Rounded Wing",
+		"nba_team": "Denver Nuggets",
 		"height": 193,
 		"weight": 91,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Bruce-Brown-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/bruce-brown-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 75,
@@ -6421,16 +6513,17 @@
 		"player_id": 93,
 		"first_name": "Jeff",
 		"last_name": "Green",
-		"team": "Denver Nuggets",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Denver Nuggets",
 		"height": 203,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jeff-Green-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jeff-green",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 72,
@@ -6491,16 +6584,17 @@
 		"player_id": 94,
 		"first_name": "Kentavious",
 		"last_name": "Caldwell-Pope",
-		"team": "Denver Nuggets",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "2-Way Mid-Range Shooter",
+		"nba_team": "Denver Nuggets",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kentavious-Caldwell-Pope-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kentavious-caldwell-pope",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 81,
@@ -6561,15 +6655,16 @@
 		"player_id": 95,
 		"first_name": "Ish",
 		"last_name": "Smith",
-		"team": "Denver Nuggets",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Mid-Range Playmaker",
+		"nba_team": "Denver Nuggets",
 		"height": 183,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ish-Smith-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/ish-smith",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 71,
@@ -6630,15 +6725,16 @@
 		"player_id": 96,
 		"first_name": "Facundo",
 		"last_name": "Campazzo",
-		"team": "Denver Nuggets",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Denver Nuggets",
 		"height": 178,
 		"weight": null,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Facundo-Campazzo-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/facundo-campazzo",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 70,
@@ -6699,16 +6795,17 @@
 		"player_id": 97,
 		"first_name": "Cade",
 		"last_name": "Cunningham",
-		"team": "Detroit Pistons",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Detroit Pistons",
 		"height": 198,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cade-Cunningham-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cade-cunningham",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 84,
@@ -6769,16 +6866,17 @@
 		"player_id": 98,
 		"first_name": "Saddiq",
 		"last_name": "Bey",
-		"team": "Detroit Pistons",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Detroit Pistons",
 		"height": 201,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Saddiq-Bey-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/saddiq-bey",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 84,
@@ -6839,16 +6937,17 @@
 		"player_id": 99,
 		"first_name": "Hamidou",
 		"last_name": "Diallo",
-		"team": "Detroit Pistons",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Detroit Pistons",
 		"height": 196,
 		"weight": 89,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Hamidou-Diallo-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/hamidou-diallo",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 82,
@@ -6909,15 +7008,16 @@
 		"player_id": 100,
 		"first_name": "Kemba",
 		"last_name": "Walker",
-		"team": "Detroit Pistons",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Offense Initiator",
+		"nba_team": "Detroit Pistons",
 		"height": 183,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kemba-Walker-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kemba-walker",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 75,
@@ -6978,16 +7078,17 @@
 		"player_id": 101,
 		"first_name": "Marvin",
 		"last_name": "Bagley III",
-		"team": "Detroit Pistons",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Finisher",
+		"nba_team": "Detroit Pistons",
 		"height": 211,
 		"weight": 105,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Marvin-Bagley-III-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/marvin-bagley-iii",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 64,
@@ -7048,16 +7149,17 @@
 		"player_id": 102,
 		"first_name": "Alec",
 		"last_name": "Burks",
-		"team": "Detroit Pistons",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Detroit Pistons",
 		"height": 198,
 		"weight": 96,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Alec-Burks-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/alec-burks",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 82,
@@ -7118,16 +7220,17 @@
 		"player_id": 103,
 		"first_name": "Kelly",
 		"last_name": "Olynyk",
-		"team": "Detroit Pistons",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Detroit Pistons",
 		"height": 211,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kelly-Olynyk-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kelly-olynyk",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 78,
@@ -7188,16 +7291,17 @@
 		"player_id": 104,
 		"first_name": "Isaiah",
 		"last_name": "Stewart",
-		"team": "Detroit Pistons",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Detroit Pistons",
 		"height": 203,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Stewart-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/isaiah-stewart",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 73,
@@ -7258,15 +7362,16 @@
 		"player_id": 105,
 		"first_name": "Nerlens",
 		"last_name": "Noel",
-		"team": "Detroit Pistons",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Detroit Pistons",
 		"height": 211,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nerlens-Noel-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nerlens-noel",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 55,
@@ -7327,15 +7432,16 @@
 		"player_id": 106,
 		"first_name": "Saben",
 		"last_name": "Lee",
-		"team": "Detroit Pistons",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Detroit Pistons",
 		"height": 188,
 		"weight": 82,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Saben-Lee-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/saben-lee",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 75,
@@ -7396,16 +7502,17 @@
 		"player_id": 107,
 		"first_name": "Luka",
 		"last_name": "Garza",
-		"team": "Detroit Pistons",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Rebounder",
+		"nba_team": "Detroit Pistons",
 		"height": 208,
 		"weight": 109,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Luka-Garza-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/luka-garza",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 78,
@@ -7466,16 +7573,17 @@
 		"player_id": 108,
 		"first_name": "Cory",
 		"last_name": "Joseph",
-		"team": "Detroit Pistons",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Detroit Pistons",
 		"height": 191,
 		"weight": 87,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cory-Joseph-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cory-joseph",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 77,
@@ -7536,16 +7644,17 @@
 		"player_id": 109,
 		"first_name": "Stephen",
 		"last_name": "Curry",
-		"team": "Golden State Warriors",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Golden State Warriors",
 		"height": 191,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Stephen-Curry-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/stephen-curry",
+		"team_id": null,
 		"stats": {
 			"Overall": 96,
 			"Outside Scoring": 95,
@@ -7606,16 +7715,17 @@
 		"player_id": 110,
 		"first_name": "Klay",
 		"last_name": "Thompson",
-		"team": "Golden State Warriors",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "3 & D Off Guard",
+		"nba_team": "Golden State Warriors",
 		"height": 198,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Klay-Thompson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/klay-thompson",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 83,
@@ -7676,16 +7786,17 @@
 		"player_id": 111,
 		"first_name": "Andrew",
 		"last_name": "Wiggins",
-		"team": "Golden State Warriors",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Golden State Warriors",
 		"height": 201,
 		"weight": 87,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Andrew-Wiggins-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/andrew-wiggins",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 85,
@@ -7746,16 +7857,17 @@
 		"player_id": 112,
 		"first_name": "Draymond",
 		"last_name": "Green",
-		"team": "Golden State Warriors",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Golden State Warriors",
 		"height": 198,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Draymond-Green-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/draymond-green",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 62,
@@ -7816,16 +7928,17 @@
 		"player_id": 113,
 		"first_name": "Jordan",
 		"last_name": "Poole",
-		"team": "Golden State Warriors",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Slashing Shot Creator",
+		"nba_team": "Golden State Warriors",
 		"height": 193,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Poole-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jordan-poole",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 91,
@@ -7886,16 +7999,17 @@
 		"player_id": 114,
 		"first_name": "Jonathan",
 		"last_name": "Kuminga",
-		"team": "Golden State Warriors",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Golden State Warriors",
 		"height": 201,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jonathan-Kuminga-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jonathan-kuminga",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 75,
@@ -7956,16 +8070,17 @@
 		"player_id": 115,
 		"first_name": "James",
 		"last_name": "Wiseman",
-		"team": "Golden State Warriors",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Golden State Warriors",
 		"height": 213,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/James-Wiseman-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/james-wiseman",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 78,
@@ -8026,15 +8141,16 @@
 		"player_id": 116,
 		"first_name": "Kevon",
 		"last_name": "Looney",
-		"team": "Golden State Warriors",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Golden State Warriors",
 		"height": 206,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kevon-Looney-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kevon-looney",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 71,
@@ -8095,16 +8211,17 @@
 		"player_id": 117,
 		"first_name": "Donte",
 		"last_name": "DiVincenzo",
-		"team": "Golden State Warriors",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Golden State Warriors",
 		"height": 193,
 		"weight": 91,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Donte-DiVincenzo-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/donte-divincenzo",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 69,
@@ -8165,16 +8282,17 @@
 		"player_id": 118,
 		"first_name": "JaMychal",
 		"last_name": "Green",
-		"team": "Golden State Warriors",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Golden State Warriors",
 		"height": 203,
 		"weight": 102,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/JaMychal-Green-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jamychal-green",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 77,
@@ -8235,16 +8353,17 @@
 		"player_id": 119,
 		"first_name": "Andre",
 		"last_name": "Iguodala",
-		"team": "Golden State Warriors",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Golden State Warriors",
 		"height": 198,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Andre-Iguodala-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/andre-iguodala",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 57,
@@ -8305,16 +8424,17 @@
 		"player_id": 120,
 		"first_name": "Moses",
 		"last_name": "Moody",
-		"team": "Golden State Warriors",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "2-Way Balanced Scorer",
+		"nba_team": "Golden State Warriors",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Moses-Moody-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/moses-moody",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 76,
@@ -8375,16 +8495,17 @@
 		"player_id": 121,
 		"first_name": "Jalen",
 		"last_name": "Green",
-		"team": "Houston Rockets",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Houston Rockets",
 		"height": 193,
 		"weight": 81,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Green-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jalen-green",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 79,
@@ -8445,16 +8566,17 @@
 		"player_id": 122,
 		"first_name": "Alperen",
 		"last_name": "Sengun",
-		"team": "Houston Rockets",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Houston Rockets",
 		"height": 208,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Alperen-Sengun-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/alperen-sengun",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 71,
@@ -8515,16 +8637,17 @@
 		"player_id": 123,
 		"first_name": "Kevin",
 		"last_name": "Porter Jr.",
-		"team": "Houston Rockets",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Houston Rockets",
 		"height": 193,
 		"weight": 96,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Porter-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kevin-porter-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 75,
@@ -8585,16 +8708,17 @@
 		"player_id": 124,
 		"first_name": "Jae'Sean",
 		"last_name": "Tate",
-		"team": "Houston Rockets",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Houston Rockets",
 		"height": 193,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/JaeSean-Tate-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jaesean-tate",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 81,
@@ -8655,16 +8779,17 @@
 		"player_id": 125,
 		"first_name": "Kenyon",
 		"last_name": "Martin Jr.",
-		"team": "Houston Rockets",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "3PT Shot Creator",
+		"nba_team": "Houston Rockets",
 		"height": 196,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/KJ-Martin-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kenyon-martin-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 77,
@@ -8725,16 +8850,17 @@
 		"player_id": 126,
 		"first_name": "Dennis",
 		"last_name": "Schroder",
-		"team": "Houston Rockets",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Houston Rockets",
 		"height": 185,
 		"weight": 77,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Dennis-Schroder-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/dennis-schroder",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -8795,16 +8921,17 @@
 		"player_id": 127,
 		"first_name": "Josh",
 		"last_name": "Christopher",
-		"team": "Houston Rockets",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Houston Rockets",
 		"height": 191,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Josh-Christopher-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/josh-christopher",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -8865,16 +8992,17 @@
 		"player_id": 128,
 		"first_name": "Eric",
 		"last_name": "Gordon",
-		"team": "Houston Rockets",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Houston Rockets",
 		"height": 191,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Eric-Gordon-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/eric-gordon",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 72,
@@ -8935,16 +9063,17 @@
 		"player_id": 129,
 		"first_name": "David",
 		"last_name": "Nwaba",
-		"team": "Houston Rockets",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Houston Rockets",
 		"height": 196,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/David-Nwaba-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/david-nwaba",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 64,
@@ -9005,16 +9134,17 @@
 		"player_id": 130,
 		"first_name": "Marquese",
 		"last_name": "Chriss",
-		"team": "Houston Rockets",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Houston Rockets",
 		"height": 206,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Marquese-Chriss-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/marquese-chriss",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 70,
@@ -9075,16 +9205,17 @@
 		"player_id": 131,
 		"first_name": "Garrison",
 		"last_name": "Mathews",
-		"team": "Houston Rockets",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Houston Rockets",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Garrison-Mathews-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/garrison-mathews",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 79,
@@ -9145,15 +9276,16 @@
 		"player_id": 132,
 		"first_name": "Boban",
 		"last_name": "Marjanovic",
-		"team": "Houston Rockets",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Houston Rockets",
 		"height": 224,
 		"weight": 131,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Boban-Marjanovic-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/boban-marjanovic",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 71,
@@ -9214,16 +9346,17 @@
 		"player_id": 133,
 		"first_name": "Tyrese",
 		"last_name": "Haliburton",
-		"team": "Indiana Pacers",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Playmaking Shot Creator",
+		"nba_team": "Indiana Pacers",
 		"height": 196,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tyrese-Haliburton-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/tyrese-haliburton",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 87,
@@ -9284,15 +9417,16 @@
 		"player_id": 134,
 		"first_name": "Myles",
 		"last_name": "Turner",
-		"team": "Indiana Pacers",
 		"positions": [
 			"C"
 		],
 		"archetype": "2-Way Stretch Five",
+		"nba_team": "Indiana Pacers",
 		"height": 211,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Myles-Turner-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/myles-turner",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 77,
@@ -9353,16 +9487,17 @@
 		"player_id": 135,
 		"first_name": "Buddy",
 		"last_name": "Hield",
-		"team": "Indiana Pacers",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Sharpshooter",
+		"nba_team": "Indiana Pacers",
 		"height": 193,
 		"weight": 96,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Buddy-Hield-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/buddy-hield",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 85,
@@ -9423,16 +9558,17 @@
 		"player_id": 136,
 		"first_name": "Jalen",
 		"last_name": "Smith",
-		"team": "Indiana Pacers",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Indiana Pacers",
 		"height": 208,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Smith-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/jalen-smith",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 74,
@@ -9493,16 +9629,17 @@
 		"player_id": 137,
 		"first_name": "Isaiah",
 		"last_name": "Jackson",
-		"team": "Indiana Pacers",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Indiana Pacers",
 		"height": 208,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Jackson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/isaiah-jackson",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 68,
@@ -9563,16 +9700,17 @@
 		"player_id": 138,
 		"first_name": "Chris",
 		"last_name": "Duarte",
-		"team": "Indiana Pacers",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Indiana Pacers",
 		"height": 196,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Chris-Duarte-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/chris-duarte",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 83,
@@ -9633,15 +9771,16 @@
 		"player_id": 139,
 		"first_name": "T.J.",
 		"last_name": "McConnell",
-		"team": "Indiana Pacers",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way Pass-First Point",
+		"nba_team": "Indiana Pacers",
 		"height": 185,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/T.J.-McConnell-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tj-mcconnell",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 78,
@@ -9702,15 +9841,16 @@
 		"player_id": 140,
 		"first_name": "Goga",
 		"last_name": "Bitadze",
-		"team": "Indiana Pacers",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Indiana Pacers",
 		"height": 211,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Goga-Bitadze-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/goga-bitadze",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 71,
@@ -9771,16 +9911,17 @@
 		"player_id": 141,
 		"first_name": "Oshae",
 		"last_name": "Brissett",
-		"team": "Indiana Pacers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Rebounder",
+		"nba_team": "Indiana Pacers",
 		"height": 201,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Oshae-Brissett-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/oshae-brissett",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 76,
@@ -9841,16 +9982,17 @@
 		"player_id": 142,
 		"first_name": "Daniel",
 		"last_name": "Theis",
-		"team": "Indiana Pacers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Indiana Pacers",
 		"height": 206,
 		"weight": 109,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Daniel-Theis-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/daniel-theis",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 68,
@@ -9911,16 +10053,17 @@
 		"player_id": 143,
 		"first_name": "Terry",
 		"last_name": "Taylor",
-		"team": "Indiana Pacers",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Indiana Pacers",
 		"height": 196,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Terry-Taylor-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/terry-taylor",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 64,
@@ -9981,16 +10124,17 @@
 		"player_id": 144,
 		"first_name": "Aaron",
 		"last_name": "Nesmith",
-		"team": "Indiana Pacers",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Prospect",
+		"nba_team": "Indiana Pacers",
 		"height": 196,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Nesmith-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/aaron-nesmith",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 75,
@@ -10051,16 +10195,17 @@
 		"player_id": 145,
 		"first_name": "Kawhi",
 		"last_name": "Leonard",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "2-Way Scoring Machine",
+		"nba_team": "Los Angeles Clippers",
 		"height": 201,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kawhi-Leonard-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kawhi-leonard",
+		"team_id": null,
 		"stats": {
 			"Overall": 95,
 			"Outside Scoring": 93,
@@ -10121,16 +10266,17 @@
 		"player_id": 146,
 		"first_name": "Paul",
 		"last_name": "George",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "2-Way Scoring Machine",
+		"nba_team": "Los Angeles Clippers",
 		"height": 203,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Paul-George-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/paul-george",
+		"team_id": null,
 		"stats": {
 			"Overall": 88,
 			"Outside Scoring": 85,
@@ -10191,15 +10337,16 @@
 		"player_id": 147,
 		"first_name": "John",
 		"last_name": "Wall",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Los Angeles Clippers",
 		"height": 191,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/John-Wall-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/john-wall",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 76,
@@ -10260,16 +10407,17 @@
 		"player_id": 148,
 		"first_name": "Norman",
 		"last_name": "Powell",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Sharpshooter",
+		"nba_team": "Los Angeles Clippers",
 		"height": 191,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Norman-Powell-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/norman-powell",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 87,
@@ -10330,16 +10478,17 @@
 		"player_id": 149,
 		"first_name": "Marcus",
 		"last_name": "Morris Sr.",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Los Angeles Clippers",
 		"height": 203,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Morris-Sr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/marcus-morris-sr",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 79,
@@ -10400,15 +10549,16 @@
 		"player_id": 150,
 		"first_name": "Ivica",
 		"last_name": "Zubac",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Los Angeles Clippers",
 		"height": 213,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ivica-Zubac-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/ivica-zubac",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 69,
@@ -10469,16 +10619,17 @@
 		"player_id": 151,
 		"first_name": "Reggie",
 		"last_name": "Jackson",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offense Initiator",
+		"nba_team": "Los Angeles Clippers",
 		"height": 188,
 		"weight": 94,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Reggie-Jackson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/reggie-jackson",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 76,
@@ -10539,16 +10690,17 @@
 		"player_id": 152,
 		"first_name": "Luke",
 		"last_name": "Kennard",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Los Angeles Clippers",
 		"height": 196,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Luke-Kennard-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/luke-kennard",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 86,
@@ -10609,16 +10761,17 @@
 		"player_id": 153,
 		"first_name": "Terance",
 		"last_name": "Mann",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "3PT Playmaker",
+		"nba_team": "Los Angeles Clippers",
 		"height": 196,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Terance-Mann-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/terance-mann",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 83,
@@ -10679,16 +10832,17 @@
 		"player_id": 154,
 		"first_name": "Nicolas",
 		"last_name": "Batum",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Los Angeles Clippers",
 		"height": 203,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nicolas-Batum-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nicolas-batum",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 76,
@@ -10749,16 +10903,17 @@
 		"player_id": 155,
 		"first_name": "Robert",
 		"last_name": "Covington",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Los Angeles Clippers",
 		"height": 201,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Robert-Covington-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/robert-covington",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 63,
@@ -10819,16 +10974,17 @@
 		"player_id": 156,
 		"first_name": "Amir",
 		"last_name": "Coffey",
-		"team": "Los Angeles Clippers",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Floor-Spacing Slasher",
+		"nba_team": "Los Angeles Clippers",
 		"height": 201,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Amir-Coffey-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/amir-coffey",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 80,
@@ -10889,16 +11045,17 @@
 		"player_id": 157,
 		"first_name": "LeBron",
 		"last_name": "James",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"SF",
 			"PG"
 		],
 		"archetype": "2-Way Slashing Playmaker",
+		"nba_team": "Los Angeles Lakers",
 		"height": 206,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/LeBron-James-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/lebron-james",
+		"team_id": null,
 		"stats": {
 			"Overall": 96,
 			"Outside Scoring": 87,
@@ -10959,16 +11116,17 @@
 		"player_id": 158,
 		"first_name": "Anthony",
 		"last_name": "Davis",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Interior Force",
+		"nba_team": "Los Angeles Lakers",
 		"height": 208,
 		"weight": 114,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Anthony-Davis-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/anthony-davis",
+		"team_id": null,
 		"stats": {
 			"Overall": 92,
 			"Outside Scoring": 79,
@@ -11029,16 +11187,17 @@
 		"player_id": 159,
 		"first_name": "Carmelo",
 		"last_name": "Anthony",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Los Angeles Lakers",
 		"height": 201,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Carmelo-Anthony-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/carmelo-anthony",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 84,
@@ -11099,16 +11258,17 @@
 		"player_id": 160,
 		"first_name": "Thomas",
 		"last_name": "Bryant",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Finisher",
+		"nba_team": "Los Angeles Lakers",
 		"height": 208,
 		"weight": 112,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Thomas-Bryant-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/thomas-bryant",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 83,
@@ -11169,16 +11329,17 @@
 		"player_id": 161,
 		"first_name": "Russell",
 		"last_name": "Westbrook",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offense Initiator",
+		"nba_team": "Los Angeles Lakers",
 		"height": 191,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Russell-Westbrook-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/russell-westbrook",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 59,
@@ -11239,16 +11400,17 @@
 		"player_id": 162,
 		"first_name": "Kendrick",
 		"last_name": "Nunn",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Slashing Shot Creator",
+		"nba_team": "Los Angeles Lakers",
 		"height": 188,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kendrick-Nunn-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kendrick-nunn",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 87,
@@ -11309,16 +11471,17 @@
 		"player_id": 163,
 		"first_name": "Lonnie",
 		"last_name": "Walker IV",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Los Angeles Lakers",
 		"height": 193,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Lonnie-Walker-IV-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/lonnie-walker-iv",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 77,
@@ -11379,16 +11542,17 @@
 		"player_id": 164,
 		"first_name": "Talen",
 		"last_name": "Horton-Tucker",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Pass-First Wing",
+		"nba_team": "Los Angeles Lakers",
 		"height": 193,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Talen-Horton-Tucker-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/talen-horton-tucker",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 78,
@@ -11449,15 +11613,16 @@
 		"player_id": 165,
 		"first_name": "Austin",
 		"last_name": "Reaves",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"SG"
 		],
 		"archetype": "Mid-Range Shot Creator",
+		"nba_team": "Los Angeles Lakers",
 		"height": 196,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Austin-Reaves-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/austin-reaves",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 82,
@@ -11518,16 +11683,17 @@
 		"player_id": 166,
 		"first_name": "Stanley",
 		"last_name": "Johnson",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Los Angeles Lakers",
 		"height": 198,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Stanley-Johnson-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/stanley-johnson",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 77,
@@ -11588,16 +11754,17 @@
 		"player_id": 167,
 		"first_name": "Juan",
 		"last_name": "Toscano-Anderson",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Los Angeles Lakers",
 		"height": 198,
 		"weight": 94,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Juan-Toscano-Anderson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/juan-toscano-anderson",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 76,
@@ -11658,16 +11825,17 @@
 		"player_id": 168,
 		"first_name": "Mason",
 		"last_name": "Jones",
-		"team": "Los Angeles Lakers",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Sharpshooter",
+		"nba_team": "Los Angeles Lakers",
 		"height": 193,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Mason-Jones-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/mason-jones",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 76,
@@ -11728,15 +11896,16 @@
 		"player_id": 169,
 		"first_name": "Ja",
 		"last_name": "Morant",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Memphis Grizzlies",
 		"height": 191,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ja-Morant-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/ja-morant",
+		"team_id": null,
 		"stats": {
 			"Overall": 93,
 			"Outside Scoring": 89,
@@ -11797,16 +11966,17 @@
 		"player_id": 170,
 		"first_name": "Jaren",
 		"last_name": "Jackson Jr.",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "2-Way Inside-the-Arc Scorer",
+		"nba_team": "Memphis Grizzlies",
 		"height": 211,
 		"weight": 109,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaren-Jackson-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jaren-jackson-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 84,
 			"Outside Scoring": 84,
@@ -11867,16 +12037,17 @@
 		"player_id": 171,
 		"first_name": "Desmond",
 		"last_name": "Bane",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Sharpshooter",
+		"nba_team": "Memphis Grizzlies",
 		"height": 196,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Desmond-Bane-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/desmond-bane",
+		"team_id": null,
 		"stats": {
 			"Overall": 84,
 			"Outside Scoring": 90,
@@ -11937,15 +12108,16 @@
 		"player_id": 172,
 		"first_name": "Steven",
 		"last_name": "Adams",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Memphis Grizzlies",
 		"height": 211,
 		"weight": 119,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Steven-Adams-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/steven-adams",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 56,
@@ -12006,16 +12178,17 @@
 		"player_id": 173,
 		"first_name": "Dillon",
 		"last_name": "Brooks",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Memphis Grizzlies",
 		"height": 201,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Dillon-Brooks-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dillon-brooks",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 82,
@@ -12076,15 +12249,16 @@
 		"player_id": 174,
 		"first_name": "Tyus",
 		"last_name": "Jones",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Mid-Range Facilitator",
+		"nba_team": "Memphis Grizzlies",
 		"height": 183,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tyus-Jones-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tyus-jones",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 91,
@@ -12145,16 +12319,17 @@
 		"player_id": 175,
 		"first_name": "Brandon",
 		"last_name": "Clarke",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Memphis Grizzlies",
 		"height": 203,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Clarke-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/brandon-clarke",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 63,
@@ -12215,16 +12390,17 @@
 		"player_id": 176,
 		"first_name": "Xavier",
 		"last_name": "Tillman",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Memphis Grizzlies",
 		"height": 203,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Xavier-Tillman-Sr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/xavier-tillman",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 71,
@@ -12285,16 +12461,17 @@
 		"player_id": 177,
 		"first_name": "John",
 		"last_name": "Konchar",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Memphis Grizzlies",
 		"height": 196,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/John-Konchar-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/john-konchar",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 84,
@@ -12355,16 +12532,17 @@
 		"player_id": 178,
 		"first_name": "Ziaire",
 		"last_name": "Williams",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Inside the Arc Scorer",
+		"nba_team": "Memphis Grizzlies",
 		"height": 206,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ziaire-Williams-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/ziaire-williams",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 70,
@@ -12425,16 +12603,17 @@
 		"player_id": 179,
 		"first_name": "Danny",
 		"last_name": "Green",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Memphis Grizzlies",
 		"height": 198,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Danny-Green-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/danny-green",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 69,
@@ -12495,16 +12674,17 @@
 		"player_id": 180,
 		"first_name": "Santi",
 		"last_name": "Aldama",
-		"team": "Memphis Grizzlies",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Memphis Grizzlies",
 		"height": 211,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Santi-Aldama-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/santi-aldama",
+		"team_id": null,
 		"stats": {
 			"Overall": 70,
 			"Outside Scoring": 67,
@@ -12565,16 +12745,17 @@
 		"player_id": 181,
 		"first_name": "Jimmy",
 		"last_name": "Butler",
-		"team": "Miami Heat",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "2-Way Slashing Playmaker",
+		"nba_team": "Miami Heat",
 		"height": 201,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jimmy-Butler-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jimmy-butler",
+		"team_id": null,
 		"stats": {
 			"Overall": 92,
 			"Outside Scoring": 87,
@@ -12635,15 +12816,16 @@
 		"player_id": 182,
 		"first_name": "Bam",
 		"last_name": "Adebayo",
-		"team": "Miami Heat",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Miami Heat",
 		"height": 206,
 		"weight": 115,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Bam-Adebayo-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/bam-adebayo",
+		"team_id": null,
 		"stats": {
 			"Overall": 87,
 			"Outside Scoring": 74,
@@ -12704,16 +12886,17 @@
 		"player_id": 183,
 		"first_name": "Tyler",
 		"last_name": "Herro",
-		"team": "Miami Heat",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "3-Level Scorer",
+		"nba_team": "Miami Heat",
 		"height": 196,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tyler-Herro-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tyler-herro",
+		"team_id": null,
 		"stats": {
 			"Overall": 85,
 			"Outside Scoring": 90,
@@ -12774,15 +12957,16 @@
 		"player_id": 184,
 		"first_name": "Kyle",
 		"last_name": "Lowry",
-		"team": "Miami Heat",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Miami Heat",
 		"height": 183,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Lowry-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kyle-lowry",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 80,
@@ -12843,15 +13027,16 @@
 		"player_id": 185,
 		"first_name": "Omer",
 		"last_name": "Yurtseven",
-		"team": "Miami Heat",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Miami Heat",
 		"height": 211,
 		"weight": 124,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Omer-Yurtseven-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/omer-yurtseven",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 73,
@@ -12912,16 +13097,17 @@
 		"player_id": 186,
 		"first_name": "Caleb",
 		"last_name": "Martin",
-		"team": "Miami Heat",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "2-Way Stretch Four",
+		"nba_team": "Miami Heat",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Caleb-Martin-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/caleb-martin",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 79,
@@ -12982,16 +13168,17 @@
 		"player_id": 187,
 		"first_name": "Victor",
 		"last_name": "Oladipo",
-		"team": "Miami Heat",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Miami Heat",
 		"height": 193,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Victor-Oladipo-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/victor-oladipo",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 74,
@@ -13052,15 +13239,16 @@
 		"player_id": 188,
 		"first_name": "Dewayne",
 		"last_name": "Dedmon",
-		"team": "Miami Heat",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Miami Heat",
 		"height": 213,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Dewayne-Dedmon-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dewayne-dedmon",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 74,
@@ -13121,16 +13309,17 @@
 		"player_id": 189,
 		"first_name": "Duncan",
 		"last_name": "Robinson",
-		"team": "Miami Heat",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Miami Heat",
 		"height": 201,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Duncan-Robinson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/duncan-robinson",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 77,
@@ -13191,16 +13380,17 @@
 		"player_id": 190,
 		"first_name": "Max",
 		"last_name": "Strus",
-		"team": "Miami Heat",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Miami Heat",
 		"height": 196,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Max-Strus-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/max-strus",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 82,
@@ -13261,16 +13451,17 @@
 		"player_id": 191,
 		"first_name": "Gabe",
 		"last_name": "Vincent",
-		"team": "Miami Heat",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Playmaking Shot Creator",
+		"nba_team": "Miami Heat",
 		"height": 191,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Gabe-Vincent-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/gabe-vincent",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 87,
@@ -13331,16 +13522,17 @@
 		"player_id": 192,
 		"first_name": "Markieff",
 		"last_name": "Morris",
-		"team": "Miami Heat",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Interior Big",
+		"nba_team": "Miami Heat",
 		"height": 206,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Markieff-Morris-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/markieff-morris",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 68,
@@ -13401,16 +13593,17 @@
 		"player_id": 193,
 		"first_name": "Giannis",
 		"last_name": "Antetokounmpo",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "2-Way Slashing Playmaker",
+		"nba_team": "Milwaukee Bucks",
 		"height": 211,
 		"weight": 109,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Giannis-Antetokounmpo-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/giannis-antetokounmpo",
+		"team_id": null,
 		"stats": {
 			"Overall": 97,
 			"Outside Scoring": 84,
@@ -13471,16 +13664,17 @@
 		"player_id": 194,
 		"first_name": "Khris",
 		"last_name": "Middleton",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "2-Way Mid-Range Scorer",
+		"nba_team": "Milwaukee Bucks",
 		"height": 201,
 		"weight": 100,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Khris-Middleton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/khris-middleton",
+		"team_id": null,
 		"stats": {
 			"Overall": 86,
 			"Outside Scoring": 83,
@@ -13541,16 +13735,17 @@
 		"player_id": 195,
 		"first_name": "Jrue",
 		"last_name": "Holiday",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "2-Way Shot Creator",
+		"nba_team": "Milwaukee Bucks",
 		"height": 191,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jrue-Holiday-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jrue-holiday",
+		"team_id": null,
 		"stats": {
 			"Overall": 85,
 			"Outside Scoring": 85,
@@ -13611,16 +13806,17 @@
 		"player_id": 196,
 		"first_name": "Bobby",
 		"last_name": "Portis",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "2-Way Stretch Glass Cleaner",
+		"nba_team": "Milwaukee Bucks",
 		"height": 208,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Bobby-Portis-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/bobby-portis",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 86,
@@ -13681,15 +13877,16 @@
 		"player_id": 197,
 		"first_name": "Brook",
 		"last_name": "Lopez",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"C"
 		],
 		"archetype": "2-Way Inside-the-Arc Scorer",
+		"nba_team": "Milwaukee Bucks",
 		"height": 213,
 		"weight": 122,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Brook-Lopez-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/brook-lopez",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 76,
@@ -13750,16 +13947,17 @@
 		"player_id": 198,
 		"first_name": "Pat",
 		"last_name": "Connaughton",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Milwaukee Bucks",
 		"height": 196,
 		"weight": 94,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Pat-Connaughton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/pat-connaughton",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 84,
@@ -13820,16 +14018,17 @@
 		"player_id": 199,
 		"first_name": "Serge",
 		"last_name": "Ibaka",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Milwaukee Bucks",
 		"height": 208,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Serge-Ibaka-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/serge-ibaka",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 70,
@@ -13890,16 +14089,17 @@
 		"player_id": 200,
 		"first_name": "Joe",
 		"last_name": "Ingles",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Milwaukee Bucks",
 		"height": 203,
 		"weight": 102,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Joe-Ingles-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/joe-ingles",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 76,
@@ -13960,15 +14160,16 @@
 		"player_id": 201,
 		"first_name": "Grayson",
 		"last_name": "Allen",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"SG"
 		],
 		"archetype": "3PT Specialist",
+		"nba_team": "Milwaukee Bucks",
 		"height": 193,
 		"weight": 89,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Grayson-Allen-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/grayson-allen",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 84,
@@ -14029,16 +14230,17 @@
 		"player_id": 202,
 		"first_name": "Jevon",
 		"last_name": "Carter",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "3PT Shot Creator",
+		"nba_team": "Milwaukee Bucks",
 		"height": 185,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jevon-Carter-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/jevon-carter",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 74,
@@ -14099,16 +14301,17 @@
 		"player_id": 203,
 		"first_name": "George",
 		"last_name": "Hill",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offense Initiator",
+		"nba_team": "Milwaukee Bucks",
 		"height": 193,
 		"weight": 85,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/George-Hill-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/george-hill",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 73,
@@ -14169,16 +14372,17 @@
 		"player_id": 204,
 		"first_name": "Jordan",
 		"last_name": "Nwora",
-		"team": "Milwaukee Bucks",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Milwaukee Bucks",
 		"height": 203,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Nwora-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jordan-nwora",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 77,
@@ -14239,15 +14443,16 @@
 		"player_id": 205,
 		"first_name": "Karl-Anthony",
 		"last_name": "Towns",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"C"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 211,
 		"weight": 112,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Karl-Anthony-Towns-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/karl-anthony-towns",
+		"team_id": null,
 		"stats": {
 			"Overall": 89,
 			"Outside Scoring": 87,
@@ -14308,15 +14513,16 @@
 		"player_id": 206,
 		"first_name": "Rudy",
 		"last_name": "Gobert",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 216,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Rudy-Gobert-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/rudy-gobert",
+		"team_id": null,
 		"stats": {
 			"Overall": 88,
 			"Outside Scoring": 69,
@@ -14377,16 +14583,17 @@
 		"player_id": 207,
 		"first_name": "Anthony",
 		"last_name": "Edwards",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Anthony-Edwards-2K-Rating.png",
 		"player_url": "https://www.2kratings.com/anthony-edwards",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 81,
@@ -14447,16 +14654,17 @@
 		"player_id": 208,
 		"first_name": "D'Angelo",
 		"last_name": "Russell",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
 		"weight": 89,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/DAngelo-Russell-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dangelo-russell",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 79,
@@ -14517,16 +14725,17 @@
 		"player_id": 209,
 		"first_name": "Kyle",
 		"last_name": "Anderson",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Perimeter Defender",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kyle-anderson",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 76,
@@ -14587,16 +14796,17 @@
 		"player_id": 210,
 		"first_name": "Naz",
 		"last_name": "Reid",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
 		"weight": 115,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Naz-Reid-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/naz-reid",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 75,
@@ -14657,16 +14867,17 @@
 		"player_id": 211,
 		"first_name": "Jaden",
 		"last_name": "McDaniels",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-McDaniels-2K-Rating-300x219.png",
 		"player_url": "https://www.2kratings.com/jaden-mcdaniels",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 77,
@@ -14727,16 +14938,17 @@
 		"player_id": 212,
 		"first_name": "Eric",
 		"last_name": "Paschall",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 198,
 		"weight": 114,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Eric-Paschall-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/eric-paschall",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -14797,16 +15009,17 @@
 		"player_id": 213,
 		"first_name": "Jaylen",
 		"last_name": "Nowell",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
 		"weight": 91,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaylen-Nowell-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jaylen-nowell",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 86,
@@ -14867,16 +15080,17 @@
 		"player_id": 214,
 		"first_name": "Taurean",
 		"last_name": "Prince",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 201,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Taurean-Prince-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/taurean-prince",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -14937,16 +15151,17 @@
 		"player_id": 215,
 		"first_name": "Jordan",
 		"last_name": "McLaughlin",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Pass-First Point",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 180,
 		"weight": 77,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jordan-McLaughlin-2K-Rating.png",
 		"player_url": "https://www.2kratings.com/jordan-mclaughlin",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 78,
@@ -15007,16 +15222,17 @@
 		"player_id": 216,
 		"first_name": "Austin",
 		"last_name": "Rivers",
-		"team": "Minnesota Timberwolves",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Offense Initiator",
+		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Austin-Rivers-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/austin-rivers",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 70,
@@ -15077,16 +15293,17 @@
 		"player_id": 217,
 		"first_name": "Zion",
 		"last_name": "Williamson",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Slashing Four",
+		"nba_team": "New Orleans Pelicans",
 		"height": 198,
 		"weight": 128,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Zion-Williamson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/zion-williamson",
+		"team_id": null,
 		"stats": {
 			"Overall": 89,
 			"Outside Scoring": 81,
@@ -15147,16 +15364,17 @@
 		"player_id": 218,
 		"first_name": "C.J.",
 		"last_name": "McCollum",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Scoring Machine",
+		"nba_team": "New Orleans Pelicans",
 		"height": 191,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/C.J.-McCollum-Pelicans-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cj-mccollum",
+		"team_id": null,
 		"stats": {
 			"Overall": 87,
 			"Outside Scoring": 90,
@@ -15217,16 +15435,17 @@
 		"player_id": 219,
 		"first_name": "Brandon",
 		"last_name": "Ingram",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "New Orleans Pelicans",
 		"height": 203,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Ingram-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/brandon-ingram",
+		"team_id": null,
 		"stats": {
 			"Overall": 85,
 			"Outside Scoring": 89,
@@ -15287,15 +15506,16 @@
 		"player_id": 220,
 		"first_name": "Jonas",
 		"last_name": "Valanciunas",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Finisher",
+		"nba_team": "New Orleans Pelicans",
 		"height": 211,
 		"weight": 119,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jonas-Valanciunas-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jonas-valanciunas",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 77,
@@ -15356,16 +15576,17 @@
 		"player_id": 221,
 		"first_name": "Herbert",
 		"last_name": "Jones",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "New Orleans Pelicans",
 		"height": 201,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Herbert-Jones-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/herbert-jones",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 80,
@@ -15426,16 +15647,17 @@
 		"player_id": 222,
 		"first_name": "Larry",
 		"last_name": "Nance Jr.",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Finisher",
+		"nba_team": "New Orleans Pelicans",
 		"height": 201,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Larry-Nance-Jr.-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/larry-nance-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 78,
@@ -15496,15 +15718,16 @@
 		"player_id": 223,
 		"first_name": "Jaxson",
 		"last_name": "Hayes",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "New Orleans Pelicans",
 		"height": 211,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaxson-Hayes-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jaxson-hayes",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 75,
@@ -15565,15 +15788,16 @@
 		"player_id": 224,
 		"first_name": "Jose",
 		"last_name": "Alvarado",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "New Orleans Pelicans",
 		"height": 183,
 		"weight": 81,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jose-Alvarado-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jose-alvarado",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 77,
@@ -15634,16 +15858,17 @@
 		"player_id": 225,
 		"first_name": "Trey",
 		"last_name": "Murphy",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "New Orleans Pelicans",
 		"height": 203,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Trey-Murphy-III-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/trey-murphy",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 72,
@@ -15704,16 +15929,17 @@
 		"player_id": 226,
 		"first_name": "Devonte'",
 		"last_name": "Graham",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "New Orleans Pelicans",
 		"height": 185,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Devonte-Graham-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/devonte-graham",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 74,
@@ -15774,15 +16000,16 @@
 		"player_id": 227,
 		"first_name": "Willy",
 		"last_name": "Hernangomez",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "New Orleans Pelicans",
 		"height": 211,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Willy-Hernangomez-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/willy-hernangomez",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 74,
@@ -15843,16 +16070,17 @@
 		"player_id": 228,
 		"first_name": "Naji",
 		"last_name": "Marshall",
-		"team": "New Orleans Pelicans",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Finisher",
+		"nba_team": "New Orleans Pelicans",
 		"height": 201,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Naji-Marshall-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/naji-marshall",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 73,
@@ -15913,16 +16141,17 @@
 		"player_id": 229,
 		"first_name": "R.J.",
 		"last_name": "Barrett",
-		"team": "New York Knicks",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Slasher",
+		"nba_team": "New York Knicks",
 		"height": 198,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/RJ-Barrett-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/rj-barrett",
+		"team_id": null,
 		"stats": {
 			"Overall": 85,
 			"Outside Scoring": 84,
@@ -15983,16 +16212,17 @@
 		"player_id": 230,
 		"first_name": "Derrick",
 		"last_name": "Rose",
-		"team": "New York Knicks",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Inside-Out Playmaker",
+		"nba_team": "New York Knicks",
 		"height": 188,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Rose-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/derrick-rose",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 86,
@@ -16053,16 +16283,17 @@
 		"player_id": 231,
 		"first_name": "Julius",
 		"last_name": "Randle",
-		"team": "New York Knicks",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Well-Rounded Four",
+		"nba_team": "New York Knicks",
 		"height": 203,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Julius-Randle-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/julius-randle",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 75,
@@ -16123,15 +16354,16 @@
 		"player_id": 232,
 		"first_name": "Mitchell",
 		"last_name": "Robinson",
-		"team": "New York Knicks",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "New York Knicks",
 		"height": 213,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Mitchell-Robinson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/mitchell-robinson",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 69,
@@ -16192,15 +16424,16 @@
 		"player_id": 233,
 		"first_name": "Jalen",
 		"last_name": "Brunson",
-		"team": "New York Knicks",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Mid-Range Playmaker",
+		"nba_team": "New York Knicks",
 		"height": 185,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Brunson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jalen-brunson",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 86,
@@ -16261,16 +16494,17 @@
 		"player_id": 234,
 		"first_name": "Immanuel",
 		"last_name": "Quickley",
-		"team": "New York Knicks",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Pass-First Guard",
+		"nba_team": "New York Knicks",
 		"height": 191,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Immanuel-Quickley-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/immanuel-quickley",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 82,
@@ -16331,16 +16565,17 @@
 		"player_id": 235,
 		"first_name": "Obi",
 		"last_name": "Toppin",
-		"team": "New York Knicks",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Lob Threat",
+		"nba_team": "New York Knicks",
 		"height": 206,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Obi-Toppin-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/obi-toppin",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 71,
@@ -16401,16 +16636,17 @@
 		"player_id": 236,
 		"first_name": "Cam",
 		"last_name": "Reddish",
-		"team": "New York Knicks",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "New York Knicks",
 		"height": 203,
 		"weight": 94,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cam-Reddish-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/cameron-reddish",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 78,
@@ -16471,16 +16707,17 @@
 		"player_id": 237,
 		"first_name": "Evan",
 		"last_name": "Fournier",
-		"team": "New York Knicks",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "New York Knicks",
 		"height": 201,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Evan-Fournier-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/evan-fournier",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 82,
@@ -16541,15 +16778,16 @@
 		"player_id": 238,
 		"first_name": "Isaiah",
 		"last_name": "Hartenstein",
-		"team": "New York Knicks",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "New York Knicks",
 		"height": 213,
 		"weight": 112,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Hartenstein-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/isaiah-hartenstein",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 73,
@@ -16610,16 +16848,17 @@
 		"player_id": 239,
 		"first_name": "Quentin",
 		"last_name": "Grimes",
-		"team": "New York Knicks",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "New York Knicks",
 		"height": 193,
 		"weight": 91,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Quentin-Grimes-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/quentin-grimes",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 70,
@@ -16680,16 +16919,17 @@
 		"player_id": 240,
 		"first_name": "Miles",
 		"last_name": "McBride",
-		"team": "New York Knicks",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Mid-Range Shot Creator",
+		"nba_team": "New York Knicks",
 		"height": 185,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Miles-McBride-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/miles-mcbride",
+		"team_id": null,
 		"stats": {
 			"Overall": 71,
 			"Outside Scoring": 68,
@@ -16750,16 +16990,17 @@
 		"player_id": 241,
 		"first_name": "Shai",
 		"last_name": "Gilgeous-Alexander",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
 		"weight": 81,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Shai-Gilgeous-Alexander-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/shai-gilgeous-alexander",
+		"team_id": null,
 		"stats": {
 			"Overall": 88,
 			"Outside Scoring": 87,
@@ -16820,16 +17061,17 @@
 		"player_id": 242,
 		"first_name": "Josh",
 		"last_name": "Giddey",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Pass-First Guard",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Josh-Giddey-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/josh-giddey",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 82,
@@ -16890,16 +17132,17 @@
 		"player_id": 243,
 		"first_name": "Luguentz",
 		"last_name": "Dort",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 191,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Luguentz-Dort-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/luguentz-dort",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 79,
@@ -16960,16 +17203,17 @@
 		"player_id": 244,
 		"first_name": "Tre",
 		"last_name": "Mann",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offensive-Minded Guard",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 191,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tre-Mann-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tre-mann",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 83,
@@ -17030,15 +17274,16 @@
 		"player_id": 245,
 		"first_name": "Darius",
 		"last_name": "Bazley",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"PF"
 		],
 		"archetype": "Finisher",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
 		"weight": 94,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Darius-Bazley-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/darius-bazley",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 77,
@@ -17099,16 +17344,17 @@
 		"player_id": 246,
 		"first_name": "Aleksej",
 		"last_name": "Pokusevski",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 213,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Aleksej-Pokusevski-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/aleksej-pokusevski",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -17169,16 +17415,17 @@
 		"player_id": 247,
 		"first_name": "Derrick",
 		"last_name": "Favors",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Mid-Range Specialist",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 206,
 		"weight": 119,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/derrick-favors",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 69,
@@ -17239,16 +17486,17 @@
 		"player_id": 248,
 		"first_name": "Kenrich",
 		"last_name": "Williams",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"SF",
 			"PG"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kenrich-Williams-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kenrich-williams",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 75,
@@ -17309,16 +17557,17 @@
 		"player_id": 249,
 		"first_name": "Mike",
 		"last_name": "Muscala",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Stretch Five",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 208,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Mike-Muscala-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/mike-muscala",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 83,
@@ -17379,16 +17628,17 @@
 		"player_id": 250,
 		"first_name": "Theo",
 		"last_name": "Maledon",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 193,
 		"weight": 81,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Theo-Maledon-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/theo-maledon",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 77,
@@ -17449,15 +17699,16 @@
 		"player_id": 251,
 		"first_name": "Jeremiah",
 		"last_name": "Robinson-Earl",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"PF"
 		],
 		"archetype": "Stretch Five",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jeremiah-Robinson-Earl-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jeremiah-robinson-earl",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 73,
@@ -17518,16 +17769,17 @@
 		"player_id": 252,
 		"first_name": "Aaron",
 		"last_name": "Wiggins",
-		"team": "Oklahoma City Thunder",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Finesse Finisher",
+		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Aaron-Wiggins-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/aaron-wiggins",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 78,
@@ -17588,15 +17840,16 @@
 		"player_id": 253,
 		"first_name": "Wendell",
 		"last_name": "Carter Jr.",
-		"team": "Orlando Magic",
 		"positions": [
 			"C"
 		],
 		"archetype": "2-Way Inside-the-Arc Scorer",
+		"nba_team": "Orlando Magic",
 		"height": 208,
 		"weight": 115,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Wendell-Carter-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/wendell-carter-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 83,
@@ -17657,15 +17910,16 @@
 		"player_id": 254,
 		"first_name": "Mohamed",
 		"last_name": "Bamba",
-		"team": "Orlando Magic",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Orlando Magic",
 		"height": 213,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Mo-Bamba-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/mohamed-bamba",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 78,
@@ -17726,16 +17980,17 @@
 		"player_id": 255,
 		"first_name": "Jonathan",
 		"last_name": "Isaac",
-		"team": "Orlando Magic",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Orlando Magic",
 		"height": 211,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jonathan-Isaac-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jonathan-isaac",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 63,
@@ -17796,16 +18051,17 @@
 		"player_id": 256,
 		"first_name": "Franz",
 		"last_name": "Wagner",
-		"team": "Orlando Magic",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Orlando Magic",
 		"height": 208,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Franz-Wagner-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/franz-wagner",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 83,
@@ -17866,16 +18122,17 @@
 		"player_id": 257,
 		"first_name": "Cole",
 		"last_name": "Anthony",
-		"team": "Orlando Magic",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Orlando Magic",
 		"height": 191,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cole-Anthony-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cole-anthony",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 84,
@@ -17936,16 +18193,17 @@
 		"player_id": 258,
 		"first_name": "Markelle",
 		"last_name": "Fultz",
-		"team": "Orlando Magic",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Orlando Magic",
 		"height": 191,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Markelle-Fultz-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/markelle-fultz",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 74,
@@ -18006,16 +18264,17 @@
 		"player_id": 259,
 		"first_name": "Jalen",
 		"last_name": "Suggs",
-		"team": "Orlando Magic",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Orlando Magic",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Suggs-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jalen-suggs",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 69,
@@ -18076,16 +18335,17 @@
 		"player_id": 260,
 		"first_name": "Chuma",
 		"last_name": "Okeke",
-		"team": "Orlando Magic",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Perimeter Defender",
+		"nba_team": "Orlando Magic",
 		"height": 198,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Chuma-Okeke-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/chuma-okeke",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 80,
@@ -18146,16 +18406,17 @@
 		"player_id": 261,
 		"first_name": "Moritz",
 		"last_name": "Wagner",
-		"team": "Orlando Magic",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Stretch Five",
+		"nba_team": "Orlando Magic",
 		"height": 211,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Moritz-Wagner-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/moritz-wagner",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 80,
@@ -18216,16 +18477,17 @@
 		"player_id": 262,
 		"first_name": "Terrence",
 		"last_name": "Ross",
-		"team": "Orlando Magic",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Athletic Finisher",
+		"nba_team": "Orlando Magic",
 		"height": 198,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Terrence-Ross-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/terrence-ross",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 77,
@@ -18286,16 +18548,17 @@
 		"player_id": 263,
 		"first_name": "Gary",
 		"last_name": "Harris",
-		"team": "Orlando Magic",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Orlando Magic",
 		"height": 193,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Gary-Harris-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/gary-harris",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 72,
@@ -18356,16 +18619,17 @@
 		"player_id": 264,
 		"first_name": "R.J.",
 		"last_name": "Hampton",
-		"team": "Orlando Magic",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Orlando Magic",
 		"height": 193,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/R.J.-Hampton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/rj-hampton",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 75,
@@ -18426,15 +18690,16 @@
 		"player_id": 265,
 		"first_name": "Joel",
 		"last_name": "Embiid",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"C"
 		],
 		"archetype": "2-Way 3-Level Scorer",
+		"nba_team": "Philadelphia 76ers",
 		"height": 213,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/joel-embiid",
+		"team_id": null,
 		"stats": {
 			"Overall": 96,
 			"Outside Scoring": 88,
@@ -18495,16 +18760,17 @@
 		"player_id": 266,
 		"first_name": "James",
 		"last_name": "Harden",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Philadelphia 76ers",
 		"height": 196,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/James-Harden-76ers-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/james-harden",
+		"team_id": null,
 		"stats": {
 			"Overall": 92,
 			"Outside Scoring": 85,
@@ -18565,16 +18831,17 @@
 		"player_id": 267,
 		"first_name": "Tyrese",
 		"last_name": "Maxey",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Philadelphia 76ers",
 		"height": 188,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tyrese-Maxey-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tyrese-maxey",
+		"team_id": null,
 		"stats": {
 			"Overall": 84,
 			"Outside Scoring": 89,
@@ -18635,16 +18902,17 @@
 		"player_id": 268,
 		"first_name": "Tobias",
 		"last_name": "Harris",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Philadelphia 76ers",
 		"height": 203,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tobias-Harris-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tobias-harris",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 85,
@@ -18705,16 +18973,17 @@
 		"player_id": 269,
 		"first_name": "De'Anthony",
 		"last_name": "Melton",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Philadelphia 76ers",
 		"height": 188,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/DeAnthony-Melton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/deanthony-melton",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 83,
@@ -18775,16 +19044,17 @@
 		"player_id": 270,
 		"first_name": "Matisse",
 		"last_name": "Thybulle",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Philadelphia 76ers",
 		"height": 196,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Matisse-Thybulle-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/matisse-thybulle",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 59,
@@ -18845,16 +19115,17 @@
 		"player_id": 271,
 		"first_name": "P.J.",
 		"last_name": "Tucker",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Philadelphia 76ers",
 		"height": 196,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/P.J.-Tucker-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/pj-tucker",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -18915,16 +19186,17 @@
 		"player_id": 272,
 		"first_name": "Paul",
 		"last_name": "Millsap",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Philadelphia 76ers",
 		"height": 201,
 		"weight": 111,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Paul-Millsap-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/paul-millsap",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 61,
@@ -18985,16 +19257,17 @@
 		"player_id": 273,
 		"first_name": "Shake",
 		"last_name": "Milton",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Philadelphia 76ers",
 		"height": 196,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Shake-Milton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/shake-milton",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 80,
@@ -19055,15 +19328,16 @@
 		"player_id": 274,
 		"first_name": "Charles",
 		"last_name": "Bassey",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Philadelphia 76ers",
 		"height": 206,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Charles-Bassey-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/charles-bassey",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 59,
@@ -19124,16 +19398,17 @@
 		"player_id": 275,
 		"first_name": "Furkan",
 		"last_name": "Korkmaz",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Athletic Finisher",
+		"nba_team": "Philadelphia 76ers",
 		"height": 201,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Furkan-Korkmaz-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/furkan-korkmaz",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 76,
@@ -19194,16 +19469,17 @@
 		"player_id": 276,
 		"first_name": "Paul",
 		"last_name": "Reed",
-		"team": "Philadelphia 76ers",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Philadelphia 76ers",
 		"height": 206,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Paul-Reed-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/paul-reed",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 69,
@@ -19264,16 +19540,17 @@
 		"player_id": 277,
 		"first_name": "Devin",
 		"last_name": "Booker",
-		"team": "Phoenix Suns",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Phoenix Suns",
 		"height": 196,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Devin-Booker-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/devin-booker",
+		"team_id": null,
 		"stats": {
 			"Overall": 91,
 			"Outside Scoring": 92,
@@ -19334,15 +19611,16 @@
 		"player_id": 278,
 		"first_name": "Chris",
 		"last_name": "Paul",
-		"team": "Phoenix Suns",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way Slashing Playmaker",
+		"nba_team": "Phoenix Suns",
 		"height": 183,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Chris-Paul-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/chris-paul",
+		"team_id": null,
 		"stats": {
 			"Overall": 90,
 			"Outside Scoring": 85,
@@ -19403,15 +19681,16 @@
 		"player_id": 279,
 		"first_name": "Deandre",
 		"last_name": "Ayton",
-		"team": "Phoenix Suns",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Beast",
+		"nba_team": "Phoenix Suns",
 		"height": 211,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/deandre-ayton",
+		"team_id": null,
 		"stats": {
 			"Overall": 86,
 			"Outside Scoring": 82,
@@ -19472,16 +19751,17 @@
 		"player_id": 280,
 		"first_name": "Mikal",
 		"last_name": "Bridges",
-		"team": "Phoenix Suns",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Phoenix Suns",
 		"height": 198,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Mikal-Bridges-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/mikal-bridges",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 89,
@@ -19542,16 +19822,17 @@
 		"player_id": 281,
 		"first_name": "Cameron",
 		"last_name": "Johnson",
-		"team": "Phoenix Suns",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Phoenix Suns",
 		"height": 203,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cameron-Johnson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cameron-johnson",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 85,
@@ -19612,15 +19893,16 @@
 		"player_id": 282,
 		"first_name": "Cameron",
 		"last_name": "Payne",
-		"team": "Phoenix Suns",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Phoenix Suns",
 		"height": 185,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Cameron-Payne-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/cameron-payne",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 84,
@@ -19681,16 +19963,17 @@
 		"player_id": 283,
 		"first_name": "Dario",
 		"last_name": "Saric",
-		"team": "Phoenix Suns",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Stretch Facilitator",
+		"nba_team": "Phoenix Suns",
 		"height": 208,
 		"weight": 100,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Dario-Saric-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/dario-saric",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 78,
@@ -19751,16 +20034,17 @@
 		"player_id": 284,
 		"first_name": "Jae",
 		"last_name": "Crowder",
-		"team": "Phoenix Suns",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Phoenix Suns",
 		"height": 198,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jae-Crowder-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jae-crowder",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -19821,16 +20105,17 @@
 		"player_id": 285,
 		"first_name": "Landry",
 		"last_name": "Shamet",
-		"team": "Phoenix Suns",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "3PT Shot Creator",
+		"nba_team": "Phoenix Suns",
 		"height": 193,
 		"weight": 85,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Landry-Shamet-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/landry-shamet",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 83,
@@ -19891,16 +20176,17 @@
 		"player_id": 286,
 		"first_name": "Torrey",
 		"last_name": "Craig",
-		"team": "Phoenix Suns",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Phoenix Suns",
 		"height": 201,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Torrey-Craig-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/torrey-craig",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 72,
@@ -19961,16 +20247,17 @@
 		"player_id": 287,
 		"first_name": "Damion",
 		"last_name": "Lee",
-		"team": "Phoenix Suns",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "3PT Shooter",
+		"nba_team": "Phoenix Suns",
 		"height": 196,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Damion-Lee-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/damion-lee",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 81,
@@ -20031,15 +20318,16 @@
 		"player_id": 288,
 		"first_name": "Elfrid",
 		"last_name": "Payton",
-		"team": "Phoenix Suns",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way Tempo Pusher",
+		"nba_team": "Phoenix Suns",
 		"height": 191,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Elfrid-Payton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/elfrid-payton",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 73,
@@ -20100,15 +20388,16 @@
 		"player_id": 289,
 		"first_name": "Damian",
 		"last_name": "Lillard",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Portland Trail Blazers",
 		"height": 188,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Damian-Lillard-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/damian-lillard",
+		"team_id": null,
 		"stats": {
 			"Overall": 90,
 			"Outside Scoring": 87,
@@ -20169,15 +20458,16 @@
 		"player_id": 290,
 		"first_name": "Jusuf",
 		"last_name": "Nurkic",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Portland Trail Blazers",
 		"height": 211,
 		"weight": 124,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jusuf-Nurkic-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jusuf-nurkic",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 80,
@@ -20238,16 +20528,17 @@
 		"player_id": 291,
 		"first_name": "Jerami",
 		"last_name": "Grant",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Slashing Four",
+		"nba_team": "Portland Trail Blazers",
 		"height": 203,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jerami-Grant-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jerami-grant",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 79,
@@ -20308,16 +20599,17 @@
 		"player_id": 292,
 		"first_name": "Anfernee",
 		"last_name": "Simons",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Scoring Machine",
+		"nba_team": "Portland Trail Blazers",
 		"height": 191,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Anfernee-Simons-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/anfernee-simons",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 90,
@@ -20378,16 +20670,17 @@
 		"player_id": 293,
 		"first_name": "Josh",
 		"last_name": "Hart",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Inside-Out Playmaker",
+		"nba_team": "Portland Trail Blazers",
 		"height": 196,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Josh-Hart-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/josh-hart",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 83,
@@ -20448,16 +20741,17 @@
 		"player_id": 294,
 		"first_name": "Gary",
 		"last_name": "Payton II",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Portland Trail Blazers",
 		"height": 191,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Gary-Payton-II-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/gary-payton-ii",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 78,
@@ -20518,16 +20812,17 @@
 		"player_id": 295,
 		"first_name": "Nassir",
 		"last_name": "Little",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Multi-Position Defender",
+		"nba_team": "Portland Trail Blazers",
 		"height": 196,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nassir-Little-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nassir-little",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 77,
@@ -20588,16 +20883,17 @@
 		"player_id": 296,
 		"first_name": "Justise",
 		"last_name": "Winslow",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"SF",
 			"PG"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Portland Trail Blazers",
 		"height": 198,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Justise-Winslow-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/justise-winslow",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 63,
@@ -20658,16 +20954,17 @@
 		"player_id": 297,
 		"first_name": "Trendon",
 		"last_name": "Watford",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Finisher",
+		"nba_team": "Portland Trail Blazers",
 		"height": 203,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Trendon-Watford-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/trendon-watford",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 73,
@@ -20728,16 +21025,17 @@
 		"player_id": 298,
 		"first_name": "Drew",
 		"last_name": "Eubanks",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Portland Trail Blazers",
 		"height": 206,
 		"weight": 110,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Drew-Eubanks-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/drew-eubanks",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 71,
@@ -20798,15 +21096,16 @@
 		"player_id": 299,
 		"first_name": "Brandon",
 		"last_name": "Williams",
-		"team": "Westchester Knicks",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Westchester Knicks",
 		"height": 188,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Brandon-Williams-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/brandon-williams",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 79,
@@ -20867,16 +21166,17 @@
 		"player_id": 300,
 		"first_name": "Ben",
 		"last_name": "McLemore",
-		"team": "Portland Trail Blazers",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Portland Trail Blazers",
 		"height": 191,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Ben-McLemore-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/ben-mclemore",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 77,
@@ -20937,16 +21237,17 @@
 		"player_id": 301,
 		"first_name": "Domantas",
 		"last_name": "Sabonis",
-		"team": "Sacramento Kings",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Post Facilitator",
+		"nba_team": "Sacramento Kings",
 		"height": 211,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Domantas-Sabonis-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/domantas-sabonis",
+		"team_id": null,
 		"stats": {
 			"Overall": 87,
 			"Outside Scoring": 84,
@@ -21007,15 +21308,16 @@
 		"player_id": 302,
 		"first_name": "De'Aaron",
 		"last_name": "Fox",
-		"team": "Sacramento Kings",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Sacramento Kings",
 		"height": 191,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/DeAaron-Fox-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/deaaron-fox",
+		"team_id": null,
 		"stats": {
 			"Overall": 84,
 			"Outside Scoring": 81,
@@ -21076,16 +21378,17 @@
 		"player_id": 303,
 		"first_name": "Harrison",
 		"last_name": "Barnes",
-		"team": "Sacramento Kings",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Sacramento Kings",
 		"height": 203,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Harrison-Barnes-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/harrison-barnes",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 81,
@@ -21146,16 +21449,17 @@
 		"player_id": 304,
 		"first_name": "Malik",
 		"last_name": "Monk",
-		"team": "Sacramento Kings",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Inside-Out Playmaker",
+		"nba_team": "Sacramento Kings",
 		"height": 191,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Malik-Monk-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/malik-monk",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 84,
@@ -21216,16 +21520,17 @@
 		"player_id": 305,
 		"first_name": "Terence",
 		"last_name": "Davis",
-		"team": "Sacramento Kings",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Sacramento Kings",
 		"height": 193,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Terence-Davis-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/terence-davis",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 81,
@@ -21286,15 +21591,16 @@
 		"player_id": 306,
 		"first_name": "Davion",
 		"last_name": "Mitchell",
-		"team": "Sacramento Kings",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Sacramento Kings",
 		"height": 183,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Davion-Mitchell-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/davion-mitchell",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 69,
@@ -21355,15 +21661,16 @@
 		"player_id": 307,
 		"first_name": "Richaun",
 		"last_name": "Holmes",
-		"team": "Sacramento Kings",
 		"positions": [
 			"C"
 		],
 		"archetype": "Stretch Five",
+		"nba_team": "Sacramento Kings",
 		"height": 208,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Richaun-Holmes-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/richaun-holmes",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 74,
@@ -21424,16 +21731,17 @@
 		"player_id": 308,
 		"first_name": "Kevin",
 		"last_name": "Huerter",
-		"team": "Sacramento Kings",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shot Creator",
+		"nba_team": "Sacramento Kings",
 		"height": 201,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kevin-Huerter-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kevin-huerter",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 85,
@@ -21494,16 +21802,17 @@
 		"player_id": 309,
 		"first_name": "Trey",
 		"last_name": "Lyles",
-		"team": "Sacramento Kings",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Sacramento Kings",
 		"height": 206,
 		"weight": 105,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Trey-Lyles-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/trey-lyles",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 80,
@@ -21564,15 +21873,16 @@
 		"player_id": 310,
 		"first_name": "Alex",
 		"last_name": "Len",
-		"team": "Sacramento Kings",
 		"positions": [
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Sacramento Kings",
 		"height": 213,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Alex-Len-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/alex-len",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 75,
@@ -21633,16 +21943,17 @@
 		"player_id": 311,
 		"first_name": "Chimezie",
 		"last_name": "Metu",
-		"team": "Sacramento Kings",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Sacramento Kings",
 		"height": 206,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Chimezie-Metu-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/chimezie-metu",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 76,
@@ -21703,15 +22014,16 @@
 		"player_id": 312,
 		"first_name": "Quinn",
 		"last_name": "Cook",
-		"team": "Sacramento Kings",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Offensive-Minded Point",
+		"nba_team": "Sacramento Kings",
 		"height": 185,
 		"weight": 81,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Quinn-Cook-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/quinn-cook",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 77,
@@ -21772,16 +22084,17 @@
 		"player_id": 313,
 		"first_name": "Keldon",
 		"last_name": "Johnson",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "San Antonio Spurs",
 		"height": 198,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Keldon-Johnson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/keldon-johnson",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 81,
@@ -21842,15 +22155,16 @@
 		"player_id": 314,
 		"first_name": "Jakob",
 		"last_name": "Poeltl",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "San Antonio Spurs",
 		"height": 216,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jakob-Poeltl-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jakob-poeltl",
+		"team_id": null,
 		"stats": {
 			"Overall": 80,
 			"Outside Scoring": 71,
@@ -21911,16 +22225,17 @@
 		"player_id": 315,
 		"first_name": "Isaiah",
 		"last_name": "Roby",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Stretch Five",
+		"nba_team": "San Antonio Spurs",
 		"height": 203,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Isaiah-Roby-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/isaiah-roby",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 81,
@@ -21981,16 +22296,17 @@
 		"player_id": 316,
 		"first_name": "Devin",
 		"last_name": "Vassell",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "San Antonio Spurs",
 		"height": 196,
 		"weight": null,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Devin-Vassell-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/devin-vassell",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 82,
@@ -22051,16 +22367,17 @@
 		"player_id": 317,
 		"first_name": "Josh",
 		"last_name": "Richardson",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "3 & D Wing",
+		"nba_team": "San Antonio Spurs",
 		"height": 196,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Josh-Richardson-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/josh-richardson",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 78,
@@ -22121,16 +22438,17 @@
 		"player_id": 318,
 		"first_name": "Zach",
 		"last_name": "Collins",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "San Antonio Spurs",
 		"height": 211,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Zach-Collins-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/zach-collins",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 66,
@@ -22191,15 +22509,16 @@
 		"player_id": 319,
 		"first_name": "Gorgui",
 		"last_name": "Dieng",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "San Antonio Spurs",
 		"height": 208,
 		"weight": 113,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Gorgui-Dieng-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/gorgui-dieng",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 72,
@@ -22260,16 +22579,17 @@
 		"player_id": 320,
 		"first_name": "Keita",
 		"last_name": "Bates-Diop",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "San Antonio Spurs",
 		"height": 203,
 		"weight": 103,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Keita-Bates-Diop-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/keita-bates-diop",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 73,
@@ -22330,15 +22650,16 @@
 		"player_id": 321,
 		"first_name": "Tre",
 		"last_name": "Jones",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Mid-Range Specialist",
+		"nba_team": "San Antonio Spurs",
 		"height": 185,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Tre-Jones-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/tre-jones",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 76,
@@ -22399,16 +22720,17 @@
 		"player_id": 322,
 		"first_name": "Doug",
 		"last_name": "McDermott",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "San Antonio Spurs",
 		"height": 201,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Doug-McDermott-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/doug-mcdermott",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 79,
@@ -22469,16 +22791,17 @@
 		"player_id": 323,
 		"first_name": "Joshua",
 		"last_name": "Primo",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Mid-Range Shooter",
+		"nba_team": "San Antonio Spurs",
 		"height": 193,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Joshua-Primo-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/joshua-primo",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 78,
@@ -22539,16 +22862,17 @@
 		"player_id": 324,
 		"first_name": "Alize",
 		"last_name": "Johnson",
-		"team": "San Antonio Spurs",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "San Antonio Spurs",
 		"height": 203,
 		"weight": 95,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Alize-Johnson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/alize-johnson",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 64,
@@ -22609,16 +22933,17 @@
 		"player_id": 325,
 		"first_name": "Pascal",
 		"last_name": "Siakam",
-		"team": "Toronto Raptors",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Skilled Paint Defender",
+		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Pascal-Siakam-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/pascal-siakam",
+		"team_id": null,
 		"stats": {
 			"Overall": 87,
 			"Outside Scoring": 86,
@@ -22679,16 +23004,17 @@
 		"player_id": 326,
 		"first_name": "Fred",
 		"last_name": "VanVleet",
-		"team": "Toronto Raptors",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "2-Way Playmaker",
+		"nba_team": "Toronto Raptors",
 		"height": 185,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Fred-VanVleet-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/fred-vanvleet",
+		"team_id": null,
 		"stats": {
 			"Overall": 83,
 			"Outside Scoring": 87,
@@ -22749,16 +23075,17 @@
 		"player_id": 327,
 		"first_name": "Scottie",
 		"last_name": "Barnes",
-		"team": "Toronto Raptors",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Well-Rounded Four",
+		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Scottie-Barnes-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/scottie-barnes",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 79,
@@ -22819,16 +23146,17 @@
 		"player_id": 328,
 		"first_name": "OG",
 		"last_name": "Anunoby",
-		"team": "Toronto Raptors",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Toronto Raptors",
 		"height": 201,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/OG-Anunoby-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/og-anunoby",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 79,
@@ -22889,16 +23217,17 @@
 		"player_id": 329,
 		"first_name": "Gary",
 		"last_name": "Trent Jr.",
-		"team": "Toronto Raptors",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Offensive-Minded Guard",
+		"nba_team": "Toronto Raptors",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Gary-Trent-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/gary-trent-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 86,
@@ -22959,16 +23288,17 @@
 		"player_id": 330,
 		"first_name": "Chris",
 		"last_name": "Boucher",
-		"team": "Toronto Raptors",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Toronto Raptors",
 		"height": 206,
 		"weight": 90,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Chris-Boucher-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/chris-boucher",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 65,
@@ -23029,16 +23359,17 @@
 		"player_id": 331,
 		"first_name": "Precious",
 		"last_name": "Achiuwa",
-		"team": "Toronto Raptors",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 105,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Precious-Achiuwa-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/precious-achiuwa",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 71,
@@ -23099,16 +23430,17 @@
 		"player_id": 332,
 		"first_name": "Otto",
 		"last_name": "Porter Jr.",
-		"team": "Toronto Raptors",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "2-Way Shot Creator",
+		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 89,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Otto-Porter-Jr.-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/otto-porter-jr",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 80,
@@ -23169,16 +23501,17 @@
 		"player_id": 333,
 		"first_name": "Khem",
 		"last_name": "Birch",
-		"team": "Toronto Raptors",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Toronto Raptors",
 		"height": 206,
 		"weight": 105,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Khem-Birch-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/khem-birch",
+		"team_id": null,
 		"stats": {
 			"Overall": 76,
 			"Outside Scoring": 69,
@@ -23239,16 +23572,17 @@
 		"player_id": 334,
 		"first_name": "Thaddeus",
 		"last_name": "Young",
-		"team": "Toronto Raptors",
 		"positions": [
 			"PF",
 			"C"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Thaddeus-Young-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/thaddeus-young",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 54,
@@ -23309,16 +23643,17 @@
 		"player_id": 335,
 		"first_name": "Sviatoslav",
 		"last_name": "Mykhailiuk",
-		"team": "Toronto Raptors",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Toronto Raptors",
 		"height": 201,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Svi-Mykhailiuk-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/sviatoslav-mykhailiuk",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 79,
@@ -23379,15 +23714,16 @@
 		"player_id": 336,
 		"first_name": "Malachi",
 		"last_name": "Flynn",
-		"team": "Toronto Raptors",
 		"positions": [
 			"PG"
 		],
 		"archetype": "Mid-Interior Playmaker",
+		"nba_team": "Toronto Raptors",
 		"height": 185,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Malachi-Flynn-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/malachi-flynn",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 82,
@@ -23448,16 +23784,17 @@
 		"player_id": 337,
 		"first_name": "Donovan",
 		"last_name": "Mitchell",
-		"team": "Utah Jazz",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Utah Jazz",
 		"height": 185,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Donovan-Mitchell-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/donovan-mitchell",
+		"team_id": null,
 		"stats": {
 			"Overall": 87,
 			"Outside Scoring": 91,
@@ -23518,15 +23855,16 @@
 		"player_id": 338,
 		"first_name": "Mike",
 		"last_name": "Conley",
-		"team": "Utah Jazz",
 		"positions": [
 			"PG"
 		],
 		"archetype": "2-Way 3PT Playmaker",
+		"nba_team": "Utah Jazz",
 		"height": 185,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Mike-Conley-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/mike-conley",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 81,
@@ -23587,16 +23925,17 @@
 		"player_id": 339,
 		"first_name": "Bojan",
 		"last_name": "Bogdanovic",
-		"team": "Utah Jazz",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Stretch Four",
+		"nba_team": "Utah Jazz",
 		"height": 201,
 		"weight": 97,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Bojan-Bogdanovic-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/bojan-bogdanovic",
+		"team_id": null,
 		"stats": {
 			"Overall": 81,
 			"Outside Scoring": 85,
@@ -23657,16 +23996,17 @@
 		"player_id": 340,
 		"first_name": "Patrick",
 		"last_name": "Beverley",
-		"team": "Utah Jazz",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Perimeter Lockdown",
+		"nba_team": "Utah Jazz",
 		"height": 185,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Patrick-Beverley-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/patrick-beverley",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 68,
@@ -23727,16 +24067,17 @@
 		"player_id": 341,
 		"first_name": "Jarred",
 		"last_name": "Vanderbilt",
-		"team": "Utah Jazz",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Utah Jazz",
 		"height": 206,
 		"weight": 96,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jarred-Vanderbilt-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jarred-vanderbilt",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 64,
@@ -23797,16 +24138,17 @@
 		"player_id": 342,
 		"first_name": "Malik",
 		"last_name": "Beasley",
-		"team": "Utah Jazz",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "3PT Shot Creator",
+		"nba_team": "Utah Jazz",
 		"height": 193,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Malik-Beasley-2K-Rating-300x219.png",
 		"player_url": "https://www.2kratings.com/malik-beasley",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 77,
@@ -23867,16 +24209,17 @@
 		"player_id": 343,
 		"first_name": "Jordan",
 		"last_name": "Clarkson",
-		"team": "Utah Jazz",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Slasher",
+		"nba_team": "Utah Jazz",
 		"height": 193,
 		"weight": 87,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jordan-Clarkson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jordan-clarkson",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 78,
@@ -23937,16 +24280,17 @@
 		"player_id": 344,
 		"first_name": "Rudy",
 		"last_name": "Gay",
-		"team": "Utah Jazz",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "3PT Shot Creator",
+		"nba_team": "Utah Jazz",
 		"height": 203,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Rudy-Gay-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/rudy-gay",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 75,
@@ -24007,16 +24351,17 @@
 		"player_id": 345,
 		"first_name": "Jared",
 		"last_name": "Butler",
-		"team": "Utah Jazz",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Offense Initiator",
+		"nba_team": "Utah Jazz",
 		"height": 191,
 		"weight": 88,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Jared-Butler-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/jared-butler",
+		"team_id": null,
 		"stats": {
 			"Overall": 74,
 			"Outside Scoring": 77,
@@ -24077,16 +24422,17 @@
 		"player_id": 346,
 		"first_name": "Nickeil",
 		"last_name": "Alexander-Walker",
-		"team": "Utah Jazz",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Slashing Playmaker",
+		"nba_team": "Utah Jazz",
 		"height": 196,
 		"weight": 92,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Nickeil-Alexander-Walker-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/nickeil-alexander-walker",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 76,
@@ -24147,15 +24493,16 @@
 		"player_id": 347,
 		"first_name": "Udoka",
 		"last_name": "Azubuike",
-		"team": "Utah Jazz",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass-Cleaning Lockdown",
+		"nba_team": "Utah Jazz",
 		"height": 213,
 		"weight": 122,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Udoka-Azubuike-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/udoka-azubuike",
+		"team_id": null,
 		"stats": {
 			"Overall": 73,
 			"Outside Scoring": 39,
@@ -24216,15 +24563,16 @@
 		"player_id": 348,
 		"first_name": "Leandro",
 		"last_name": "Bolmaro",
-		"team": "Utah Jazz",
 		"positions": [
 			"SG"
 		],
 		"archetype": "Tempo-Pushing Wing",
+		"nba_team": "Utah Jazz",
 		"height": 198,
 		"weight": 83,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Leandro-Bolmaro-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/leandro-bolmaro",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 69,
@@ -24285,16 +24633,17 @@
 		"player_id": 349,
 		"first_name": "Bradley",
 		"last_name": "Beal",
-		"team": "Washington Wizards",
 		"positions": [
 			"SG",
 			"PG"
 		],
 		"archetype": "Offensive Threat",
+		"nba_team": "Washington Wizards",
 		"height": 193,
 		"weight": 93,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Bradley-Beal-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/bradley-beal",
+		"team_id": null,
 		"stats": {
 			"Overall": 87,
 			"Outside Scoring": 87,
@@ -24355,16 +24704,17 @@
 		"player_id": 350,
 		"first_name": "Kristaps",
 		"last_name": "Porzingis",
-		"team": "Washington Wizards",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Interior Force",
+		"nba_team": "Washington Wizards",
 		"height": 221,
 		"weight": 108,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kristaps-Porzingis-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/kristaps-porzingis",
+		"team_id": null,
 		"stats": {
 			"Overall": 86,
 			"Outside Scoring": 82,
@@ -24425,16 +24775,17 @@
 		"player_id": 351,
 		"first_name": "Kyle",
 		"last_name": "Kuzma",
-		"team": "Washington Wizards",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Inside-Out Playmaker",
+		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Kuzma-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/kyle-kuzma",
+		"team_id": null,
 		"stats": {
 			"Overall": 82,
 			"Outside Scoring": 84,
@@ -24495,16 +24846,17 @@
 		"player_id": 352,
 		"first_name": "Monte",
 		"last_name": "Morris",
-		"team": "Washington Wizards",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaking Shot Creator",
+		"nba_team": "Washington Wizards",
 		"height": 188,
 		"weight": 79,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Monte-Morris-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/monte-morris",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 86,
@@ -24565,15 +24917,16 @@
 		"player_id": 353,
 		"first_name": "Daniel",
 		"last_name": "Gafford",
-		"team": "Washington Wizards",
 		"positions": [
 			"C"
 		],
 		"archetype": "Glass Cleaner",
+		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 107,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Daniel-Gafford-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/daniel-gafford",
+		"team_id": null,
 		"stats": {
 			"Overall": 79,
 			"Outside Scoring": 71,
@@ -24634,16 +24987,17 @@
 		"player_id": 354,
 		"first_name": "Deni",
 		"last_name": "Avdija",
-		"team": "Washington Wizards",
 		"positions": [
 			"SF",
 			"PF"
 		],
 		"archetype": "Tempo-Pushing Wing",
+		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 101,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Deni-Avdija-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/deni-avdija",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 73,
@@ -24704,16 +25058,17 @@
 		"player_id": 355,
 		"first_name": "Will",
 		"last_name": "Barton",
-		"team": "Washington Wizards",
 		"positions": [
 			"SG",
 			"SF"
 		],
 		"archetype": "Inside-Out Playmaker",
+		"nba_team": "Washington Wizards",
 		"height": 196,
 		"weight": 86,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Will-Barton-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/will-barton",
+		"team_id": null,
 		"stats": {
 			"Overall": 78,
 			"Outside Scoring": 83,
@@ -24774,16 +25129,17 @@
 		"player_id": 356,
 		"first_name": "Rui",
 		"last_name": "Hachimura",
-		"team": "Washington Wizards",
 		"positions": [
 			"PF",
 			"SF"
 		],
 		"archetype": "Inside-Out Scorer",
+		"nba_team": "Washington Wizards",
 		"height": 203,
 		"weight": 106,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Rui-Hachimura-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/rui-hachimura",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 77,
@@ -24844,16 +25200,17 @@
 		"player_id": 357,
 		"first_name": "Delon",
 		"last_name": "Wright",
-		"team": "Washington Wizards",
 		"positions": [
 			"PG",
 			"SG"
 		],
 		"archetype": "Playmaker",
+		"nba_team": "Washington Wizards",
 		"height": 196,
 		"weight": 82,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Delon-Wright-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/delon-wright",
+		"team_id": null,
 		"stats": {
 			"Overall": 77,
 			"Outside Scoring": 80,
@@ -24914,16 +25271,17 @@
 		"player_id": 358,
 		"first_name": "Corey",
 		"last_name": "Kispert",
-		"team": "Washington Wizards",
 		"positions": [
 			"SF",
 			"SG"
 		],
 		"archetype": "Shooter",
+		"nba_team": "Washington Wizards",
 		"height": 198,
 		"weight": 99,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Corey-Kispert-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/corey-kispert",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 80,
@@ -24984,15 +25342,16 @@
 		"player_id": 359,
 		"first_name": "Taj",
 		"last_name": "Gibson",
-		"team": "Washington Wizards",
 		"positions": [
 			"C"
 		],
 		"archetype": "Finisher",
+		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 104,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Taj-Gibson-2K-Rating-411x300.png",
 		"player_url": "https://www.2kratings.com/taj-gibson",
+		"team_id": null,
 		"stats": {
 			"Overall": 75,
 			"Outside Scoring": 73,
@@ -25053,16 +25412,17 @@
 		"player_id": 360,
 		"first_name": "Vernon",
 		"last_name": "Carey Jr.",
-		"team": "Washington Wizards",
 		"positions": [
 			"C",
 			"PF"
 		],
 		"archetype": "Paint Defender",
+		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 122,
 		"img_url": "https://www.2kratings.com/wp-content/uploads/Vernon-Carey-Jr.-2K-Rating-413x300.png",
 		"player_url": "https://www.2kratings.com/vernon-carey",
+		"team_id": null,
 		"stats": {
 			"Overall": 72,
 			"Outside Scoring": 75,
