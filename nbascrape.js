@@ -180,12 +180,18 @@ puppeteer.launch({ headless: true }).then(async browser => {
                 allPlayersBadges = allPlayersBadges.concat(singleBadge)
             }
 
+            // Add secondary position null if player doesnt have a secondary position
+            if (infoArray[0][3].length < 2) {
+                infoArray[0][3] = infoArray[0][3].concat(null)
+            }
+            
             // Scrape info
             const NBAplayer = {
                 player_id: i * 12 + j + 1,
                 first_name: infoArray[0][0],
                 last_name: infoArray[0][1],
-                positions: infoArray[0][3],
+                primary_position: infoArray[0][3][0],
+                secondary_position: infoArray[0][3][1],
                 archetype: infoArray[0][4],
                 nba_team: infoArray[0][2],
                 height: infoArray[0][5],
@@ -194,15 +200,19 @@ puppeteer.launch({ headless: true }).then(async browser => {
                 player_url: player_urls[j],
                 team_id: null,
                 stats: stats,
-                badge_count: infoArray[0][8],
+                bronze_badges: infoArray[0][8][1],
+                silver_badges: infoArray[0][8][1],
+                gold_badges: infoArray[0][8][1],
+                hof_badges: infoArray[0][8][1],
+                total_badges: infoArray[0][8][1],
             }
 
             allNBAPlayers = allNBAPlayers.concat(NBAplayer)
         }
     }
 
-    // Write to .json
-    require('fs').writeFileSync('./scrape_data/' + today + '-players-database.json', JSON.stringify(allNBAPlayers, null, "\t"),
+    // Write players .json
+    require('fs').writeFileSync('./scrape_data/' + today + '-players.json', JSON.stringify(allNBAPlayers, null, "\t"),
         function (err) {
             if (err) {
                 console.error('Error writing .json file');
@@ -210,8 +220,8 @@ puppeteer.launch({ headless: true }).then(async browser => {
         }
     );
 
-    // Write to bagdes database to .json
-    require('fs').writeFileSync('./scrape_data/' + today +'-badges-database.json', JSON.stringify(badgesDatabase, null, "\t"),
+    // Write bagdes .json
+    require('fs').writeFileSync('./scrape_data/' + today +'-badges.json', JSON.stringify(badgesDatabase, null, "\t"),
         function (err) {
             if (err) {
                 console.error('Error writing .json file');
@@ -219,7 +229,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
         }
     );
 
-    // Write to players badges table to .json
+    // Write players badges table .json
     require('fs').writeFileSync('./scrape_data/' + today + '-players-badges-table.json', JSON.stringify(allPlayersBadges, null, "\t"),
         function (err) {
             if (err) {

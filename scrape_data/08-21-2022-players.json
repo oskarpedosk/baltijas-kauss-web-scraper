@@ -3,9 +3,8 @@
 		"player_id": 1,
 		"first_name": "Trae",
 		"last_name": "Young",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Offensive Threat",
 		"nba_team": "Atlanta Hawks",
 		"height": 185,
@@ -61,21 +60,18 @@
 			"Potential": 94,
 			"Total Attributes": 2623
 		},
-		"badge_count": [
-			2,
-			10,
-			34,
-			0,
-			46
-		]
+		"bronze_badges": 10,
+		"silver_badges": 10,
+		"gold_badges": 10,
+		"hof_badges": 10,
+		"total_badges": 10
 	},
 	{
 		"player_id": 2,
 		"first_name": "Dejounte",
 		"last_name": "Murray",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way Slashing Playmaker",
 		"nba_team": "Atlanta Hawks",
 		"height": 193,
@@ -131,21 +127,18 @@
 			"Potential": 87,
 			"Total Attributes": 2904
 		},
-		"badge_count": [
-			10,
-			21,
-			1,
-			0,
-			32
-		]
+		"bronze_badges": 21,
+		"silver_badges": 21,
+		"gold_badges": 21,
+		"hof_badges": 21,
+		"total_badges": 21
 	},
 	{
 		"player_id": 3,
 		"first_name": "Clint",
 		"last_name": "Capela",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Atlanta Hawks",
 		"height": 208,
@@ -201,22 +194,18 @@
 			"Potential": 86,
 			"Total Attributes": 2609
 		},
-		"badge_count": [
-			1,
-			7,
-			8,
-			0,
-			16
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 4,
 		"first_name": "John",
 		"last_name": "Collins",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Interior Finisher",
 		"nba_team": "Atlanta Hawks",
 		"height": 206,
@@ -272,22 +261,18 @@
 			"Potential": 85,
 			"Total Attributes": 2720
 		},
-		"badge_count": [
-			5,
-			6,
-			6,
-			0,
-			17
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 5,
 		"first_name": "Bogdan",
 		"last_name": "Bogdanovic",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shot Creator",
 		"nba_team": "Atlanta Hawks",
 		"height": 198,
@@ -343,22 +328,18 @@
 			"Potential": 81,
 			"Total Attributes": 2630
 		},
-		"badge_count": [
-			10,
-			5,
-			0,
-			0,
-			15
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 6,
 		"first_name": "Onyeka",
 		"last_name": "Okongwu",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Atlanta Hawks",
 		"height": 203,
@@ -414,22 +395,18 @@
 			"Potential": 82,
 			"Total Attributes": 2592
 		},
-		"badge_count": [
-			5,
-			2,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 7,
 		"first_name": "De'Andre",
 		"last_name": "Hunter",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "3PT Specialist",
 		"nba_team": "Atlanta Hawks",
 		"height": 203,
@@ -485,22 +462,18 @@
 			"Potential": 80,
 			"Total Attributes": 2616
 		},
-		"badge_count": [
-			8,
-			2,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 8,
 		"first_name": "Frank",
 		"last_name": "Kaminsky III",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Atlanta Hawks",
 		"height": 213,
@@ -556,22 +529,18 @@
 			"Potential": 77,
 			"Total Attributes": 2500
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 9,
 		"first_name": "Aaron",
 		"last_name": "Holiday",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "3PT Playmaker",
 		"nba_team": "Atlanta Hawks",
 		"height": 183,
@@ -627,22 +596,18 @@
 			"Potential": 76,
 			"Total Attributes": 2505
 		},
-		"badge_count": [
-			5,
-			0,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 10,
 		"first_name": "Lou",
 		"last_name": "Williams",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Atlanta Hawks",
 		"height": 188,
@@ -698,22 +663,18 @@
 			"Potential": 81,
 			"Total Attributes": 2369
 		},
-		"badge_count": [
-			10,
-			14,
-			6,
-			0,
-			30
-		]
+		"bronze_badges": 14,
+		"silver_badges": 14,
+		"gold_badges": 14,
+		"hof_badges": 14,
+		"total_badges": 14
 	},
 	{
 		"player_id": 11,
 		"first_name": "Jalen",
 		"last_name": "Johnson",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Paint Defender",
 		"nba_team": "Atlanta Hawks",
 		"height": 203,
@@ -769,22 +730,18 @@
 			"Potential": 81,
 			"Total Attributes": 2527
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 12,
 		"first_name": "Skylar",
 		"last_name": "Mays",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Mid-Range Specialist",
 		"nba_team": "Atlanta Hawks",
 		"height": 193,
@@ -840,22 +797,18 @@
 			"Potential": 75,
 			"Total Attributes": 2403
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 13,
 		"first_name": "Jayson",
 		"last_name": "Tatum",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "2-Way Scoring Machine",
 		"nba_team": "Boston Celtics",
 		"height": 203,
@@ -911,22 +864,18 @@
 			"Potential": 96,
 			"Total Attributes": 2983
 		},
-		"badge_count": [
-			13,
-			25,
-			13,
-			0,
-			51
-		]
+		"bronze_badges": 25,
+		"silver_badges": 25,
+		"gold_badges": 25,
+		"hof_badges": 25,
+		"total_badges": 25
 	},
 	{
 		"player_id": 14,
 		"first_name": "Jaylen",
 		"last_name": "Brown",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "2-Way 3-Level Scorer",
 		"nba_team": "Boston Celtics",
 		"height": 198,
@@ -982,22 +931,18 @@
 			"Potential": 90,
 			"Total Attributes": 2890
 		},
-		"badge_count": [
-			16,
-			22,
-			5,
-			0,
-			43
-		]
+		"bronze_badges": 22,
+		"silver_badges": 22,
+		"gold_badges": 22,
+		"hof_badges": 22,
+		"total_badges": 22
 	},
 	{
 		"player_id": 15,
 		"first_name": "Malcolm",
 		"last_name": "Brogdon",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Boston Celtics",
 		"height": 196,
@@ -1053,21 +998,18 @@
 			"Potential": 83,
 			"Total Attributes": 2792
 		},
-		"badge_count": [
-			17,
-			9,
-			0,
-			0,
-			26
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 16,
 		"first_name": "Robert",
 		"last_name": "Williams III",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Boston Celtics",
 		"height": 203,
@@ -1123,22 +1065,18 @@
 			"Potential": 82,
 			"Total Attributes": 2642
 		},
-		"badge_count": [
-			7,
-			4,
-			4,
-			0,
-			15
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 17,
 		"first_name": "Al",
 		"last_name": "Horford",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "2-Way Finisher",
 		"nba_team": "Boston Celtics",
 		"height": 206,
@@ -1194,22 +1132,18 @@
 			"Potential": 80,
 			"Total Attributes": 2715
 		},
-		"badge_count": [
-			13,
-			7,
-			2,
-			0,
-			22
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 18,
 		"first_name": "Derrick",
 		"last_name": "White",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Boston Celtics",
 		"height": 193,
@@ -1265,22 +1199,18 @@
 			"Potential": 79,
 			"Total Attributes": 2715
 		},
-		"badge_count": [
-			6,
-			5,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 19,
 		"first_name": "Marcus",
 		"last_name": "Smart",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Boston Celtics",
 		"height": 191,
@@ -1336,22 +1266,18 @@
 			"Potential": 79,
 			"Total Attributes": 2575
 		},
-		"badge_count": [
-			4,
-			3,
-			10,
-			1,
-			18
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 20,
 		"first_name": "Danilo",
 		"last_name": "Gallinari",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Stretch Four",
 		"nba_team": "Boston Celtics",
 		"height": 208,
@@ -1407,22 +1333,18 @@
 			"Potential": 79,
 			"Total Attributes": 2530
 		},
-		"badge_count": [
-			7,
-			9,
-			0,
-			0,
-			16
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 21,
 		"first_name": "Payton",
 		"last_name": "Pritchard",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Sharpshooter",
 		"nba_team": "Boston Celtics",
 		"height": 185,
@@ -1478,22 +1400,18 @@
 			"Potential": 79,
 			"Total Attributes": 2427
 		},
-		"badge_count": [
-			5,
-			1,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 22,
 		"first_name": "Grant",
 		"last_name": "Williams",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Stretch Four",
 		"nba_team": "Boston Celtics",
 		"height": 198,
@@ -1549,22 +1467,18 @@
 			"Potential": 75,
 			"Total Attributes": 2510
 		},
-		"badge_count": [
-			2,
-			0,
-			1,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 23,
 		"first_name": "Sam",
 		"last_name": "Hauser",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Shooter",
 		"nba_team": "Boston Celtics",
 		"height": 201,
@@ -1620,21 +1534,18 @@
 			"Potential": 73,
 			"Total Attributes": 2234
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 24,
 		"first_name": "Luke",
 		"last_name": "Kornet",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Defender",
 		"nba_team": "Boston Celtics",
 		"height": 218,
@@ -1690,22 +1601,18 @@
 			"Potential": 73,
 			"Total Attributes": 2328
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 25,
 		"first_name": "Kevin",
 		"last_name": "Durant",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Offensive Threat",
 		"nba_team": "Brooklyn Nets",
 		"height": 208,
@@ -1761,22 +1668,18 @@
 			"Potential": 98,
 			"Total Attributes": 3114
 		},
-		"badge_count": [
-			13,
-			13,
-			17,
-			4,
-			47
-		]
+		"bronze_badges": 13,
+		"silver_badges": 13,
+		"gold_badges": 13,
+		"hof_badges": 13,
+		"total_badges": 13
 	},
 	{
 		"player_id": 26,
 		"first_name": "Kyrie",
 		"last_name": "Irving",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Brooklyn Nets",
 		"height": 188,
@@ -1832,22 +1735,18 @@
 			"Potential": 92,
 			"Total Attributes": 2808
 		},
-		"badge_count": [
-			7,
-			9,
-			26,
-			4,
-			46
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 27,
 		"first_name": "Ben",
 		"last_name": "Simmons",
-		"positions": [
-			"PG",
-			"PF"
-		],
+		"primary_position": "PG",
+		"secondary_position": "PF",
 		"archetype": "2-Way Slashing Playmaker",
 		"nba_team": "Brooklyn Nets",
 		"height": 211,
@@ -1903,22 +1802,18 @@
 			"Potential": 87,
 			"Total Attributes": 3031
 		},
-		"badge_count": [
-			8,
-			15,
-			13,
-			0,
-			36
-		]
+		"bronze_badges": 15,
+		"silver_badges": 15,
+		"gold_badges": 15,
+		"hof_badges": 15,
+		"total_badges": 15
 	},
 	{
 		"player_id": 28,
 		"first_name": "T.J.",
 		"last_name": "Warren",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Slasher",
 		"nba_team": "Brooklyn Nets",
 		"height": 203,
@@ -1974,22 +1869,18 @@
 			"Potential": 83,
 			"Total Attributes": 2549
 		},
-		"badge_count": [
-			9,
-			10,
-			1,
-			0,
-			20
-		]
+		"bronze_badges": 10,
+		"silver_badges": 10,
+		"gold_badges": 10,
+		"hof_badges": 10,
+		"total_badges": 10
 	},
 	{
 		"player_id": 29,
 		"first_name": "LaMarcus",
 		"last_name": "Aldridge",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Finisher",
 		"nba_team": "Brooklyn Nets",
 		"height": 211,
@@ -2045,22 +1936,18 @@
 			"Potential": 87,
 			"Total Attributes": 2559
 		},
-		"badge_count": [
-			8,
-			6,
-			6,
-			0,
-			20
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 30,
 		"first_name": "Nicolas",
 		"last_name": "Claxton",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Brooklyn Nets",
 		"height": 211,
@@ -2116,22 +2003,18 @@
 			"Potential": 79,
 			"Total Attributes": 2552
 		},
-		"badge_count": [
-			5,
-			2,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 31,
 		"first_name": "Seth",
 		"last_name": "Curry",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Sharpshooter",
 		"nba_team": "Brooklyn Nets",
 		"height": 188,
@@ -2187,22 +2070,18 @@
 			"Potential": 78,
 			"Total Attributes": 2391
 		},
-		"badge_count": [
-			7,
-			11,
-			2,
-			0,
-			20
-		]
+		"bronze_badges": 11,
+		"silver_badges": 11,
+		"gold_badges": 11,
+		"hof_badges": 11,
+		"total_badges": 11
 	},
 	{
 		"player_id": 32,
 		"first_name": "Joe",
 		"last_name": "Harris",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Shooter",
 		"nba_team": "Brooklyn Nets",
 		"height": 198,
@@ -2258,22 +2137,18 @@
 			"Potential": 79,
 			"Total Attributes": 2343
 		},
-		"badge_count": [
-			2,
-			5,
-			7,
-			0,
-			14
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 33,
 		"first_name": "Blake",
 		"last_name": "Griffin",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Point Center",
 		"nba_team": "Brooklyn Nets",
 		"height": 206,
@@ -2329,22 +2204,18 @@
 			"Potential": 79,
 			"Total Attributes": 2585
 		},
-		"badge_count": [
-			13,
-			2,
-			0,
-			0,
-			15
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 34,
 		"first_name": "Cameron",
 		"last_name": "Thomas",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Inside the Arc Scorer",
 		"nba_team": "Brooklyn Nets",
 		"height": 191,
@@ -2400,22 +2271,18 @@
 			"Potential": 81,
 			"Total Attributes": 2517
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 35,
 		"first_name": "Edmond",
 		"last_name": "Sumner",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "3PT Shot Creator",
 		"nba_team": "Brooklyn Nets",
 		"height": 193,
@@ -2471,21 +2338,18 @@
 			"Potential": 75,
 			"Total Attributes": 2508
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 36,
 		"first_name": "Day'Ron",
 		"last_name": "Sharpe",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Brooklyn Nets",
 		"height": 206,
@@ -2541,22 +2405,18 @@
 			"Potential": 79,
 			"Total Attributes": 2387
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 37,
 		"first_name": "LaMelo",
 		"last_name": "Ball",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "2-Way Slashing Playmaker",
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
@@ -2612,22 +2472,18 @@
 			"Potential": 94,
 			"Total Attributes": 2899
 		},
-		"badge_count": [
-			16,
-			24,
-			1,
-			0,
-			41
-		]
+		"bronze_badges": 24,
+		"silver_badges": 24,
+		"gold_badges": 24,
+		"hof_badges": 24,
+		"total_badges": 24
 	},
 	{
 		"player_id": 38,
 		"first_name": "Miles",
 		"last_name": "Bridges",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Slashing Four",
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
@@ -2683,22 +2539,18 @@
 			"Potential": 84,
 			"Total Attributes": 2794
 		},
-		"badge_count": [
-			9,
-			4,
-			1,
-			0,
-			14
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 39,
 		"first_name": "Terry",
 		"last_name": "Rozier III",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Charlotte Hornets",
 		"height": 185,
@@ -2754,22 +2606,18 @@
 			"Potential": 82,
 			"Total Attributes": 2740
 		},
-		"badge_count": [
-			22,
-			5,
-			0,
-			0,
-			27
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 40,
 		"first_name": "Gordon",
 		"last_name": "Hayward",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Sharpshooter",
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
@@ -2825,22 +2673,18 @@
 			"Potential": 85,
 			"Total Attributes": 2668
 		},
-		"badge_count": [
-			13,
-			2,
-			1,
-			0,
-			16
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 41,
 		"first_name": "Montrezl",
 		"last_name": "Harrell",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Interior Finisher",
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
@@ -2896,22 +2740,18 @@
 			"Potential": 79,
 			"Total Attributes": 2497
 		},
-		"badge_count": [
-			9,
-			5,
-			3,
-			0,
-			17
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 42,
 		"first_name": "P.J.",
 		"last_name": "Washington",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
@@ -2967,22 +2807,18 @@
 			"Potential": 82,
 			"Total Attributes": 2593
 		},
-		"badge_count": [
-			7,
-			5,
-			1,
-			0,
-			13
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 43,
 		"first_name": "Kelly",
 		"last_name": "Oubre Jr.",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Balanced Scorer",
 		"nba_team": "Charlotte Hornets",
 		"height": 198,
@@ -3038,21 +2874,18 @@
 			"Potential": 78,
 			"Total Attributes": 2607
 		},
-		"badge_count": [
-			10,
-			1,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 44,
 		"first_name": "Mason",
 		"last_name": "Plumlee",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Charlotte Hornets",
 		"height": 211,
@@ -3108,21 +2941,18 @@
 			"Potential": 79,
 			"Total Attributes": 2581
 		},
-		"badge_count": [
-			7,
-			3,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 45,
 		"first_name": "Isaiah",
 		"last_name": "Thomas",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Offense Initiator",
 		"nba_team": "Charlotte Hornets",
 		"height": 175,
@@ -3178,22 +3008,18 @@
 			"Potential": 80,
 			"Total Attributes": 2415
 		},
-		"badge_count": [
-			17,
-			11,
-			2,
-			0,
-			30
-		]
+		"bronze_badges": 11,
+		"silver_badges": 11,
+		"gold_badges": 11,
+		"hof_badges": 11,
+		"total_badges": 11
 	},
 	{
 		"player_id": 46,
 		"first_name": "Cody",
 		"last_name": "Martin",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "3PT Specialist",
 		"nba_team": "Charlotte Hornets",
 		"height": 198,
@@ -3249,21 +3075,18 @@
 			"Potential": 75,
 			"Total Attributes": 2568
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 47,
 		"first_name": "Nick",
 		"last_name": "Richards",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Finisher",
 		"nba_team": "Charlotte Hornets",
 		"height": 213,
@@ -3319,22 +3142,18 @@
 			"Potential": 75,
 			"Total Attributes": 2357
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 48,
 		"first_name": "Jalen",
 		"last_name": "McDaniels",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Stretch Four",
 		"nba_team": "Charlotte Hornets",
 		"height": 208,
@@ -3390,22 +3209,18 @@
 			"Potential": 75,
 			"Total Attributes": 2434
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 49,
 		"first_name": "DeMar",
 		"last_name": "DeRozan",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Slashing Shot Creator",
 		"nba_team": "Chicago Bulls",
 		"height": 198,
@@ -3461,22 +3276,18 @@
 			"Potential": 90,
 			"Total Attributes": 2981
 		},
-		"badge_count": [
-			6,
-			12,
-			7,
-			0,
-			25
-		]
+		"bronze_badges": 12,
+		"silver_badges": 12,
+		"gold_badges": 12,
+		"hof_badges": 12,
+		"total_badges": 12
 	},
 	{
 		"player_id": 50,
 		"first_name": "Zach",
 		"last_name": "LaVine",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Inside-Out Playmaker",
 		"nba_team": "Chicago Bulls",
 		"height": 196,
@@ -3532,21 +3343,18 @@
 			"Potential": 89,
 			"Total Attributes": 2811
 		},
-		"badge_count": [
-			16,
-			15,
-			7,
-			0,
-			38
-		]
+		"bronze_badges": 15,
+		"silver_badges": 15,
+		"gold_badges": 15,
+		"hof_badges": 15,
+		"total_badges": 15
 	},
 	{
 		"player_id": 51,
 		"first_name": "Nikola",
 		"last_name": "Vucevic",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Interior Finisher",
 		"nba_team": "Chicago Bulls",
 		"height": 208,
@@ -3602,22 +3410,18 @@
 			"Potential": 85,
 			"Total Attributes": 2696
 		},
-		"badge_count": [
-			5,
-			9,
-			5,
-			0,
-			19
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 52,
 		"first_name": "Lonzo",
 		"last_name": "Ball",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "2-Way 3PT Playmaker",
 		"nba_team": "Chicago Bulls",
 		"height": 198,
@@ -3673,21 +3477,18 @@
 			"Potential": 86,
 			"Total Attributes": 2771
 		},
-		"badge_count": [
-			7,
-			13,
-			3,
-			0,
-			23
-		]
+		"bronze_badges": 13,
+		"silver_badges": 13,
+		"gold_badges": 13,
+		"hof_badges": 13,
+		"total_badges": 13
 	},
 	{
 		"player_id": 53,
 		"first_name": "Andre",
 		"last_name": "Drummond",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Beast",
 		"nba_team": "Chicago Bulls",
 		"height": 208,
@@ -3743,22 +3544,18 @@
 			"Potential": 81,
 			"Total Attributes": 2616
 		},
-		"badge_count": [
-			7,
-			1,
-			9,
-			0,
-			17
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 54,
 		"first_name": "Alex",
 		"last_name": "Caruso",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Chicago Bulls",
 		"height": 196,
@@ -3814,22 +3611,18 @@
 			"Potential": 78,
 			"Total Attributes": 2593
 		},
-		"badge_count": [
-			14,
-			7,
-			0,
-			0,
-			21
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 55,
 		"first_name": "Coby",
 		"last_name": "White",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Chicago Bulls",
 		"height": 193,
@@ -3885,22 +3678,18 @@
 			"Potential": 80,
 			"Total Attributes": 2552
 		},
-		"badge_count": [
-			18,
-			6,
-			0,
-			0,
-			24
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 56,
 		"first_name": "Javonte",
 		"last_name": "Green",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Chicago Bulls",
 		"height": 193,
@@ -3956,22 +3745,18 @@
 			"Potential": 77,
 			"Total Attributes": 2598
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 57,
 		"first_name": "Ayo",
 		"last_name": "Dosunmu",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Shot Creator",
 		"nba_team": "Chicago Bulls",
 		"height": 193,
@@ -4027,21 +3812,18 @@
 			"Potential": 77,
 			"Total Attributes": 2564
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 58,
 		"first_name": "Tristan",
 		"last_name": "Thompson",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Chicago Bulls",
 		"height": 206,
@@ -4097,21 +3879,18 @@
 			"Potential": 78,
 			"Total Attributes": 2411
 		},
-		"badge_count": [
-			0,
-			6,
-			4,
-			0,
-			10
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 59,
 		"first_name": "Tony",
 		"last_name": "Bradley",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Chicago Bulls",
 		"height": 208,
@@ -4167,22 +3946,18 @@
 			"Potential": 75,
 			"Total Attributes": 2369
 		},
-		"badge_count": [
-			9,
-			3,
-			0,
-			0,
-			12
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 60,
 		"first_name": "Patrick",
 		"last_name": "Williams",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Stretch Four",
 		"nba_team": "Chicago Bulls",
 		"height": 201,
@@ -4238,21 +4013,18 @@
 			"Potential": 83,
 			"Total Attributes": 2442
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 61,
 		"first_name": "Darius",
 		"last_name": "Garland",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Offensive Threat",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
@@ -4308,21 +4080,18 @@
 			"Potential": 88,
 			"Total Attributes": 2743
 		},
-		"badge_count": [
-			16,
-			7,
-			0,
-			0,
-			23
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 62,
 		"first_name": "Jarrett",
 		"last_name": "Allen",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 208,
@@ -4378,22 +4147,18 @@
 			"Potential": 86,
 			"Total Attributes": 2762
 		},
-		"badge_count": [
-			9,
-			4,
-			3,
-			0,
-			16
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 63,
 		"first_name": "Evan",
 		"last_name": "Mobley",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 211,
@@ -4449,22 +4214,18 @@
 			"Potential": 93,
 			"Total Attributes": 2875
 		},
-		"badge_count": [
-			5,
-			5,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 64,
 		"first_name": "Kevin",
 		"last_name": "Love",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Stretch Five",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 203,
@@ -4520,22 +4281,18 @@
 			"Potential": 82,
 			"Total Attributes": 2637
 		},
-		"badge_count": [
-			11,
-			5,
-			4,
-			0,
-			20
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 65,
 		"first_name": "Collin",
 		"last_name": "Sexton",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Playmaker",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
@@ -4591,22 +4348,18 @@
 			"Potential": 84,
 			"Total Attributes": 2591
 		},
-		"badge_count": [
-			9,
-			19,
-			2,
-			0,
-			30
-		]
+		"bronze_badges": 19,
+		"silver_badges": 19,
+		"gold_badges": 19,
+		"hof_badges": 19,
+		"total_badges": 19
 	},
 	{
 		"player_id": 66,
 		"first_name": "Lauri",
 		"last_name": "Markkanen",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 211,
@@ -4662,21 +4415,18 @@
 			"Potential": 81,
 			"Total Attributes": 2511
 		},
-		"badge_count": [
-			8,
-			3,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 67,
 		"first_name": "Ricky",
 		"last_name": "Rubio",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Playmaker",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 188,
@@ -4732,22 +4482,18 @@
 			"Potential": 79,
 			"Total Attributes": 2528
 		},
-		"badge_count": [
-			3,
-			6,
-			3,
-			0,
-			12
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 68,
 		"first_name": "Caris",
 		"last_name": "LeVert",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Slasher",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 198,
@@ -4803,22 +4549,18 @@
 			"Potential": 83,
 			"Total Attributes": 2670
 		},
-		"badge_count": [
-			9,
-			9,
-			0,
-			0,
-			18
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 69,
 		"first_name": "Isaac",
 		"last_name": "Okoro",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "3PT Specialist",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 196,
@@ -4874,22 +4616,18 @@
 			"Potential": 83,
 			"Total Attributes": 2638
 		},
-		"badge_count": [
-			3,
-			1,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 70,
 		"first_name": "Cedi",
 		"last_name": "Osman",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "3PT Shot Creator",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 201,
@@ -4945,21 +4683,18 @@
 			"Potential": 76,
 			"Total Attributes": 2526
 		},
-		"badge_count": [
-			5,
-			0,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 71,
 		"first_name": "Robin",
 		"last_name": "Lopez",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Back-To-Basket Big",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 213,
@@ -5015,21 +4750,18 @@
 			"Potential": 76,
 			"Total Attributes": 2399
 		},
-		"badge_count": [
-			7,
-			1,
-			1,
-			0,
-			9
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 72,
 		"first_name": "Rajon",
 		"last_name": "Rondo",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Playmaker",
 		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
@@ -5085,22 +4817,18 @@
 			"Potential": 79,
 			"Total Attributes": 2482
 		},
-		"badge_count": [
-			7,
-			6,
-			0,
-			0,
-			13
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 73,
 		"first_name": "Luka",
 		"last_name": "Doncic",
-		"positions": [
-			"PG",
-			"SF"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SF",
 		"archetype": "Offensive Threat",
 		"nba_team": "Dallas Mavericks",
 		"height": 201,
@@ -5156,22 +4884,18 @@
 			"Potential": 99,
 			"Total Attributes": 3088
 		},
-		"badge_count": [
-			5,
-			5,
-			38,
-			2,
-			50
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 74,
 		"first_name": "Christian",
 		"last_name": "Wood",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Stretch Five",
 		"nba_team": "Dallas Mavericks",
 		"height": 206,
@@ -5227,22 +4951,18 @@
 			"Potential": 84,
 			"Total Attributes": 2672
 		},
-		"badge_count": [
-			4,
-			7,
-			4,
-			0,
-			15
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 75,
 		"first_name": "Spencer",
 		"last_name": "Dinwiddie",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Dallas Mavericks",
 		"height": 198,
@@ -5298,21 +5018,18 @@
 			"Potential": 83,
 			"Total Attributes": 2597
 		},
-		"badge_count": [
-			17,
-			18,
-			0,
-			0,
-			35
-		]
+		"bronze_badges": 18,
+		"silver_badges": 18,
+		"gold_badges": 18,
+		"hof_badges": 18,
+		"total_badges": 18
 	},
 	{
 		"player_id": 76,
 		"first_name": "JaVale",
 		"last_name": "McGee",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Beast",
 		"nba_team": "Dallas Mavericks",
 		"height": 213,
@@ -5368,22 +5085,18 @@
 			"Potential": 79,
 			"Total Attributes": 2423
 		},
-		"badge_count": [
-			5,
-			6,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 77,
 		"first_name": "Dorian",
 		"last_name": "Finney-Smith",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Dallas Mavericks",
 		"height": 201,
@@ -5439,22 +5152,18 @@
 			"Potential": 78,
 			"Total Attributes": 2533
 		},
-		"badge_count": [
-			7,
-			0,
-			1,
-			0,
-			8
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 78,
 		"first_name": "Dwight",
 		"last_name": "Powell",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Dallas Mavericks",
 		"height": 208,
@@ -5510,22 +5219,18 @@
 			"Potential": 78,
 			"Total Attributes": 2641
 		},
-		"badge_count": [
-			4,
-			2,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 79,
 		"first_name": "Tim",
 		"last_name": "Hardaway Jr.",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Mid-Range Specialist",
 		"nba_team": "Dallas Mavericks",
 		"height": 196,
@@ -5581,22 +5286,18 @@
 			"Potential": 79,
 			"Total Attributes": 2508
 		},
-		"badge_count": [
-			9,
-			5,
-			1,
-			0,
-			15
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 80,
 		"first_name": "Josh",
 		"last_name": "Green",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "3PT Specialist",
 		"nba_team": "Dallas Mavericks",
 		"height": 196,
@@ -5652,22 +5353,18 @@
 			"Potential": 79,
 			"Total Attributes": 2557
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 81,
 		"first_name": "Maxi",
 		"last_name": "Kleber",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Dallas Mavericks",
 		"height": 208,
@@ -5723,22 +5420,18 @@
 			"Potential": 76,
 			"Total Attributes": 2475
 		},
-		"badge_count": [
-			6,
-			2,
-			2,
-			0,
-			10
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 82,
 		"first_name": "Reggie",
 		"last_name": "Bullock",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "Dallas Mavericks",
 		"height": 198,
@@ -5794,21 +5487,18 @@
 			"Potential": 75,
 			"Total Attributes": 2326
 		},
-		"badge_count": [
-			4,
-			1,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 83,
 		"first_name": "Davis",
 		"last_name": "Bertans",
-		"positions": [
-			"PF"
-		],
+		"primary_position": "PF",
+		"secondary_position": null,
 		"archetype": "Stretch Four",
 		"nba_team": "Dallas Mavericks",
 		"height": 208,
@@ -5864,22 +5554,18 @@
 			"Potential": 79,
 			"Total Attributes": 2276
 		},
-		"badge_count": [
-			4,
-			5,
-			4,
-			0,
-			13
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 84,
 		"first_name": "Frank",
 		"last_name": "Ntilikina",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "2-Way Tempo Pusher",
 		"nba_team": "Dallas Mavericks",
 		"height": 193,
@@ -5935,21 +5621,18 @@
 			"Potential": 76,
 			"Total Attributes": 2450
 		},
-		"badge_count": [
-			6,
-			1,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 85,
 		"first_name": "Nikola",
 		"last_name": "Jokic",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "3-Level Scorer",
 		"nba_team": "Denver Nuggets",
 		"height": 211,
@@ -6005,22 +5688,18 @@
 			"Potential": 96,
 			"Total Attributes": 3038
 		},
-		"badge_count": [
-			1,
-			9,
-			34,
-			2,
-			46
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 86,
 		"first_name": "Jamal",
 		"last_name": "Murray",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Denver Nuggets",
 		"height": 191,
@@ -6076,22 +5755,18 @@
 			"Potential": 87,
 			"Total Attributes": 2752
 		},
-		"badge_count": [
-			8,
-			26,
-			7,
-			0,
-			41
-		]
+		"bronze_badges": 26,
+		"silver_badges": 26,
+		"gold_badges": 26,
+		"hof_badges": 26,
+		"total_badges": 26
 	},
 	{
 		"player_id": 87,
 		"first_name": "Michael",
 		"last_name": "Porter Jr.",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Shot Creator",
 		"nba_team": "Denver Nuggets",
 		"height": 208,
@@ -6147,22 +5822,18 @@
 			"Potential": 88,
 			"Total Attributes": 2622
 		},
-		"badge_count": [
-			11,
-			6,
-			1,
-			0,
-			18
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 88,
 		"first_name": "Aaron",
 		"last_name": "Gordon",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Interior Finisher",
 		"nba_team": "Denver Nuggets",
 		"height": 203,
@@ -6218,21 +5889,18 @@
 			"Potential": 80,
 			"Total Attributes": 2735
 		},
-		"badge_count": [
-			4,
-			3,
-			4,
-			0,
-			11
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 89,
 		"first_name": "DeMarcus",
 		"last_name": "Cousins",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Denver Nuggets",
 		"height": 208,
@@ -6288,22 +5956,18 @@
 			"Potential": 83,
 			"Total Attributes": 2660
 		},
-		"badge_count": [
-			14,
-			1,
-			1,
-			0,
-			16
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 90,
 		"first_name": "Nah'Shon",
 		"last_name": "Hyland",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Shot Creator",
 		"nba_team": "Denver Nuggets",
 		"height": 188,
@@ -6359,22 +6023,18 @@
 			"Potential": 79,
 			"Total Attributes": 2481
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 91,
 		"first_name": "Zeke",
 		"last_name": "Nnaji",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Stretch Four",
 		"nba_team": "Denver Nuggets",
 		"height": 206,
@@ -6430,22 +6090,18 @@
 			"Potential": 78,
 			"Total Attributes": 2488
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 92,
 		"first_name": "Bruce",
 		"last_name": "Brown Jr.",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Well-Rounded Wing",
 		"nba_team": "Denver Nuggets",
 		"height": 193,
@@ -6501,22 +6157,18 @@
 			"Potential": 78,
 			"Total Attributes": 2629
 		},
-		"badge_count": [
-			0,
-			3,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 93,
 		"first_name": "Jeff",
 		"last_name": "Green",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Denver Nuggets",
 		"height": 203,
@@ -6572,22 +6224,18 @@
 			"Potential": 76,
 			"Total Attributes": 2573
 		},
-		"badge_count": [
-			4,
-			1,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 94,
 		"first_name": "Kentavious",
 		"last_name": "Caldwell-Pope",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "2-Way Mid-Range Shooter",
 		"nba_team": "Denver Nuggets",
 		"height": 196,
@@ -6643,21 +6291,18 @@
 			"Potential": 76,
 			"Total Attributes": 2590
 		},
-		"badge_count": [
-			8,
-			2,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 95,
 		"first_name": "Ish",
 		"last_name": "Smith",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Mid-Range Playmaker",
 		"nba_team": "Denver Nuggets",
 		"height": 183,
@@ -6713,21 +6358,18 @@
 			"Potential": 74,
 			"Total Attributes": 2383
 		},
-		"badge_count": [
-			4,
-			4,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 96,
 		"first_name": "Facundo",
 		"last_name": "Campazzo",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Denver Nuggets",
 		"height": 178,
@@ -6783,22 +6425,18 @@
 			"Potential": 77,
 			"Total Attributes": 2459
 		},
-		"badge_count": [
-			6,
-			5,
-			3,
-			0,
-			14
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 97,
 		"first_name": "Cade",
 		"last_name": "Cunningham",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Detroit Pistons",
 		"height": 198,
@@ -6854,22 +6492,18 @@
 			"Potential": 95,
 			"Total Attributes": 2851
 		},
-		"badge_count": [
-			13,
-			4,
-			0,
-			0,
-			17
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 98,
 		"first_name": "Saddiq",
 		"last_name": "Bey",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Shooter",
 		"nba_team": "Detroit Pistons",
 		"height": 201,
@@ -6925,22 +6559,18 @@
 			"Potential": 84,
 			"Total Attributes": 2641
 		},
-		"badge_count": [
-			6,
-			4,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 99,
 		"first_name": "Hamidou",
 		"last_name": "Diallo",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Slasher",
 		"nba_team": "Detroit Pistons",
 		"height": 196,
@@ -6996,21 +6626,18 @@
 			"Potential": 79,
 			"Total Attributes": 2650
 		},
-		"badge_count": [
-			2,
-			2,
-			1,
-			0,
-			5
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 100,
 		"first_name": "Kemba",
 		"last_name": "Walker",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Offense Initiator",
 		"nba_team": "Detroit Pistons",
 		"height": 183,
@@ -7066,22 +6693,18 @@
 			"Potential": 87,
 			"Total Attributes": 2495
 		},
-		"badge_count": [
-			14,
-			19,
-			10,
-			0,
-			43
-		]
+		"bronze_badges": 19,
+		"silver_badges": 19,
+		"gold_badges": 19,
+		"hof_badges": 19,
+		"total_badges": 19
 	},
 	{
 		"player_id": 101,
 		"first_name": "Marvin",
 		"last_name": "Bagley III",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Finisher",
 		"nba_team": "Detroit Pistons",
 		"height": 211,
@@ -7137,22 +6760,18 @@
 			"Potential": 82,
 			"Total Attributes": 2560
 		},
-		"badge_count": [
-			6,
-			4,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 102,
 		"first_name": "Alec",
 		"last_name": "Burks",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Shooter",
 		"nba_team": "Detroit Pistons",
 		"height": 198,
@@ -7208,22 +6827,18 @@
 			"Potential": 78,
 			"Total Attributes": 2652
 		},
-		"badge_count": [
-			1,
-			7,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 103,
 		"first_name": "Kelly",
 		"last_name": "Olynyk",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Detroit Pistons",
 		"height": 211,
@@ -7279,22 +6894,18 @@
 			"Potential": 78,
 			"Total Attributes": 2519
 		},
-		"badge_count": [
-			5,
-			2,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 104,
 		"first_name": "Isaiah",
 		"last_name": "Stewart",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Glass Cleaner",
 		"nba_team": "Detroit Pistons",
 		"height": 203,
@@ -7350,21 +6961,18 @@
 			"Potential": 81,
 			"Total Attributes": 2518
 		},
-		"badge_count": [
-			4,
-			2,
-			2,
-			0,
-			8
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 105,
 		"first_name": "Nerlens",
 		"last_name": "Noel",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Defender",
 		"nba_team": "Detroit Pistons",
 		"height": 211,
@@ -7420,21 +7028,18 @@
 			"Potential": 78,
 			"Total Attributes": 2460
 		},
-		"badge_count": [
-			7,
-			9,
-			1,
-			0,
-			17
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 106,
 		"first_name": "Saben",
 		"last_name": "Lee",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Detroit Pistons",
 		"height": 188,
@@ -7490,22 +7095,18 @@
 			"Potential": 78,
 			"Total Attributes": 2502
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 107,
 		"first_name": "Luka",
 		"last_name": "Garza",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Rebounder",
 		"nba_team": "Detroit Pistons",
 		"height": 208,
@@ -7561,22 +7162,18 @@
 			"Potential": 77,
 			"Total Attributes": 2246
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 108,
 		"first_name": "Cory",
 		"last_name": "Joseph",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "3PT Specialist",
 		"nba_team": "Detroit Pistons",
 		"height": 191,
@@ -7632,22 +7229,18 @@
 			"Potential": 75,
 			"Total Attributes": 2425
 		},
-		"badge_count": [
-			4,
-			3,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 109,
 		"first_name": "Stephen",
 		"last_name": "Curry",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Golden State Warriors",
 		"height": 191,
@@ -7703,22 +7296,18 @@
 			"Potential": 96,
 			"Total Attributes": 2863
 		},
-		"badge_count": [
-			4,
-			5,
-			35,
-			4,
-			48
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 110,
 		"first_name": "Klay",
 		"last_name": "Thompson",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "3 & D Off Guard",
 		"nba_team": "Golden State Warriors",
 		"height": 198,
@@ -7774,22 +7363,18 @@
 			"Potential": 88,
 			"Total Attributes": 2724
 		},
-		"badge_count": [
-			6,
-			8,
-			17,
-			2,
-			33
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 111,
 		"first_name": "Andrew",
 		"last_name": "Wiggins",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Slasher",
 		"nba_team": "Golden State Warriors",
 		"height": 201,
@@ -7845,22 +7430,18 @@
 			"Potential": 83,
 			"Total Attributes": 2800
 		},
-		"badge_count": [
-			12,
-			12,
-			2,
-			0,
-			26
-		]
+		"bronze_badges": 12,
+		"silver_badges": 12,
+		"gold_badges": 12,
+		"hof_badges": 12,
+		"total_badges": 12
 	},
 	{
 		"player_id": 112,
 		"first_name": "Draymond",
 		"last_name": "Green",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Golden State Warriors",
 		"height": 198,
@@ -7916,22 +7497,18 @@
 			"Potential": 83,
 			"Total Attributes": 2777
 		},
-		"badge_count": [
-			10,
-			4,
-			11,
-			0,
-			25
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 113,
 		"first_name": "Jordan",
 		"last_name": "Poole",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Slashing Shot Creator",
 		"nba_team": "Golden State Warriors",
 		"height": 193,
@@ -7987,22 +7564,18 @@
 			"Potential": 81,
 			"Total Attributes": 2611
 		},
-		"badge_count": [
-			2,
-			2,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 114,
 		"first_name": "Jonathan",
 		"last_name": "Kuminga",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Golden State Warriors",
 		"height": 201,
@@ -8058,22 +7631,18 @@
 			"Potential": 85,
 			"Total Attributes": 2693
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 115,
 		"first_name": "James",
 		"last_name": "Wiseman",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Golden State Warriors",
 		"height": 213,
@@ -8129,21 +7698,18 @@
 			"Potential": 86,
 			"Total Attributes": 2608
 		},
-		"badge_count": [
-			1,
-			5,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 116,
 		"first_name": "Kevon",
 		"last_name": "Looney",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Golden State Warriors",
 		"height": 206,
@@ -8199,22 +7765,18 @@
 			"Potential": 77,
 			"Total Attributes": 2548
 		},
-		"badge_count": [
-			4,
-			2,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 117,
 		"first_name": "Donte",
 		"last_name": "DiVincenzo",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Golden State Warriors",
 		"height": 193,
@@ -8270,22 +7832,18 @@
 			"Potential": 81,
 			"Total Attributes": 2611
 		},
-		"badge_count": [
-			12,
-			8,
-			2,
-			0,
-			22
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 118,
 		"first_name": "JaMychal",
 		"last_name": "Green",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Golden State Warriors",
 		"height": 203,
@@ -8341,22 +7899,18 @@
 			"Potential": 76,
 			"Total Attributes": 2526
 		},
-		"badge_count": [
-			2,
-			2,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 119,
 		"first_name": "Andre",
 		"last_name": "Iguodala",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Golden State Warriors",
 		"height": 198,
@@ -8412,22 +7966,18 @@
 			"Potential": 76,
 			"Total Attributes": 2565
 		},
-		"badge_count": [
-			11,
-			1,
-			2,
-			0,
-			14
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 120,
 		"first_name": "Moses",
 		"last_name": "Moody",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "2-Way Balanced Scorer",
 		"nba_team": "Golden State Warriors",
 		"height": 196,
@@ -8483,22 +8033,18 @@
 			"Potential": 81,
 			"Total Attributes": 2496
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 121,
 		"first_name": "Jalen",
 		"last_name": "Green",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Slasher",
 		"nba_team": "Houston Rockets",
 		"height": 193,
@@ -8554,22 +8100,18 @@
 			"Potential": 94,
 			"Total Attributes": 2700
 		},
-		"badge_count": [
-			8,
-			3,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 122,
 		"first_name": "Alperen",
 		"last_name": "Sengun",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Houston Rockets",
 		"height": 208,
@@ -8625,22 +8167,18 @@
 			"Potential": 81,
 			"Total Attributes": 2644
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 123,
 		"first_name": "Kevin",
 		"last_name": "Porter Jr.",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Playmaker",
 		"nba_team": "Houston Rockets",
 		"height": 193,
@@ -8696,22 +8234,18 @@
 			"Potential": 80,
 			"Total Attributes": 2595
 		},
-		"badge_count": [
-			17,
-			5,
-			0,
-			0,
-			22
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 124,
 		"first_name": "Jae'Sean",
 		"last_name": "Tate",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Houston Rockets",
 		"height": 193,
@@ -8767,22 +8301,18 @@
 			"Potential": 78,
 			"Total Attributes": 2746
 		},
-		"badge_count": [
-			6,
-			3,
-			0,
-			0,
-			9
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 125,
 		"first_name": "Kenyon",
 		"last_name": "Martin Jr.",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "3PT Shot Creator",
 		"nba_team": "Houston Rockets",
 		"height": 196,
@@ -8838,22 +8368,18 @@
 			"Potential": 80,
 			"Total Attributes": 2509
 		},
-		"badge_count": [
-			7,
-			0,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 126,
 		"first_name": "Dennis",
 		"last_name": "Schroder",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Houston Rockets",
 		"height": 185,
@@ -8909,22 +8435,18 @@
 			"Potential": 80,
 			"Total Attributes": 2488
 		},
-		"badge_count": [
-			20,
-			4,
-			0,
-			0,
-			24
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 127,
 		"first_name": "Josh",
 		"last_name": "Christopher",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Slasher",
 		"nba_team": "Houston Rockets",
 		"height": 191,
@@ -8980,22 +8502,18 @@
 			"Potential": 79,
 			"Total Attributes": 2587
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 128,
 		"first_name": "Eric",
 		"last_name": "Gordon",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "3PT Specialist",
 		"nba_team": "Houston Rockets",
 		"height": 191,
@@ -9051,22 +8569,18 @@
 			"Potential": 78,
 			"Total Attributes": 2497
 		},
-		"badge_count": [
-			14,
-			5,
-			6,
-			0,
-			25
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 129,
 		"first_name": "David",
 		"last_name": "Nwaba",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Houston Rockets",
 		"height": 196,
@@ -9122,22 +8636,18 @@
 			"Potential": 76,
 			"Total Attributes": 2537
 		},
-		"badge_count": [
-			3,
-			1,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 130,
 		"first_name": "Marquese",
 		"last_name": "Chriss",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Glass Cleaner",
 		"nba_team": "Houston Rockets",
 		"height": 206,
@@ -9193,22 +8703,18 @@
 			"Potential": 76,
 			"Total Attributes": 2538
 		},
-		"badge_count": [
-			3,
-			5,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 131,
 		"first_name": "Garrison",
 		"last_name": "Mathews",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Shooter",
 		"nba_team": "Houston Rockets",
 		"height": 196,
@@ -9264,21 +8770,18 @@
 			"Potential": 75,
 			"Total Attributes": 2371
 		},
-		"badge_count": [
-			1,
-			1,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 132,
 		"first_name": "Boban",
 		"last_name": "Marjanovic",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Houston Rockets",
 		"height": 224,
@@ -9334,22 +8837,18 @@
 			"Potential": 75,
 			"Total Attributes": 2224
 		},
-		"badge_count": [
-			4,
-			1,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 133,
 		"first_name": "Tyrese",
 		"last_name": "Haliburton",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Playmaking Shot Creator",
 		"nba_team": "Indiana Pacers",
 		"height": 196,
@@ -9405,21 +8904,18 @@
 			"Potential": 88,
 			"Total Attributes": 2775
 		},
-		"badge_count": [
-			15,
-			7,
-			0,
-			0,
-			22
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 134,
 		"first_name": "Myles",
 		"last_name": "Turner",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "2-Way Stretch Five",
 		"nba_team": "Indiana Pacers",
 		"height": 211,
@@ -9475,22 +8971,18 @@
 			"Potential": 82,
 			"Total Attributes": 2631
 		},
-		"badge_count": [
-			4,
-			8,
-			4,
-			0,
-			16
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 135,
 		"first_name": "Buddy",
 		"last_name": "Hield",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Sharpshooter",
 		"nba_team": "Indiana Pacers",
 		"height": 193,
@@ -9546,22 +9038,18 @@
 			"Potential": 80,
 			"Total Attributes": 2499
 		},
-		"badge_count": [
-			10,
-			8,
-			7,
-			0,
-			25
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 136,
 		"first_name": "Jalen",
 		"last_name": "Smith",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Glass Cleaner",
 		"nba_team": "Indiana Pacers",
 		"height": 208,
@@ -9617,22 +9105,18 @@
 			"Potential": 79,
 			"Total Attributes": 2520
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 137,
 		"first_name": "Isaiah",
 		"last_name": "Jackson",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Glass Cleaner",
 		"nba_team": "Indiana Pacers",
 		"height": 208,
@@ -9688,22 +9172,18 @@
 			"Potential": 79,
 			"Total Attributes": 2541
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 138,
 		"first_name": "Chris",
 		"last_name": "Duarte",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "Indiana Pacers",
 		"height": 196,
@@ -9759,21 +9239,18 @@
 			"Potential": 79,
 			"Total Attributes": 2549
 		},
-		"badge_count": [
-			2,
-			3,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 139,
 		"first_name": "T.J.",
 		"last_name": "McConnell",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way Pass-First Point",
 		"nba_team": "Indiana Pacers",
 		"height": 185,
@@ -9829,21 +9306,18 @@
 			"Potential": 78,
 			"Total Attributes": 2597
 		},
-		"badge_count": [
-			4,
-			9,
-			4,
-			0,
-			17
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 140,
 		"first_name": "Goga",
 		"last_name": "Bitadze",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Defender",
 		"nba_team": "Indiana Pacers",
 		"height": 211,
@@ -9899,22 +9373,18 @@
 			"Potential": 76,
 			"Total Attributes": 2464
 		},
-		"badge_count": [
-			4,
-			2,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 141,
 		"first_name": "Oshae",
 		"last_name": "Brissett",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Rebounder",
 		"nba_team": "Indiana Pacers",
 		"height": 201,
@@ -9970,22 +9440,18 @@
 			"Potential": 76,
 			"Total Attributes": 2466
 		},
-		"badge_count": [
-			4,
-			2,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 142,
 		"first_name": "Daniel",
 		"last_name": "Theis",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Indiana Pacers",
 		"height": 206,
@@ -10041,22 +9507,18 @@
 			"Potential": 78,
 			"Total Attributes": 2474
 		},
-		"badge_count": [
-			2,
-			8,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 143,
 		"first_name": "Terry",
 		"last_name": "Taylor",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Glass Cleaner",
 		"nba_team": "Indiana Pacers",
 		"height": 196,
@@ -10112,22 +9574,18 @@
 			"Potential": 73,
 			"Total Attributes": 2390
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 144,
 		"first_name": "Aaron",
 		"last_name": "Nesmith",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Prospect",
 		"nba_team": "Indiana Pacers",
 		"height": 196,
@@ -10183,22 +9641,18 @@
 			"Potential": 79,
 			"Total Attributes": 2323
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 145,
 		"first_name": "Kawhi",
 		"last_name": "Leonard",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "2-Way Scoring Machine",
 		"nba_team": "Los Angeles Clippers",
 		"height": 201,
@@ -10254,22 +9708,18 @@
 			"Potential": 97,
 			"Total Attributes": 3189
 		},
-		"badge_count": [
-			14,
-			16,
-			19,
-			2,
-			51
-		]
+		"bronze_badges": 16,
+		"silver_badges": 16,
+		"gold_badges": 16,
+		"hof_badges": 16,
+		"total_badges": 16
 	},
 	{
 		"player_id": 146,
 		"first_name": "Paul",
 		"last_name": "George",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "2-Way Scoring Machine",
 		"nba_team": "Los Angeles Clippers",
 		"height": 203,
@@ -10325,21 +9775,18 @@
 			"Potential": 92,
 			"Total Attributes": 2928
 		},
-		"badge_count": [
-			14,
-			26,
-			15,
-			0,
-			55
-		]
+		"bronze_badges": 26,
+		"silver_badges": 26,
+		"gold_badges": 26,
+		"hof_badges": 26,
+		"total_badges": 26
 	},
 	{
 		"player_id": 147,
 		"first_name": "John",
 		"last_name": "Wall",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Los Angeles Clippers",
 		"height": 191,
@@ -10395,22 +9842,18 @@
 			"Potential": 85,
 			"Total Attributes": 2762
 		},
-		"badge_count": [
-			16,
-			16,
-			11,
-			0,
-			43
-		]
+		"bronze_badges": 16,
+		"silver_badges": 16,
+		"gold_badges": 16,
+		"hof_badges": 16,
+		"total_badges": 16
 	},
 	{
 		"player_id": 148,
 		"first_name": "Norman",
 		"last_name": "Powell",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Sharpshooter",
 		"nba_team": "Los Angeles Clippers",
 		"height": 191,
@@ -10466,22 +9909,18 @@
 			"Potential": 81,
 			"Total Attributes": 2645
 		},
-		"badge_count": [
-			14,
-			5,
-			1,
-			0,
-			20
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 149,
 		"first_name": "Marcus",
 		"last_name": "Morris Sr.",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Stretch Four",
 		"nba_team": "Los Angeles Clippers",
 		"height": 203,
@@ -10537,21 +9976,18 @@
 			"Potential": 79,
 			"Total Attributes": 2553
 		},
-		"badge_count": [
-			7,
-			1,
-			3,
-			0,
-			11
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 150,
 		"first_name": "Ivica",
 		"last_name": "Zubac",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Los Angeles Clippers",
 		"height": 213,
@@ -10607,22 +10043,18 @@
 			"Potential": 78,
 			"Total Attributes": 2410
 		},
-		"badge_count": [
-			7,
-			4,
-			1,
-			0,
-			12
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 151,
 		"first_name": "Reggie",
 		"last_name": "Jackson",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offense Initiator",
 		"nba_team": "Los Angeles Clippers",
 		"height": 188,
@@ -10678,22 +10110,18 @@
 			"Potential": 80,
 			"Total Attributes": 2580
 		},
-		"badge_count": [
-			14,
-			4,
-			0,
-			0,
-			18
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 152,
 		"first_name": "Luke",
 		"last_name": "Kennard",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "3PT Specialist",
 		"nba_team": "Los Angeles Clippers",
 		"height": 196,
@@ -10749,22 +10177,18 @@
 			"Potential": 77,
 			"Total Attributes": 2415
 		},
-		"badge_count": [
-			4,
-			6,
-			2,
-			0,
-			12
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 153,
 		"first_name": "Terance",
 		"last_name": "Mann",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "3PT Playmaker",
 		"nba_team": "Los Angeles Clippers",
 		"height": 196,
@@ -10820,22 +10244,18 @@
 			"Potential": 79,
 			"Total Attributes": 2595
 		},
-		"badge_count": [
-			8,
-			1,
-			0,
-			0,
-			9
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 154,
 		"first_name": "Nicolas",
 		"last_name": "Batum",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "Los Angeles Clippers",
 		"height": 203,
@@ -10891,22 +10311,18 @@
 			"Potential": 77,
 			"Total Attributes": 2557
 		},
-		"badge_count": [
-			6,
-			1,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 155,
 		"first_name": "Robert",
 		"last_name": "Covington",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Los Angeles Clippers",
 		"height": 201,
@@ -10962,22 +10378,18 @@
 			"Potential": 78,
 			"Total Attributes": 2516
 		},
-		"badge_count": [
-			13,
-			4,
-			0,
-			0,
-			17
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 156,
 		"first_name": "Amir",
 		"last_name": "Coffey",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Floor-Spacing Slasher",
 		"nba_team": "Los Angeles Clippers",
 		"height": 201,
@@ -11033,22 +10445,18 @@
 			"Potential": 77,
 			"Total Attributes": 2422
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 157,
 		"first_name": "LeBron",
 		"last_name": "James",
-		"positions": [
-			"SF",
-			"PG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PG",
 		"archetype": "2-Way Slashing Playmaker",
 		"nba_team": "Los Angeles Lakers",
 		"height": 206,
@@ -11104,22 +10512,18 @@
 			"Potential": 99,
 			"Total Attributes": 3245
 		},
-		"badge_count": [
-			19,
-			16,
-			26,
-			4,
-			65
-		]
+		"bronze_badges": 16,
+		"silver_badges": 16,
+		"gold_badges": 16,
+		"hof_badges": 16,
+		"total_badges": 16
 	},
 	{
 		"player_id": 158,
 		"first_name": "Anthony",
 		"last_name": "Davis",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Interior Force",
 		"nba_team": "Los Angeles Lakers",
 		"height": 208,
@@ -11175,22 +10579,18 @@
 			"Potential": 95,
 			"Total Attributes": 3069
 		},
-		"badge_count": [
-			10,
-			15,
-			16,
-			0,
-			41
-		]
+		"bronze_badges": 15,
+		"silver_badges": 15,
+		"gold_badges": 15,
+		"hof_badges": 15,
+		"total_badges": 15
 	},
 	{
 		"player_id": 159,
 		"first_name": "Carmelo",
 		"last_name": "Anthony",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Shot Creator",
 		"nba_team": "Los Angeles Lakers",
 		"height": 201,
@@ -11246,22 +10646,18 @@
 			"Potential": 84,
 			"Total Attributes": 2616
 		},
-		"badge_count": [
-			8,
-			13,
-			1,
-			0,
-			22
-		]
+		"bronze_badges": 13,
+		"silver_badges": 13,
+		"gold_badges": 13,
+		"hof_badges": 13,
+		"total_badges": 13
 	},
 	{
 		"player_id": 160,
 		"first_name": "Thomas",
 		"last_name": "Bryant",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Finisher",
 		"nba_team": "Los Angeles Lakers",
 		"height": 208,
@@ -11317,22 +10713,18 @@
 			"Potential": 79,
 			"Total Attributes": 2557
 		},
-		"badge_count": [
-			4,
-			4,
-			1,
-			0,
-			9
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 161,
 		"first_name": "Russell",
 		"last_name": "Westbrook",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offense Initiator",
 		"nba_team": "Los Angeles Lakers",
 		"height": 191,
@@ -11388,22 +10780,18 @@
 			"Potential": 89,
 			"Total Attributes": 2593
 		},
-		"badge_count": [
-			14,
-			18,
-			20,
-			0,
-			52
-		]
+		"bronze_badges": 18,
+		"silver_badges": 18,
+		"gold_badges": 18,
+		"hof_badges": 18,
+		"total_badges": 18
 	},
 	{
 		"player_id": 162,
 		"first_name": "Kendrick",
 		"last_name": "Nunn",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Slashing Shot Creator",
 		"nba_team": "Los Angeles Lakers",
 		"height": 188,
@@ -11459,22 +10847,18 @@
 			"Potential": 78,
 			"Total Attributes": 2506
 		},
-		"badge_count": [
-			16,
-			1,
-			0,
-			0,
-			17
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 163,
 		"first_name": "Lonnie",
 		"last_name": "Walker IV",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Slasher",
 		"nba_team": "Los Angeles Lakers",
 		"height": 193,
@@ -11530,22 +10914,18 @@
 			"Potential": 76,
 			"Total Attributes": 2559
 		},
-		"badge_count": [
-			6,
-			0,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 164,
 		"first_name": "Talen",
 		"last_name": "Horton-Tucker",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Pass-First Wing",
 		"nba_team": "Los Angeles Lakers",
 		"height": 193,
@@ -11601,21 +10981,18 @@
 			"Potential": 80,
 			"Total Attributes": 2515
 		},
-		"badge_count": [
-			7,
-			0,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 165,
 		"first_name": "Austin",
 		"last_name": "Reaves",
-		"positions": [
-			"SG"
-		],
+		"primary_position": "SG",
+		"secondary_position": null,
 		"archetype": "Mid-Range Shot Creator",
 		"nba_team": "Los Angeles Lakers",
 		"height": 196,
@@ -11671,22 +11048,18 @@
 			"Potential": 76,
 			"Total Attributes": 2493
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 166,
 		"first_name": "Stanley",
 		"last_name": "Johnson",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Stretch Four",
 		"nba_team": "Los Angeles Lakers",
 		"height": 198,
@@ -11742,22 +11115,18 @@
 			"Potential": 74,
 			"Total Attributes": 2452
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 167,
 		"first_name": "Juan",
 		"last_name": "Toscano-Anderson",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Slasher",
 		"nba_team": "Los Angeles Lakers",
 		"height": 198,
@@ -11813,22 +11182,18 @@
 			"Potential": 76,
 			"Total Attributes": 2534
 		},
-		"badge_count": [
-			3,
-			0,
-			1,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 168,
 		"first_name": "Mason",
 		"last_name": "Jones",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Sharpshooter",
 		"nba_team": "Los Angeles Lakers",
 		"height": 193,
@@ -11884,21 +11249,18 @@
 			"Potential": 73,
 			"Total Attributes": 2376
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 169,
 		"first_name": "Ja",
 		"last_name": "Morant",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Offensive Threat",
 		"nba_team": "Memphis Grizzlies",
 		"height": 191,
@@ -11954,22 +11316,18 @@
 			"Potential": 94,
 			"Total Attributes": 2922
 		},
-		"badge_count": [
-			8,
-			13,
-			22,
-			0,
-			43
-		]
+		"bronze_badges": 13,
+		"silver_badges": 13,
+		"gold_badges": 13,
+		"hof_badges": 13,
+		"total_badges": 13
 	},
 	{
 		"player_id": 170,
 		"first_name": "Jaren",
 		"last_name": "Jackson Jr.",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "2-Way Inside-the-Arc Scorer",
 		"nba_team": "Memphis Grizzlies",
 		"height": 211,
@@ -12025,22 +11383,18 @@
 			"Potential": 88,
 			"Total Attributes": 2789
 		},
-		"badge_count": [
-			10,
-			6,
-			0,
-			0,
-			16
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 171,
 		"first_name": "Desmond",
 		"last_name": "Bane",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Sharpshooter",
 		"nba_team": "Memphis Grizzlies",
 		"height": 196,
@@ -12096,21 +11450,18 @@
 			"Potential": 84,
 			"Total Attributes": 2728
 		},
-		"badge_count": [
-			1,
-			5,
-			6,
-			0,
-			12
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 172,
 		"first_name": "Steven",
 		"last_name": "Adams",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Memphis Grizzlies",
 		"height": 211,
@@ -12166,22 +11517,18 @@
 			"Potential": 83,
 			"Total Attributes": 2580
 		},
-		"badge_count": [
-			9,
-			7,
-			4,
-			0,
-			20
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 173,
 		"first_name": "Dillon",
 		"last_name": "Brooks",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Memphis Grizzlies",
 		"height": 201,
@@ -12237,21 +11584,18 @@
 			"Potential": 81,
 			"Total Attributes": 2727
 		},
-		"badge_count": [
-			6,
-			2,
-			3,
-			0,
-			11
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 174,
 		"first_name": "Tyus",
 		"last_name": "Jones",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Mid-Range Facilitator",
 		"nba_team": "Memphis Grizzlies",
 		"height": 183,
@@ -12307,22 +11651,18 @@
 			"Potential": 80,
 			"Total Attributes": 2531
 		},
-		"badge_count": [
-			7,
-			0,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 175,
 		"first_name": "Brandon",
 		"last_name": "Clarke",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Memphis Grizzlies",
 		"height": 203,
@@ -12378,22 +11718,18 @@
 			"Potential": 81,
 			"Total Attributes": 2670
 		},
-		"badge_count": [
-			5,
-			3,
-			3,
-			0,
-			11
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 176,
 		"first_name": "Xavier",
 		"last_name": "Tillman",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Memphis Grizzlies",
 		"height": 203,
@@ -12449,22 +11785,18 @@
 			"Potential": 79,
 			"Total Attributes": 2619
 		},
-		"badge_count": [
-			3,
-			1,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 177,
 		"first_name": "John",
 		"last_name": "Konchar",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Shooter",
 		"nba_team": "Memphis Grizzlies",
 		"height": 196,
@@ -12520,22 +11852,18 @@
 			"Potential": 75,
 			"Total Attributes": 2462
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 178,
 		"first_name": "Ziaire",
 		"last_name": "Williams",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Inside the Arc Scorer",
 		"nba_team": "Memphis Grizzlies",
 		"height": 206,
@@ -12591,22 +11919,18 @@
 			"Potential": 82,
 			"Total Attributes": 2499
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 179,
 		"first_name": "Danny",
 		"last_name": "Green",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Memphis Grizzlies",
 		"height": 198,
@@ -12662,22 +11986,18 @@
 			"Potential": 77,
 			"Total Attributes": 2355
 		},
-		"badge_count": [
-			15,
-			5,
-			0,
-			0,
-			20
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 180,
 		"first_name": "Santi",
 		"last_name": "Aldama",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Memphis Grizzlies",
 		"height": 211,
@@ -12733,22 +12053,18 @@
 			"Potential": 76,
 			"Total Attributes": 2284
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 181,
 		"first_name": "Jimmy",
 		"last_name": "Butler",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "2-Way Slashing Playmaker",
 		"nba_team": "Miami Heat",
 		"height": 201,
@@ -12804,21 +12120,18 @@
 			"Potential": 93,
 			"Total Attributes": 3149
 		},
-		"badge_count": [
-			14,
-			19,
-			18,
-			0,
-			51
-		]
+		"bronze_badges": 19,
+		"silver_badges": 19,
+		"gold_badges": 19,
+		"hof_badges": 19,
+		"total_badges": 19
 	},
 	{
 		"player_id": 182,
 		"first_name": "Bam",
 		"last_name": "Adebayo",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Miami Heat",
 		"height": 206,
@@ -12874,22 +12187,18 @@
 			"Potential": 89,
 			"Total Attributes": 2967
 		},
-		"badge_count": [
-			7,
-			13,
-			10,
-			0,
-			30
-		]
+		"bronze_badges": 13,
+		"silver_badges": 13,
+		"gold_badges": 13,
+		"hof_badges": 13,
+		"total_badges": 13
 	},
 	{
 		"player_id": 183,
 		"first_name": "Tyler",
 		"last_name": "Herro",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "3-Level Scorer",
 		"nba_team": "Miami Heat",
 		"height": 196,
@@ -12945,21 +12254,18 @@
 			"Potential": 85,
 			"Total Attributes": 2667
 		},
-		"badge_count": [
-			16,
-			11,
-			0,
-			0,
-			27
-		]
+		"bronze_badges": 11,
+		"silver_badges": 11,
+		"gold_badges": 11,
+		"hof_badges": 11,
+		"total_badges": 11
 	},
 	{
 		"player_id": 184,
 		"first_name": "Kyle",
 		"last_name": "Lowry",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Miami Heat",
 		"height": 183,
@@ -13015,21 +12321,18 @@
 			"Potential": 88,
 			"Total Attributes": 2700
 		},
-		"badge_count": [
-			23,
-			21,
-			6,
-			0,
-			50
-		]
+		"bronze_badges": 21,
+		"silver_badges": 21,
+		"gold_badges": 21,
+		"hof_badges": 21,
+		"total_badges": 21
 	},
 	{
 		"player_id": 185,
 		"first_name": "Omer",
 		"last_name": "Yurtseven",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Miami Heat",
 		"height": 211,
@@ -13085,22 +12388,18 @@
 			"Potential": 77,
 			"Total Attributes": 2484
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 186,
 		"first_name": "Caleb",
 		"last_name": "Martin",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "2-Way Stretch Four",
 		"nba_team": "Miami Heat",
 		"height": 196,
@@ -13156,22 +12455,18 @@
 			"Potential": 77,
 			"Total Attributes": 2565
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 187,
 		"first_name": "Victor",
 		"last_name": "Oladipo",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Miami Heat",
 		"height": 193,
@@ -13227,21 +12522,18 @@
 			"Potential": 80,
 			"Total Attributes": 2670
 		},
-		"badge_count": [
-			19,
-			7,
-			0,
-			0,
-			26
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 188,
 		"first_name": "Dewayne",
 		"last_name": "Dedmon",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Miami Heat",
 		"height": 213,
@@ -13297,22 +12589,18 @@
 			"Potential": 76,
 			"Total Attributes": 2383
 		},
-		"badge_count": [
-			9,
-			0,
-			0,
-			0,
-			9
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 189,
 		"first_name": "Duncan",
 		"last_name": "Robinson",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "Miami Heat",
 		"height": 201,
@@ -13368,22 +12656,18 @@
 			"Potential": 81,
 			"Total Attributes": 2313
 		},
-		"badge_count": [
-			2,
-			7,
-			4,
-			0,
-			13
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 190,
 		"first_name": "Max",
 		"last_name": "Strus",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Shooter",
 		"nba_team": "Miami Heat",
 		"height": 196,
@@ -13439,22 +12723,18 @@
 			"Potential": 75,
 			"Total Attributes": 2397
 		},
-		"badge_count": [
-			1,
-			5,
-			1,
-			0,
-			7
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 191,
 		"first_name": "Gabe",
 		"last_name": "Vincent",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Playmaking Shot Creator",
 		"nba_team": "Miami Heat",
 		"height": 191,
@@ -13510,22 +12790,18 @@
 			"Potential": 73,
 			"Total Attributes": 2399
 		},
-		"badge_count": [
-			5,
-			1,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 192,
 		"first_name": "Markieff",
 		"last_name": "Morris",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Interior Big",
 		"nba_team": "Miami Heat",
 		"height": 206,
@@ -13581,22 +12857,18 @@
 			"Potential": 77,
 			"Total Attributes": 2327
 		},
-		"badge_count": [
-			3,
-			1,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 193,
 		"first_name": "Giannis",
 		"last_name": "Antetokounmpo",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "2-Way Slashing Playmaker",
 		"nba_team": "Milwaukee Bucks",
 		"height": 211,
@@ -13652,22 +12924,18 @@
 			"Potential": 99,
 			"Total Attributes": 3294
 		},
-		"badge_count": [
-			7,
-			30,
-			17,
-			3,
-			57
-		]
+		"bronze_badges": 30,
+		"silver_badges": 30,
+		"gold_badges": 30,
+		"hof_badges": 30,
+		"total_badges": 30
 	},
 	{
 		"player_id": 194,
 		"first_name": "Khris",
 		"last_name": "Middleton",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "2-Way Mid-Range Scorer",
 		"nba_team": "Milwaukee Bucks",
 		"height": 201,
@@ -13723,22 +12991,18 @@
 			"Potential": 88,
 			"Total Attributes": 2830
 		},
-		"badge_count": [
-			18,
-			12,
-			7,
-			0,
-			37
-		]
+		"bronze_badges": 12,
+		"silver_badges": 12,
+		"gold_badges": 12,
+		"hof_badges": 12,
+		"total_badges": 12
 	},
 	{
 		"player_id": 195,
 		"first_name": "Jrue",
 		"last_name": "Holiday",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "2-Way Shot Creator",
 		"nba_team": "Milwaukee Bucks",
 		"height": 191,
@@ -13794,22 +13058,18 @@
 			"Potential": 85,
 			"Total Attributes": 2747
 		},
-		"badge_count": [
-			23,
-			6,
-			11,
-			0,
-			40
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 196,
 		"first_name": "Bobby",
 		"last_name": "Portis",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "2-Way Stretch Glass Cleaner",
 		"nba_team": "Milwaukee Bucks",
 		"height": 208,
@@ -13865,21 +13125,18 @@
 			"Potential": 81,
 			"Total Attributes": 2678
 		},
-		"badge_count": [
-			10,
-			5,
-			0,
-			0,
-			15
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 197,
 		"first_name": "Brook",
 		"last_name": "Lopez",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "2-Way Inside-the-Arc Scorer",
 		"nba_team": "Milwaukee Bucks",
 		"height": 213,
@@ -13935,22 +13192,18 @@
 			"Potential": 79,
 			"Total Attributes": 2501
 		},
-		"badge_count": [
-			11,
-			6,
-			2,
-			0,
-			19
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 198,
 		"first_name": "Pat",
 		"last_name": "Connaughton",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Milwaukee Bucks",
 		"height": 196,
@@ -14006,22 +13259,18 @@
 			"Potential": 78,
 			"Total Attributes": 2533
 		},
-		"badge_count": [
-			7,
-			2,
-			0,
-			0,
-			9
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 199,
 		"first_name": "Serge",
 		"last_name": "Ibaka",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Milwaukee Bucks",
 		"height": 208,
@@ -14077,22 +13326,18 @@
 			"Potential": 79,
 			"Total Attributes": 2514
 		},
-		"badge_count": [
-			10,
-			0,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 200,
 		"first_name": "Joe",
 		"last_name": "Ingles",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Milwaukee Bucks",
 		"height": 203,
@@ -14148,21 +13393,18 @@
 			"Potential": 80,
 			"Total Attributes": 2458
 		},
-		"badge_count": [
-			6,
-			3,
-			6,
-			0,
-			15
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 201,
 		"first_name": "Grayson",
 		"last_name": "Allen",
-		"positions": [
-			"SG"
-		],
+		"primary_position": "SG",
+		"secondary_position": null,
 		"archetype": "3PT Specialist",
 		"nba_team": "Milwaukee Bucks",
 		"height": 193,
@@ -14218,22 +13460,18 @@
 			"Potential": 76,
 			"Total Attributes": 2503
 		},
-		"badge_count": [
-			5,
-			2,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 202,
 		"first_name": "Jevon",
 		"last_name": "Carter",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "3PT Shot Creator",
 		"nba_team": "Milwaukee Bucks",
 		"height": 185,
@@ -14289,22 +13527,18 @@
 			"Potential": 75,
 			"Total Attributes": 2422
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 203,
 		"first_name": "George",
 		"last_name": "Hill",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offense Initiator",
 		"nba_team": "Milwaukee Bucks",
 		"height": 193,
@@ -14360,22 +13594,18 @@
 			"Potential": 75,
 			"Total Attributes": 2477
 		},
-		"badge_count": [
-			7,
-			4,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 204,
 		"first_name": "Jordan",
 		"last_name": "Nwora",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Stretch Four",
 		"nba_team": "Milwaukee Bucks",
 		"height": 203,
@@ -14431,21 +13661,18 @@
 			"Potential": 78,
 			"Total Attributes": 2325
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 205,
 		"first_name": "Karl-Anthony",
 		"last_name": "Towns",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 211,
@@ -14501,21 +13728,18 @@
 			"Potential": 89,
 			"Total Attributes": 2934
 		},
-		"badge_count": [
-			8,
-			13,
-			8,
-			0,
-			29
-		]
+		"bronze_badges": 13,
+		"silver_badges": 13,
+		"gold_badges": 13,
+		"hof_badges": 13,
+		"total_badges": 13
 	},
 	{
 		"player_id": 206,
 		"first_name": "Rudy",
 		"last_name": "Gobert",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 216,
@@ -14571,22 +13795,18 @@
 			"Potential": 88,
 			"Total Attributes": 2684
 		},
-		"badge_count": [
-			4,
-			5,
-			9,
-			2,
-			20
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 207,
 		"first_name": "Anthony",
 		"last_name": "Edwards",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Slasher",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
@@ -14642,22 +13862,18 @@
 			"Potential": 89,
 			"Total Attributes": 2810
 		},
-		"badge_count": [
-			7,
-			7,
-			6,
-			0,
-			20
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 208,
 		"first_name": "D'Angelo",
 		"last_name": "Russell",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
@@ -14713,22 +13929,18 @@
 			"Potential": 84,
 			"Total Attributes": 2557
 		},
-		"badge_count": [
-			11,
-			25,
-			6,
-			0,
-			42
-		]
+		"bronze_badges": 25,
+		"silver_badges": 25,
+		"gold_badges": 25,
+		"hof_badges": 25,
+		"total_badges": 25
 	},
 	{
 		"player_id": 209,
 		"first_name": "Kyle",
 		"last_name": "Anderson",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Perimeter Defender",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
@@ -14784,22 +13996,18 @@
 			"Potential": 79,
 			"Total Attributes": 2663
 		},
-		"badge_count": [
-			7,
-			4,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 210,
 		"first_name": "Naz",
 		"last_name": "Reid",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
@@ -14855,22 +14063,18 @@
 			"Potential": 77,
 			"Total Attributes": 2608
 		},
-		"badge_count": [
-			6,
-			2,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 211,
 		"first_name": "Jaden",
 		"last_name": "McDaniels",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
@@ -14926,22 +14130,18 @@
 			"Potential": 79,
 			"Total Attributes": 2580
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 212,
 		"first_name": "Eric",
 		"last_name": "Paschall",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Shot Creator",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 198,
@@ -14997,22 +14197,18 @@
 			"Potential": 79,
 			"Total Attributes": 2534
 		},
-		"badge_count": [
-			8,
-			0,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 213,
 		"first_name": "Jaylen",
 		"last_name": "Nowell",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Shot Creator",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
@@ -15068,22 +14264,18 @@
 			"Potential": 76,
 			"Total Attributes": 2461
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 214,
 		"first_name": "Taurean",
 		"last_name": "Prince",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 201,
@@ -15139,22 +14331,18 @@
 			"Potential": 76,
 			"Total Attributes": 2605
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 215,
 		"first_name": "Jordan",
 		"last_name": "McLaughlin",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Pass-First Point",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 180,
@@ -15210,22 +14398,18 @@
 			"Potential": 75,
 			"Total Attributes": 2495
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 216,
 		"first_name": "Austin",
 		"last_name": "Rivers",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Offense Initiator",
 		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
@@ -15281,22 +14465,18 @@
 			"Potential": 74,
 			"Total Attributes": 2433
 		},
-		"badge_count": [
-			11,
-			3,
-			0,
-			0,
-			14
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 217,
 		"first_name": "Zion",
 		"last_name": "Williamson",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Slashing Four",
 		"nba_team": "New Orleans Pelicans",
 		"height": 198,
@@ -15352,22 +14532,18 @@
 			"Potential": 96,
 			"Total Attributes": 2963
 		},
-		"badge_count": [
-			6,
-			9,
-			17,
-			2,
-			34
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 218,
 		"first_name": "C.J.",
 		"last_name": "McCollum",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Scoring Machine",
 		"nba_team": "New Orleans Pelicans",
 		"height": 191,
@@ -15423,22 +14599,18 @@
 			"Potential": 87,
 			"Total Attributes": 2691
 		},
-		"badge_count": [
-			10,
-			12,
-			14,
-			0,
-			36
-		]
+		"bronze_badges": 12,
+		"silver_badges": 12,
+		"gold_badges": 12,
+		"hof_badges": 12,
+		"total_badges": 12
 	},
 	{
 		"player_id": 219,
 		"first_name": "Brandon",
 		"last_name": "Ingram",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Shot Creator",
 		"nba_team": "New Orleans Pelicans",
 		"height": 203,
@@ -15494,21 +14666,18 @@
 			"Potential": 88,
 			"Total Attributes": 2771
 		},
-		"badge_count": [
-			8,
-			20,
-			2,
-			0,
-			30
-		]
+		"bronze_badges": 20,
+		"silver_badges": 20,
+		"gold_badges": 20,
+		"hof_badges": 20,
+		"total_badges": 20
 	},
 	{
 		"player_id": 220,
 		"first_name": "Jonas",
 		"last_name": "Valanciunas",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Finisher",
 		"nba_team": "New Orleans Pelicans",
 		"height": 211,
@@ -15564,22 +14733,18 @@
 			"Potential": 83,
 			"Total Attributes": 2596
 		},
-		"badge_count": [
-			4,
-			8,
-			5,
-			0,
-			17
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 221,
 		"first_name": "Herbert",
 		"last_name": "Jones",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "New Orleans Pelicans",
 		"height": 201,
@@ -15635,22 +14800,18 @@
 			"Potential": 78,
 			"Total Attributes": 2730
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 222,
 		"first_name": "Larry",
 		"last_name": "Nance Jr.",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Finisher",
 		"nba_team": "New Orleans Pelicans",
 		"height": 201,
@@ -15706,21 +14867,18 @@
 			"Potential": 78,
 			"Total Attributes": 2654
 		},
-		"badge_count": [
-			5,
-			8,
-			2,
-			0,
-			15
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 223,
 		"first_name": "Jaxson",
 		"last_name": "Hayes",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Defender",
 		"nba_team": "New Orleans Pelicans",
 		"height": 211,
@@ -15776,21 +14934,18 @@
 			"Potential": 79,
 			"Total Attributes": 2471
 		},
-		"badge_count": [
-			4,
-			2,
-			3,
-			0,
-			9
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 224,
 		"first_name": "Jose",
 		"last_name": "Alvarado",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "New Orleans Pelicans",
 		"height": 183,
@@ -15846,22 +15001,18 @@
 			"Potential": 76,
 			"Total Attributes": 2547
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 225,
 		"first_name": "Trey",
 		"last_name": "Murphy",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "New Orleans Pelicans",
 		"height": 203,
@@ -15917,22 +15068,18 @@
 			"Potential": 80,
 			"Total Attributes": 2467
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 226,
 		"first_name": "Devonte'",
 		"last_name": "Graham",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "New Orleans Pelicans",
 		"height": 185,
@@ -15988,21 +15135,18 @@
 			"Potential": 79,
 			"Total Attributes": 2492
 		},
-		"badge_count": [
-			12,
-			14,
-			1,
-			0,
-			27
-		]
+		"bronze_badges": 14,
+		"silver_badges": 14,
+		"gold_badges": 14,
+		"hof_badges": 14,
+		"total_badges": 14
 	},
 	{
 		"player_id": 227,
 		"first_name": "Willy",
 		"last_name": "Hernangomez",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "New Orleans Pelicans",
 		"height": 211,
@@ -16058,22 +15202,18 @@
 			"Potential": 75,
 			"Total Attributes": 2328
 		},
-		"badge_count": [
-			3,
-			2,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 228,
 		"first_name": "Naji",
 		"last_name": "Marshall",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Finisher",
 		"nba_team": "New Orleans Pelicans",
 		"height": 201,
@@ -16129,22 +15269,18 @@
 			"Potential": 74,
 			"Total Attributes": 2512
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 229,
 		"first_name": "R.J.",
 		"last_name": "Barrett",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Slasher",
 		"nba_team": "New York Knicks",
 		"height": 198,
@@ -16200,22 +15336,18 @@
 			"Potential": 86,
 			"Total Attributes": 2854
 		},
-		"badge_count": [
-			19,
-			2,
-			2,
-			0,
-			23
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 230,
 		"first_name": "Derrick",
 		"last_name": "Rose",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Inside-Out Playmaker",
 		"nba_team": "New York Knicks",
 		"height": 188,
@@ -16271,22 +15403,18 @@
 			"Potential": 84,
 			"Total Attributes": 2697
 		},
-		"badge_count": [
-			10,
-			17,
-			3,
-			0,
-			30
-		]
+		"bronze_badges": 17,
+		"silver_badges": 17,
+		"gold_badges": 17,
+		"hof_badges": 17,
+		"total_badges": 17
 	},
 	{
 		"player_id": 231,
 		"first_name": "Julius",
 		"last_name": "Randle",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Well-Rounded Four",
 		"nba_team": "New York Knicks",
 		"height": 203,
@@ -16342,21 +15470,18 @@
 			"Potential": 87,
 			"Total Attributes": 2824
 		},
-		"badge_count": [
-			18,
-			19,
-			4,
-			0,
-			41
-		]
+		"bronze_badges": 19,
+		"silver_badges": 19,
+		"gold_badges": 19,
+		"hof_badges": 19,
+		"total_badges": 19
 	},
 	{
 		"player_id": 232,
 		"first_name": "Mitchell",
 		"last_name": "Robinson",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "New York Knicks",
 		"height": 213,
@@ -16412,21 +15537,18 @@
 			"Potential": 82,
 			"Total Attributes": 2582
 		},
-		"badge_count": [
-			3,
-			1,
-			6,
-			0,
-			10
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 233,
 		"first_name": "Jalen",
 		"last_name": "Brunson",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Mid-Range Playmaker",
 		"nba_team": "New York Knicks",
 		"height": 185,
@@ -16482,22 +15604,18 @@
 			"Potential": 81,
 			"Total Attributes": 2652
 		},
-		"badge_count": [
-			8,
-			9,
-			0,
-			0,
-			17
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 234,
 		"first_name": "Immanuel",
 		"last_name": "Quickley",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Pass-First Guard",
 		"nba_team": "New York Knicks",
 		"height": 191,
@@ -16553,22 +15671,18 @@
 			"Potential": 83,
 			"Total Attributes": 2609
 		},
-		"badge_count": [
-			6,
-			4,
-			1,
-			0,
-			11
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 235,
 		"first_name": "Obi",
 		"last_name": "Toppin",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Lob Threat",
 		"nba_team": "New York Knicks",
 		"height": 206,
@@ -16624,22 +15738,18 @@
 			"Potential": 82,
 			"Total Attributes": 2557
 		},
-		"badge_count": [
-			3,
-			1,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 236,
 		"first_name": "Cam",
 		"last_name": "Reddish",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "New York Knicks",
 		"height": 203,
@@ -16695,22 +15805,18 @@
 			"Potential": 80,
 			"Total Attributes": 2660
 		},
-		"badge_count": [
-			13,
-			0,
-			0,
-			0,
-			13
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 237,
 		"first_name": "Evan",
 		"last_name": "Fournier",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shot Creator",
 		"nba_team": "New York Knicks",
 		"height": 201,
@@ -16766,21 +15872,18 @@
 			"Potential": 79,
 			"Total Attributes": 2436
 		},
-		"badge_count": [
-			7,
-			9,
-			3,
-			0,
-			19
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 238,
 		"first_name": "Isaiah",
 		"last_name": "Hartenstein",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Defender",
 		"nba_team": "New York Knicks",
 		"height": 213,
@@ -16836,22 +15939,18 @@
 			"Potential": 75,
 			"Total Attributes": 2527
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 239,
 		"first_name": "Quentin",
 		"last_name": "Grimes",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shot Creator",
 		"nba_team": "New York Knicks",
 		"height": 193,
@@ -16907,22 +16006,18 @@
 			"Potential": 80,
 			"Total Attributes": 2452
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 240,
 		"first_name": "Miles",
 		"last_name": "McBride",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Mid-Range Shot Creator",
 		"nba_team": "New York Knicks",
 		"height": 185,
@@ -16978,22 +16073,18 @@
 			"Potential": 76,
 			"Total Attributes": 2428
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 241,
 		"first_name": "Shai",
 		"last_name": "Gilgeous-Alexander",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
@@ -17049,22 +16140,18 @@
 			"Potential": 89,
 			"Total Attributes": 2940
 		},
-		"badge_count": [
-			16,
-			20,
-			1,
-			0,
-			37
-		]
+		"bronze_badges": 20,
+		"silver_badges": 20,
+		"gold_badges": 20,
+		"hof_badges": 20,
+		"total_badges": 20
 	},
 	{
 		"player_id": 242,
 		"first_name": "Josh",
 		"last_name": "Giddey",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Pass-First Guard",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
@@ -17120,22 +16207,18 @@
 			"Potential": 85,
 			"Total Attributes": 2772
 		},
-		"badge_count": [
-			3,
-			2,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 243,
 		"first_name": "Luguentz",
 		"last_name": "Dort",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 191,
@@ -17191,22 +16274,18 @@
 			"Potential": 80,
 			"Total Attributes": 2641
 		},
-		"badge_count": [
-			3,
-			10,
-			2,
-			0,
-			15
-		]
+		"bronze_badges": 10,
+		"silver_badges": 10,
+		"gold_badges": 10,
+		"hof_badges": 10,
+		"total_badges": 10
 	},
 	{
 		"player_id": 244,
 		"first_name": "Tre",
 		"last_name": "Mann",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offensive-Minded Guard",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 191,
@@ -17262,21 +16341,18 @@
 			"Potential": 80,
 			"Total Attributes": 2526
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 245,
 		"first_name": "Darius",
 		"last_name": "Bazley",
-		"positions": [
-			"PF"
-		],
+		"primary_position": "PF",
+		"secondary_position": null,
 		"archetype": "Finisher",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
@@ -17332,22 +16408,18 @@
 			"Potential": 78,
 			"Total Attributes": 2504
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 246,
 		"first_name": "Aleksej",
 		"last_name": "Pokusevski",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 213,
@@ -17403,22 +16475,18 @@
 			"Potential": 80,
 			"Total Attributes": 2498
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 247,
 		"first_name": "Derrick",
 		"last_name": "Favors",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Mid-Range Specialist",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 206,
@@ -17474,22 +16542,18 @@
 			"Potential": 77,
 			"Total Attributes": 2463
 		},
-		"badge_count": [
-			6,
-			5,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 248,
 		"first_name": "Kenrich",
 		"last_name": "Williams",
-		"positions": [
-			"SF",
-			"PG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PG",
 		"archetype": "Shooter",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
@@ -17545,22 +16609,18 @@
 			"Potential": 76,
 			"Total Attributes": 2526
 		},
-		"badge_count": [
-			2,
-			2,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 249,
 		"first_name": "Mike",
 		"last_name": "Muscala",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Stretch Five",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 208,
@@ -17616,22 +16676,18 @@
 			"Potential": 76,
 			"Total Attributes": 2425
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 250,
 		"first_name": "Theo",
 		"last_name": "Maledon",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 193,
@@ -17687,21 +16743,18 @@
 			"Potential": 79,
 			"Total Attributes": 2441
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 251,
 		"first_name": "Jeremiah",
 		"last_name": "Robinson-Earl",
-		"positions": [
-			"PF"
-		],
+		"primary_position": "PF",
+		"secondary_position": null,
 		"archetype": "Stretch Five",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
@@ -17757,22 +16810,18 @@
 			"Potential": 78,
 			"Total Attributes": 2477
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 252,
 		"first_name": "Aaron",
 		"last_name": "Wiggins",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Finesse Finisher",
 		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
@@ -17828,21 +16877,18 @@
 			"Potential": 77,
 			"Total Attributes": 2348
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 253,
 		"first_name": "Wendell",
 		"last_name": "Carter Jr.",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "2-Way Inside-the-Arc Scorer",
 		"nba_team": "Orlando Magic",
 		"height": 208,
@@ -17898,21 +16944,18 @@
 			"Potential": 83,
 			"Total Attributes": 2754
 		},
-		"badge_count": [
-			6,
-			4,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 254,
 		"first_name": "Mohamed",
 		"last_name": "Bamba",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Defender",
 		"nba_team": "Orlando Magic",
 		"height": 213,
@@ -17968,22 +17011,18 @@
 			"Potential": 80,
 			"Total Attributes": 2595
 		},
-		"badge_count": [
-			1,
-			4,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 255,
 		"first_name": "Jonathan",
 		"last_name": "Isaac",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Orlando Magic",
 		"height": 211,
@@ -18039,22 +17078,18 @@
 			"Potential": 80,
 			"Total Attributes": 2683
 		},
-		"badge_count": [
-			10,
-			7,
-			1,
-			0,
-			18
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 256,
 		"first_name": "Franz",
 		"last_name": "Wagner",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Orlando Magic",
 		"height": 208,
@@ -18110,22 +17145,18 @@
 			"Potential": 82,
 			"Total Attributes": 2678
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 257,
 		"first_name": "Cole",
 		"last_name": "Anthony",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Orlando Magic",
 		"height": 191,
@@ -18181,22 +17212,18 @@
 			"Potential": 81,
 			"Total Attributes": 2700
 		},
-		"badge_count": [
-			11,
-			4,
-			0,
-			0,
-			15
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 258,
 		"first_name": "Markelle",
 		"last_name": "Fultz",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Orlando Magic",
 		"height": 191,
@@ -18252,22 +17279,18 @@
 			"Potential": 79,
 			"Total Attributes": 2680
 		},
-		"badge_count": [
-			13,
-			5,
-			0,
-			0,
-			18
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 259,
 		"first_name": "Jalen",
 		"last_name": "Suggs",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Orlando Magic",
 		"height": 196,
@@ -18323,22 +17346,18 @@
 			"Potential": 88,
 			"Total Attributes": 2684
 		},
-		"badge_count": [
-			11,
-			1,
-			0,
-			0,
-			12
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 260,
 		"first_name": "Chuma",
 		"last_name": "Okeke",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Perimeter Defender",
 		"nba_team": "Orlando Magic",
 		"height": 198,
@@ -18394,22 +17413,18 @@
 			"Potential": 79,
 			"Total Attributes": 2563
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 261,
 		"first_name": "Moritz",
 		"last_name": "Wagner",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Stretch Five",
 		"nba_team": "Orlando Magic",
 		"height": 211,
@@ -18465,22 +17480,18 @@
 			"Potential": 78,
 			"Total Attributes": 2474
 		},
-		"badge_count": [
-			0,
-			3,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 262,
 		"first_name": "Terrence",
 		"last_name": "Ross",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Athletic Finisher",
 		"nba_team": "Orlando Magic",
 		"height": 198,
@@ -18536,22 +17547,18 @@
 			"Potential": 78,
 			"Total Attributes": 2496
 		},
-		"badge_count": [
-			6,
-			7,
-			0,
-			0,
-			13
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 263,
 		"first_name": "Gary",
 		"last_name": "Harris",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Orlando Magic",
 		"height": 193,
@@ -18607,22 +17614,18 @@
 			"Potential": 76,
 			"Total Attributes": 2474
 		},
-		"badge_count": [
-			8,
-			1,
-			0,
-			0,
-			9
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 264,
 		"first_name": "R.J.",
 		"last_name": "Hampton",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Playmaker",
 		"nba_team": "Orlando Magic",
 		"height": 193,
@@ -18678,21 +17681,18 @@
 			"Potential": 79,
 			"Total Attributes": 2566
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 265,
 		"first_name": "Joel",
 		"last_name": "Embiid",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "2-Way 3-Level Scorer",
 		"nba_team": "Philadelphia 76ers",
 		"height": 213,
@@ -18748,22 +17748,18 @@
 			"Potential": 96,
 			"Total Attributes": 3087
 		},
-		"badge_count": [
-			4,
-			12,
-			21,
-			0,
-			37
-		]
+		"bronze_badges": 12,
+		"silver_badges": 12,
+		"gold_badges": 12,
+		"hof_badges": 12,
+		"total_badges": 12
 	},
 	{
 		"player_id": 266,
 		"first_name": "James",
 		"last_name": "Harden",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Philadelphia 76ers",
 		"height": 196,
@@ -18819,22 +17815,18 @@
 			"Potential": 95,
 			"Total Attributes": 2988
 		},
-		"badge_count": [
-			1,
-			4,
-			37,
-			4,
-			46
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 267,
 		"first_name": "Tyrese",
 		"last_name": "Maxey",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Philadelphia 76ers",
 		"height": 188,
@@ -18890,22 +17882,18 @@
 			"Potential": 84,
 			"Total Attributes": 2695
 		},
-		"badge_count": [
-			7,
-			13,
-			0,
-			0,
-			20
-		]
+		"bronze_badges": 13,
+		"silver_badges": 13,
+		"gold_badges": 13,
+		"hof_badges": 13,
+		"total_badges": 13
 	},
 	{
 		"player_id": 268,
 		"first_name": "Tobias",
 		"last_name": "Harris",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Stretch Four",
 		"nba_team": "Philadelphia 76ers",
 		"height": 203,
@@ -18961,22 +17949,18 @@
 			"Potential": 85,
 			"Total Attributes": 2740
 		},
-		"badge_count": [
-			8,
-			10,
-			6,
-			0,
-			24
-		]
+		"bronze_badges": 10,
+		"silver_badges": 10,
+		"gold_badges": 10,
+		"hof_badges": 10,
+		"total_badges": 10
 	},
 	{
 		"player_id": 269,
 		"first_name": "De'Anthony",
 		"last_name": "Melton",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Philadelphia 76ers",
 		"height": 188,
@@ -19032,22 +18016,18 @@
 			"Potential": 80,
 			"Total Attributes": 2782
 		},
-		"badge_count": [
-			5,
-			3,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 270,
 		"first_name": "Matisse",
 		"last_name": "Thybulle",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Philadelphia 76ers",
 		"height": 196,
@@ -19103,22 +18083,18 @@
 			"Potential": 79,
 			"Total Attributes": 2421
 		},
-		"badge_count": [
-			5,
-			3,
-			10,
-			0,
-			18
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 271,
 		"first_name": "P.J.",
 		"last_name": "Tucker",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Stretch Four",
 		"nba_team": "Philadelphia 76ers",
 		"height": 196,
@@ -19174,22 +18150,18 @@
 			"Potential": 78,
 			"Total Attributes": 2559
 		},
-		"badge_count": [
-			11,
-			3,
-			3,
-			0,
-			17
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 272,
 		"first_name": "Paul",
 		"last_name": "Millsap",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Glass Cleaner",
 		"nba_team": "Philadelphia 76ers",
 		"height": 201,
@@ -19245,22 +18217,18 @@
 			"Potential": 81,
 			"Total Attributes": 2497
 		},
-		"badge_count": [
-			8,
-			6,
-			0,
-			0,
-			14
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 273,
 		"first_name": "Shake",
 		"last_name": "Milton",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Philadelphia 76ers",
 		"height": 196,
@@ -19316,21 +18284,18 @@
 			"Potential": 76,
 			"Total Attributes": 2470
 		},
-		"badge_count": [
-			4,
-			3,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 274,
 		"first_name": "Charles",
 		"last_name": "Bassey",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Philadelphia 76ers",
 		"height": 206,
@@ -19386,22 +18351,18 @@
 			"Potential": 76,
 			"Total Attributes": 2363
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 275,
 		"first_name": "Furkan",
 		"last_name": "Korkmaz",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Athletic Finisher",
 		"nba_team": "Philadelphia 76ers",
 		"height": 201,
@@ -19457,22 +18418,18 @@
 			"Potential": 75,
 			"Total Attributes": 2430
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 276,
 		"first_name": "Paul",
 		"last_name": "Reed",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Philadelphia 76ers",
 		"height": 206,
@@ -19528,22 +18485,18 @@
 			"Potential": 75,
 			"Total Attributes": 2421
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 277,
 		"first_name": "Devin",
 		"last_name": "Booker",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Phoenix Suns",
 		"height": 196,
@@ -19599,21 +18552,18 @@
 			"Potential": 92,
 			"Total Attributes": 2857
 		},
-		"badge_count": [
-			9,
-			19,
-			14,
-			0,
-			42
-		]
+		"bronze_badges": 19,
+		"silver_badges": 19,
+		"gold_badges": 19,
+		"hof_badges": 19,
+		"total_badges": 19
 	},
 	{
 		"player_id": 278,
 		"first_name": "Chris",
 		"last_name": "Paul",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way Slashing Playmaker",
 		"nba_team": "Phoenix Suns",
 		"height": 183,
@@ -19669,21 +18619,18 @@
 			"Potential": 95,
 			"Total Attributes": 2841
 		},
-		"badge_count": [
-			9,
-			17,
-			28,
-			0,
-			54
-		]
+		"bronze_badges": 17,
+		"silver_badges": 17,
+		"gold_badges": 17,
+		"hof_badges": 17,
+		"total_badges": 17
 	},
 	{
 		"player_id": 279,
 		"first_name": "Deandre",
 		"last_name": "Ayton",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Beast",
 		"nba_team": "Phoenix Suns",
 		"height": 211,
@@ -19739,22 +18686,18 @@
 			"Potential": 89,
 			"Total Attributes": 2791
 		},
-		"badge_count": [
-			5,
-			11,
-			0,
-			0,
-			16
-		]
+		"bronze_badges": 11,
+		"silver_badges": 11,
+		"gold_badges": 11,
+		"hof_badges": 11,
+		"total_badges": 11
 	},
 	{
 		"player_id": 280,
 		"first_name": "Mikal",
 		"last_name": "Bridges",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Phoenix Suns",
 		"height": 198,
@@ -19810,22 +18753,18 @@
 			"Potential": 84,
 			"Total Attributes": 2776
 		},
-		"badge_count": [
-			10,
-			2,
-			6,
-			0,
-			18
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 281,
 		"first_name": "Cameron",
 		"last_name": "Johnson",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Stretch Four",
 		"nba_team": "Phoenix Suns",
 		"height": 203,
@@ -19881,21 +18820,18 @@
 			"Potential": 81,
 			"Total Attributes": 2586
 		},
-		"badge_count": [
-			6,
-			3,
-			2,
-			0,
-			11
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 282,
 		"first_name": "Cameron",
 		"last_name": "Payne",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Shot Creator",
 		"nba_team": "Phoenix Suns",
 		"height": 185,
@@ -19951,22 +18887,18 @@
 			"Potential": 78,
 			"Total Attributes": 2423
 		},
-		"badge_count": [
-			8,
-			0,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 283,
 		"first_name": "Dario",
 		"last_name": "Saric",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Stretch Facilitator",
 		"nba_team": "Phoenix Suns",
 		"height": 208,
@@ -20022,22 +18954,18 @@
 			"Potential": 77,
 			"Total Attributes": 2593
 		},
-		"badge_count": [
-			4,
-			1,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 284,
 		"first_name": "Jae",
 		"last_name": "Crowder",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Stretch Four",
 		"nba_team": "Phoenix Suns",
 		"height": 198,
@@ -20093,22 +19021,18 @@
 			"Potential": 77,
 			"Total Attributes": 2703
 		},
-		"badge_count": [
-			5,
-			1,
-			1,
-			0,
-			7
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 285,
 		"first_name": "Landry",
 		"last_name": "Shamet",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "3PT Shot Creator",
 		"nba_team": "Phoenix Suns",
 		"height": 193,
@@ -20164,22 +19088,18 @@
 			"Potential": 76,
 			"Total Attributes": 2400
 		},
-		"badge_count": [
-			7,
-			2,
-			0,
-			0,
-			9
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 286,
 		"first_name": "Torrey",
 		"last_name": "Craig",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Phoenix Suns",
 		"height": 201,
@@ -20235,22 +19155,18 @@
 			"Potential": 76,
 			"Total Attributes": 2437
 		},
-		"badge_count": [
-			5,
-			1,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 287,
 		"first_name": "Damion",
 		"last_name": "Lee",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "3PT Shooter",
 		"nba_team": "Phoenix Suns",
 		"height": 196,
@@ -20306,21 +19222,18 @@
 			"Potential": 74,
 			"Total Attributes": 2438
 		},
-		"badge_count": [
-			2,
-			3,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 288,
 		"first_name": "Elfrid",
 		"last_name": "Payton",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way Tempo Pusher",
 		"nba_team": "Phoenix Suns",
 		"height": 191,
@@ -20376,21 +19289,18 @@
 			"Potential": 75,
 			"Total Attributes": 2529
 		},
-		"badge_count": [
-			6,
-			0,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 289,
 		"first_name": "Damian",
 		"last_name": "Lillard",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Offensive Threat",
 		"nba_team": "Portland Trail Blazers",
 		"height": 188,
@@ -20446,21 +19356,18 @@
 			"Potential": 94,
 			"Total Attributes": 2775
 		},
-		"badge_count": [
-			2,
-			12,
-			31,
-			2,
-			47
-		]
+		"bronze_badges": 12,
+		"silver_badges": 12,
+		"gold_badges": 12,
+		"hof_badges": 12,
+		"total_badges": 12
 	},
 	{
 		"player_id": 290,
 		"first_name": "Jusuf",
 		"last_name": "Nurkic",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Portland Trail Blazers",
 		"height": 211,
@@ -20516,22 +19423,18 @@
 			"Potential": 83,
 			"Total Attributes": 2656
 		},
-		"badge_count": [
-			4,
-			5,
-			2,
-			0,
-			11
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 291,
 		"first_name": "Jerami",
 		"last_name": "Grant",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Slashing Four",
 		"nba_team": "Portland Trail Blazers",
 		"height": 203,
@@ -20587,22 +19490,18 @@
 			"Potential": 83,
 			"Total Attributes": 2786
 		},
-		"badge_count": [
-			11,
-			10,
-			0,
-			0,
-			21
-		]
+		"bronze_badges": 10,
+		"silver_badges": 10,
+		"gold_badges": 10,
+		"hof_badges": 10,
+		"total_badges": 10
 	},
 	{
 		"player_id": 292,
 		"first_name": "Anfernee",
 		"last_name": "Simons",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Scoring Machine",
 		"nba_team": "Portland Trail Blazers",
 		"height": 191,
@@ -20658,22 +19557,18 @@
 			"Potential": 81,
 			"Total Attributes": 2574
 		},
-		"badge_count": [
-			3,
-			0,
-			1,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 293,
 		"first_name": "Josh",
 		"last_name": "Hart",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Inside-Out Playmaker",
 		"nba_team": "Portland Trail Blazers",
 		"height": 196,
@@ -20729,22 +19624,18 @@
 			"Potential": 80,
 			"Total Attributes": 2700
 		},
-		"badge_count": [
-			6,
-			2,
-			2,
-			0,
-			10
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 294,
 		"first_name": "Gary",
 		"last_name": "Payton II",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Portland Trail Blazers",
 		"height": 191,
@@ -20800,22 +19691,18 @@
 			"Potential": 78,
 			"Total Attributes": 2723
 		},
-		"badge_count": [
-			2,
-			2,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 295,
 		"first_name": "Nassir",
 		"last_name": "Little",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Multi-Position Defender",
 		"nba_team": "Portland Trail Blazers",
 		"height": 196,
@@ -20871,22 +19758,18 @@
 			"Potential": 77,
 			"Total Attributes": 2593
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 296,
 		"first_name": "Justise",
 		"last_name": "Winslow",
-		"positions": [
-			"SF",
-			"PG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PG",
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Portland Trail Blazers",
 		"height": 198,
@@ -20942,22 +19825,18 @@
 			"Potential": 76,
 			"Total Attributes": 2625
 		},
-		"badge_count": [
-			6,
-			0,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 297,
 		"first_name": "Trendon",
 		"last_name": "Watford",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Finisher",
 		"nba_team": "Portland Trail Blazers",
 		"height": 203,
@@ -21013,22 +19892,18 @@
 			"Potential": 76,
 			"Total Attributes": 2564
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 298,
 		"first_name": "Drew",
 		"last_name": "Eubanks",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Glass Cleaner",
 		"nba_team": "Portland Trail Blazers",
 		"height": 206,
@@ -21084,21 +19959,18 @@
 			"Potential": 76,
 			"Total Attributes": 2450
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 299,
 		"first_name": "Brandon",
 		"last_name": "Williams",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Westchester Knicks",
 		"height": 188,
@@ -21154,22 +20026,18 @@
 			"Potential": 75,
 			"Total Attributes": 2505
 		},
-		"badge_count": [
-			1,
-			2,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 300,
 		"first_name": "Ben",
 		"last_name": "McLemore",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "Portland Trail Blazers",
 		"height": 191,
@@ -21225,22 +20093,18 @@
 			"Potential": 75,
 			"Total Attributes": 2431
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 301,
 		"first_name": "Domantas",
 		"last_name": "Sabonis",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Post Facilitator",
 		"nba_team": "Sacramento Kings",
 		"height": 211,
@@ -21296,21 +20160,18 @@
 			"Potential": 87,
 			"Total Attributes": 2790
 		},
-		"badge_count": [
-			5,
-			10,
-			8,
-			0,
-			23
-		]
+		"bronze_badges": 10,
+		"silver_badges": 10,
+		"gold_badges": 10,
+		"hof_badges": 10,
+		"total_badges": 10
 	},
 	{
 		"player_id": 302,
 		"first_name": "De'Aaron",
 		"last_name": "Fox",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Sacramento Kings",
 		"height": 191,
@@ -21366,22 +20227,18 @@
 			"Potential": 88,
 			"Total Attributes": 2678
 		},
-		"badge_count": [
-			13,
-			12,
-			13,
-			0,
-			38
-		]
+		"bronze_badges": 12,
+		"silver_badges": 12,
+		"gold_badges": 12,
+		"hof_badges": 12,
+		"total_badges": 12
 	},
 	{
 		"player_id": 303,
 		"first_name": "Harrison",
 		"last_name": "Barnes",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Shooter",
 		"nba_team": "Sacramento Kings",
 		"height": 203,
@@ -21437,22 +20294,18 @@
 			"Potential": 80,
 			"Total Attributes": 2693
 		},
-		"badge_count": [
-			6,
-			1,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 304,
 		"first_name": "Malik",
 		"last_name": "Monk",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Inside-Out Playmaker",
 		"nba_team": "Sacramento Kings",
 		"height": 191,
@@ -21508,22 +20361,18 @@
 			"Potential": 78,
 			"Total Attributes": 2585
 		},
-		"badge_count": [
-			9,
-			3,
-			0,
-			0,
-			12
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 305,
 		"first_name": "Terence",
 		"last_name": "Davis",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Sacramento Kings",
 		"height": 193,
@@ -21579,21 +20428,18 @@
 			"Potential": 78,
 			"Total Attributes": 2696
 		},
-		"badge_count": [
-			6,
-			1,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 306,
 		"first_name": "Davion",
 		"last_name": "Mitchell",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Sacramento Kings",
 		"height": 183,
@@ -21649,21 +20495,18 @@
 			"Potential": 83,
 			"Total Attributes": 2544
 		},
-		"badge_count": [
-			9,
-			1,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 307,
 		"first_name": "Richaun",
 		"last_name": "Holmes",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Stretch Five",
 		"nba_team": "Sacramento Kings",
 		"height": 208,
@@ -21719,22 +20562,18 @@
 			"Potential": 79,
 			"Total Attributes": 2503
 		},
-		"badge_count": [
-			4,
-			6,
-			1,
-			0,
-			11
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 308,
 		"first_name": "Kevin",
 		"last_name": "Huerter",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shot Creator",
 		"nba_team": "Sacramento Kings",
 		"height": 201,
@@ -21790,22 +20629,18 @@
 			"Potential": 80,
 			"Total Attributes": 2469
 		},
-		"badge_count": [
-			8,
-			3,
-			0,
-			0,
-			11
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 309,
 		"first_name": "Trey",
 		"last_name": "Lyles",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Sacramento Kings",
 		"height": 206,
@@ -21861,21 +20696,18 @@
 			"Potential": 76,
 			"Total Attributes": 2476
 		},
-		"badge_count": [
-			1,
-			1,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 310,
 		"first_name": "Alex",
 		"last_name": "Len",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Paint Defender",
 		"nba_team": "Sacramento Kings",
 		"height": 213,
@@ -21931,22 +20763,18 @@
 			"Potential": 76,
 			"Total Attributes": 2382
 		},
-		"badge_count": [
-			5,
-			0,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 311,
 		"first_name": "Chimezie",
 		"last_name": "Metu",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Sacramento Kings",
 		"height": 206,
@@ -22002,21 +20830,18 @@
 			"Potential": 75,
 			"Total Attributes": 2440
 		},
-		"badge_count": [
-			1,
-			0,
-			0,
-			0,
-			1
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 312,
 		"first_name": "Quinn",
 		"last_name": "Cook",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Offensive-Minded Point",
 		"nba_team": "Sacramento Kings",
 		"height": 185,
@@ -22072,22 +20897,18 @@
 			"Potential": 76,
 			"Total Attributes": 2298
 		},
-		"badge_count": [
-			8,
-			0,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 313,
 		"first_name": "Keldon",
 		"last_name": "Johnson",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Stretch Four",
 		"nba_team": "San Antonio Spurs",
 		"height": 198,
@@ -22143,21 +20964,18 @@
 			"Potential": 82,
 			"Total Attributes": 2675
 		},
-		"badge_count": [
-			2,
-			6,
-			1,
-			0,
-			9
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 314,
 		"first_name": "Jakob",
 		"last_name": "Poeltl",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "San Antonio Spurs",
 		"height": 216,
@@ -22213,22 +21031,18 @@
 			"Potential": 80,
 			"Total Attributes": 2526
 		},
-		"badge_count": [
-			5,
-			5,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 315,
 		"first_name": "Isaiah",
 		"last_name": "Roby",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Stretch Five",
 		"nba_team": "San Antonio Spurs",
 		"height": 203,
@@ -22284,22 +21098,18 @@
 			"Potential": 77,
 			"Total Attributes": 2575
 		},
-		"badge_count": [
-			6,
-			0,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 316,
 		"first_name": "Devin",
 		"last_name": "Vassell",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "San Antonio Spurs",
 		"height": 196,
@@ -22355,22 +21165,18 @@
 			"Potential": 81,
 			"Total Attributes": 2619
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 317,
 		"first_name": "Josh",
 		"last_name": "Richardson",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "3 & D Wing",
 		"nba_team": "San Antonio Spurs",
 		"height": 196,
@@ -22426,22 +21232,18 @@
 			"Potential": 77,
 			"Total Attributes": 2570
 		},
-		"badge_count": [
-			11,
-			4,
-			0,
-			0,
-			15
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 318,
 		"first_name": "Zach",
 		"last_name": "Collins",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Glass Cleaner",
 		"nba_team": "San Antonio Spurs",
 		"height": 211,
@@ -22497,21 +21299,18 @@
 			"Potential": 79,
 			"Total Attributes": 2426
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 319,
 		"first_name": "Gorgui",
 		"last_name": "Dieng",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "San Antonio Spurs",
 		"height": 208,
@@ -22567,22 +21366,18 @@
 			"Potential": 78,
 			"Total Attributes": 2434
 		},
-		"badge_count": [
-			4,
-			1,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 320,
 		"first_name": "Keita",
 		"last_name": "Bates-Diop",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Stretch Four",
 		"nba_team": "San Antonio Spurs",
 		"height": 203,
@@ -22638,21 +21433,18 @@
 			"Potential": 75,
 			"Total Attributes": 2466
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 321,
 		"first_name": "Tre",
 		"last_name": "Jones",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Mid-Range Specialist",
 		"nba_team": "San Antonio Spurs",
 		"height": 185,
@@ -22708,22 +21500,18 @@
 			"Potential": 77,
 			"Total Attributes": 2460
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 322,
 		"first_name": "Doug",
 		"last_name": "McDermott",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "San Antonio Spurs",
 		"height": 201,
@@ -22779,22 +21567,18 @@
 			"Potential": 76,
 			"Total Attributes": 2327
 		},
-		"badge_count": [
-			4,
-			1,
-			1,
-			0,
-			6
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 323,
 		"first_name": "Joshua",
 		"last_name": "Primo",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Mid-Range Shooter",
 		"nba_team": "San Antonio Spurs",
 		"height": 193,
@@ -22850,22 +21634,18 @@
 			"Potential": 81,
 			"Total Attributes": 2427
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 324,
 		"first_name": "Alize",
 		"last_name": "Johnson",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Glass Cleaner",
 		"nba_team": "San Antonio Spurs",
 		"height": 203,
@@ -22921,22 +21701,18 @@
 			"Potential": 74,
 			"Total Attributes": 2363
 		},
-		"badge_count": [
-			3,
-			2,
-			0,
-			0,
-			5
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 325,
 		"first_name": "Pascal",
 		"last_name": "Siakam",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Skilled Paint Defender",
 		"nba_team": "Toronto Raptors",
 		"height": 203,
@@ -22992,22 +21768,18 @@
 			"Potential": 87,
 			"Total Attributes": 3001
 		},
-		"badge_count": [
-			20,
-			8,
-			2,
-			0,
-			30
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 326,
 		"first_name": "Fred",
 		"last_name": "VanVleet",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "2-Way Playmaker",
 		"nba_team": "Toronto Raptors",
 		"height": 185,
@@ -23063,22 +21835,18 @@
 			"Potential": 83,
 			"Total Attributes": 2675
 		},
-		"badge_count": [
-			12,
-			23,
-			4,
-			0,
-			39
-		]
+		"bronze_badges": 23,
+		"silver_badges": 23,
+		"gold_badges": 23,
+		"hof_badges": 23,
+		"total_badges": 23
 	},
 	{
 		"player_id": 327,
 		"first_name": "Scottie",
 		"last_name": "Barnes",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Well-Rounded Four",
 		"nba_team": "Toronto Raptors",
 		"height": 203,
@@ -23134,22 +21902,18 @@
 			"Potential": 89,
 			"Total Attributes": 2864
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 328,
 		"first_name": "OG",
 		"last_name": "Anunoby",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Toronto Raptors",
 		"height": 201,
@@ -23205,22 +21969,18 @@
 			"Potential": 83,
 			"Total Attributes": 2701
 		},
-		"badge_count": [
-			13,
-			11,
-			1,
-			0,
-			25
-		]
+		"bronze_badges": 11,
+		"silver_badges": 11,
+		"gold_badges": 11,
+		"hof_badges": 11,
+		"total_badges": 11
 	},
 	{
 		"player_id": 329,
 		"first_name": "Gary",
 		"last_name": "Trent Jr.",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Offensive-Minded Guard",
 		"nba_team": "Toronto Raptors",
 		"height": 196,
@@ -23276,22 +22036,18 @@
 			"Potential": 79,
 			"Total Attributes": 2597
 		},
-		"badge_count": [
-			3,
-			5,
-			0,
-			0,
-			8
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 330,
 		"first_name": "Chris",
 		"last_name": "Boucher",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Toronto Raptors",
 		"height": 206,
@@ -23347,22 +22103,18 @@
 			"Potential": 79,
 			"Total Attributes": 2461
 		},
-		"badge_count": [
-			6,
-			4,
-			4,
-			0,
-			14
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 331,
 		"first_name": "Precious",
 		"last_name": "Achiuwa",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Toronto Raptors",
 		"height": 203,
@@ -23418,22 +22170,18 @@
 			"Potential": 80,
 			"Total Attributes": 2558
 		},
-		"badge_count": [
-			2,
-			4,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 332,
 		"first_name": "Otto",
 		"last_name": "Porter Jr.",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "2-Way Shot Creator",
 		"nba_team": "Toronto Raptors",
 		"height": 203,
@@ -23489,22 +22237,18 @@
 			"Potential": 78,
 			"Total Attributes": 2633
 		},
-		"badge_count": [
-			6,
-			0,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 333,
 		"first_name": "Khem",
 		"last_name": "Birch",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Toronto Raptors",
 		"height": 206,
@@ -23560,22 +22304,18 @@
 			"Potential": 76,
 			"Total Attributes": 2472
 		},
-		"badge_count": [
-			3,
-			0,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 334,
 		"first_name": "Thaddeus",
 		"last_name": "Young",
-		"positions": [
-			"PF",
-			"C"
-		],
+		"primary_position": "PF",
+		"secondary_position": "C",
 		"archetype": "Paint Defender",
 		"nba_team": "Toronto Raptors",
 		"height": 203,
@@ -23631,22 +22371,18 @@
 			"Potential": 79,
 			"Total Attributes": 2605
 		},
-		"badge_count": [
-			12,
-			6,
-			0,
-			0,
-			18
-		]
+		"bronze_badges": 6,
+		"silver_badges": 6,
+		"gold_badges": 6,
+		"hof_badges": 6,
+		"total_badges": 6
 	},
 	{
 		"player_id": 335,
 		"first_name": "Sviatoslav",
 		"last_name": "Mykhailiuk",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Shooter",
 		"nba_team": "Toronto Raptors",
 		"height": 201,
@@ -23702,21 +22438,18 @@
 			"Potential": 76,
 			"Total Attributes": 2368
 		},
-		"badge_count": [
-			2,
-			1,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 336,
 		"first_name": "Malachi",
 		"last_name": "Flynn",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "Mid-Interior Playmaker",
 		"nba_team": "Toronto Raptors",
 		"height": 185,
@@ -23772,22 +22505,18 @@
 			"Potential": 77,
 			"Total Attributes": 2429
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 337,
 		"first_name": "Donovan",
 		"last_name": "Mitchell",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Utah Jazz",
 		"height": 185,
@@ -23843,21 +22572,18 @@
 			"Potential": 92,
 			"Total Attributes": 2915
 		},
-		"badge_count": [
-			24,
-			26,
-			5,
-			0,
-			55
-		]
+		"bronze_badges": 26,
+		"silver_badges": 26,
+		"gold_badges": 26,
+		"hof_badges": 26,
+		"total_badges": 26
 	},
 	{
 		"player_id": 338,
 		"first_name": "Mike",
 		"last_name": "Conley",
-		"positions": [
-			"PG"
-		],
+		"primary_position": "PG",
+		"secondary_position": null,
 		"archetype": "2-Way 3PT Playmaker",
 		"nba_team": "Utah Jazz",
 		"height": 185,
@@ -23913,22 +22639,18 @@
 			"Potential": 85,
 			"Total Attributes": 2640
 		},
-		"badge_count": [
-			22,
-			10,
-			1,
-			0,
-			33
-		]
+		"bronze_badges": 10,
+		"silver_badges": 10,
+		"gold_badges": 10,
+		"hof_badges": 10,
+		"total_badges": 10
 	},
 	{
 		"player_id": 339,
 		"first_name": "Bojan",
 		"last_name": "Bogdanovic",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Stretch Four",
 		"nba_team": "Utah Jazz",
 		"height": 201,
@@ -23984,22 +22706,18 @@
 			"Potential": 81,
 			"Total Attributes": 2594
 		},
-		"badge_count": [
-			10,
-			4,
-			2,
-			0,
-			16
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 340,
 		"first_name": "Patrick",
 		"last_name": "Beverley",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Perimeter Lockdown",
 		"nba_team": "Utah Jazz",
 		"height": 185,
@@ -24055,22 +22773,18 @@
 			"Potential": 79,
 			"Total Attributes": 2594
 		},
-		"badge_count": [
-			7,
-			4,
-			7,
-			0,
-			18
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 341,
 		"first_name": "Jarred",
 		"last_name": "Vanderbilt",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Utah Jazz",
 		"height": 206,
@@ -24126,22 +22840,18 @@
 			"Potential": 79,
 			"Total Attributes": 2623
 		},
-		"badge_count": [
-			4,
-			2,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 2,
+		"silver_badges": 2,
+		"gold_badges": 2,
+		"hof_badges": 2,
+		"total_badges": 2
 	},
 	{
 		"player_id": 342,
 		"first_name": "Malik",
 		"last_name": "Beasley",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "3PT Shot Creator",
 		"nba_team": "Utah Jazz",
 		"height": 193,
@@ -24197,22 +22907,18 @@
 			"Potential": 80,
 			"Total Attributes": 2534
 		},
-		"badge_count": [
-			12,
-			8,
-			0,
-			0,
-			20
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 343,
 		"first_name": "Jordan",
 		"last_name": "Clarkson",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Slasher",
 		"nba_team": "Utah Jazz",
 		"height": 193,
@@ -24268,22 +22974,18 @@
 			"Potential": 79,
 			"Total Attributes": 2509
 		},
-		"badge_count": [
-			15,
-			7,
-			1,
-			0,
-			23
-		]
+		"bronze_badges": 7,
+		"silver_badges": 7,
+		"gold_badges": 7,
+		"hof_badges": 7,
+		"total_badges": 7
 	},
 	{
 		"player_id": 344,
 		"first_name": "Rudy",
 		"last_name": "Gay",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "3PT Shot Creator",
 		"nba_team": "Utah Jazz",
 		"height": 203,
@@ -24339,22 +23041,18 @@
 			"Potential": 78,
 			"Total Attributes": 2562
 		},
-		"badge_count": [
-			9,
-			1,
-			0,
-			0,
-			10
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 345,
 		"first_name": "Jared",
 		"last_name": "Butler",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Offense Initiator",
 		"nba_team": "Utah Jazz",
 		"height": 191,
@@ -24410,22 +23108,18 @@
 			"Potential": 76,
 			"Total Attributes": 2488
 		},
-		"badge_count": [
-			0,
-			0,
-			0,
-			0,
-			0
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 346,
 		"first_name": "Nickeil",
 		"last_name": "Alexander-Walker",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Slashing Playmaker",
 		"nba_team": "Utah Jazz",
 		"height": 196,
@@ -24481,21 +23175,18 @@
 			"Potential": 77,
 			"Total Attributes": 2589
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 347,
 		"first_name": "Udoka",
 		"last_name": "Azubuike",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass-Cleaning Lockdown",
 		"nba_team": "Utah Jazz",
 		"height": 213,
@@ -24551,21 +23242,18 @@
 			"Potential": 76,
 			"Total Attributes": 2156
 		},
-		"badge_count": [
-			4,
-			0,
-			0,
-			0,
-			4
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 348,
 		"first_name": "Leandro",
 		"last_name": "Bolmaro",
-		"positions": [
-			"SG"
-		],
+		"primary_position": "SG",
+		"secondary_position": null,
 		"archetype": "Tempo-Pushing Wing",
 		"nba_team": "Utah Jazz",
 		"height": 198,
@@ -24621,22 +23309,18 @@
 			"Potential": 76,
 			"Total Attributes": 2394
 		},
-		"badge_count": [
-			2,
-			0,
-			0,
-			0,
-			2
-		]
+		"bronze_badges": 0,
+		"silver_badges": 0,
+		"gold_badges": 0,
+		"hof_badges": 0,
+		"total_badges": 0
 	},
 	{
 		"player_id": 349,
 		"first_name": "Bradley",
 		"last_name": "Beal",
-		"positions": [
-			"SG",
-			"PG"
-		],
+		"primary_position": "SG",
+		"secondary_position": "PG",
 		"archetype": "Offensive Threat",
 		"nba_team": "Washington Wizards",
 		"height": 193,
@@ -24692,22 +23376,18 @@
 			"Potential": 90,
 			"Total Attributes": 2772
 		},
-		"badge_count": [
-			9,
-			18,
-			11,
-			0,
-			38
-		]
+		"bronze_badges": 18,
+		"silver_badges": 18,
+		"gold_badges": 18,
+		"hof_badges": 18,
+		"total_badges": 18
 	},
 	{
 		"player_id": 350,
 		"first_name": "Kristaps",
 		"last_name": "Porzingis",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Interior Force",
 		"nba_team": "Washington Wizards",
 		"height": 221,
@@ -24763,22 +23443,18 @@
 			"Potential": 89,
 			"Total Attributes": 2827
 		},
-		"badge_count": [
-			16,
-			8,
-			0,
-			0,
-			24
-		]
+		"bronze_badges": 8,
+		"silver_badges": 8,
+		"gold_badges": 8,
+		"hof_badges": 8,
+		"total_badges": 8
 	},
 	{
 		"player_id": 351,
 		"first_name": "Kyle",
 		"last_name": "Kuzma",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Inside-Out Playmaker",
 		"nba_team": "Washington Wizards",
 		"height": 206,
@@ -24834,22 +23510,18 @@
 			"Potential": 82,
 			"Total Attributes": 2742
 		},
-		"badge_count": [
-			6,
-			1,
-			1,
-			0,
-			8
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 352,
 		"first_name": "Monte",
 		"last_name": "Morris",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaking Shot Creator",
 		"nba_team": "Washington Wizards",
 		"height": 188,
@@ -24905,21 +23577,18 @@
 			"Potential": 79,
 			"Total Attributes": 2501
 		},
-		"badge_count": [
-			2,
-			5,
-			1,
-			0,
-			8
-		]
+		"bronze_badges": 5,
+		"silver_badges": 5,
+		"gold_badges": 5,
+		"hof_badges": 5,
+		"total_badges": 5
 	},
 	{
 		"player_id": 353,
 		"first_name": "Daniel",
 		"last_name": "Gafford",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Glass Cleaner",
 		"nba_team": "Washington Wizards",
 		"height": 206,
@@ -24975,22 +23644,18 @@
 			"Potential": 79,
 			"Total Attributes": 2576
 		},
-		"badge_count": [
-			2,
-			4,
-			1,
-			0,
-			7
-		]
+		"bronze_badges": 4,
+		"silver_badges": 4,
+		"gold_badges": 4,
+		"hof_badges": 4,
+		"total_badges": 4
 	},
 	{
 		"player_id": 354,
 		"first_name": "Deni",
 		"last_name": "Avdija",
-		"positions": [
-			"SF",
-			"PF"
-		],
+		"primary_position": "SF",
+		"secondary_position": "PF",
 		"archetype": "Tempo-Pushing Wing",
 		"nba_team": "Washington Wizards",
 		"height": 206,
@@ -25046,22 +23711,18 @@
 			"Potential": 82,
 			"Total Attributes": 2650
 		},
-		"badge_count": [
-			2,
-			1,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 355,
 		"first_name": "Will",
 		"last_name": "Barton",
-		"positions": [
-			"SG",
-			"SF"
-		],
+		"primary_position": "SG",
+		"secondary_position": "SF",
 		"archetype": "Inside-Out Playmaker",
 		"nba_team": "Washington Wizards",
 		"height": 196,
@@ -25117,22 +23778,18 @@
 			"Potential": 78,
 			"Total Attributes": 2657
 		},
-		"badge_count": [
-			4,
-			1,
-			1,
-			0,
-			6
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 356,
 		"first_name": "Rui",
 		"last_name": "Hachimura",
-		"positions": [
-			"PF",
-			"SF"
-		],
+		"primary_position": "PF",
+		"secondary_position": "SF",
 		"archetype": "Inside-Out Scorer",
 		"nba_team": "Washington Wizards",
 		"height": 203,
@@ -25188,22 +23845,18 @@
 			"Potential": 82,
 			"Total Attributes": 2574
 		},
-		"badge_count": [
-			9,
-			3,
-			0,
-			0,
-			12
-		]
+		"bronze_badges": 3,
+		"silver_badges": 3,
+		"gold_badges": 3,
+		"hof_badges": 3,
+		"total_badges": 3
 	},
 	{
 		"player_id": 357,
 		"first_name": "Delon",
 		"last_name": "Wright",
-		"positions": [
-			"PG",
-			"SG"
-		],
+		"primary_position": "PG",
+		"secondary_position": "SG",
 		"archetype": "Playmaker",
 		"nba_team": "Washington Wizards",
 		"height": 196,
@@ -25259,22 +23912,18 @@
 			"Potential": 77,
 			"Total Attributes": 2613
 		},
-		"badge_count": [
-			6,
-			9,
-			0,
-			0,
-			15
-		]
+		"bronze_badges": 9,
+		"silver_badges": 9,
+		"gold_badges": 9,
+		"hof_badges": 9,
+		"total_badges": 9
 	},
 	{
 		"player_id": 358,
 		"first_name": "Corey",
 		"last_name": "Kispert",
-		"positions": [
-			"SF",
-			"SG"
-		],
+		"primary_position": "SF",
+		"secondary_position": "SG",
 		"archetype": "Shooter",
 		"nba_team": "Washington Wizards",
 		"height": 198,
@@ -25330,21 +23979,18 @@
 			"Potential": 79,
 			"Total Attributes": 2482
 		},
-		"badge_count": [
-			5,
-			1,
-			0,
-			0,
-			6
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 359,
 		"first_name": "Taj",
 		"last_name": "Gibson",
-		"positions": [
-			"C"
-		],
+		"primary_position": "C",
+		"secondary_position": null,
 		"archetype": "Finisher",
 		"nba_team": "Washington Wizards",
 		"height": 206,
@@ -25400,22 +24046,18 @@
 			"Potential": 76,
 			"Total Attributes": 2443
 		},
-		"badge_count": [
-			6,
-			1,
-			0,
-			0,
-			7
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	},
 	{
 		"player_id": 360,
 		"first_name": "Vernon",
 		"last_name": "Carey Jr.",
-		"positions": [
-			"C",
-			"PF"
-		],
+		"primary_position": "C",
+		"secondary_position": "PF",
 		"archetype": "Paint Defender",
 		"nba_team": "Washington Wizards",
 		"height": 206,
@@ -25471,12 +24113,10 @@
 			"Potential": 76,
 			"Total Attributes": 2386
 		},
-		"badge_count": [
-			2,
-			1,
-			0,
-			0,
-			3
-		]
+		"bronze_badges": 1,
+		"silver_badges": 1,
+		"gold_badges": 1,
+		"hof_badges": 1,
+		"total_badges": 1
 	}
 ]
