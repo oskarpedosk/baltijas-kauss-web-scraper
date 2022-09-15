@@ -200,11 +200,11 @@ puppeteer.launch({ headless: true }).then(async browser => {
                 player_url: player_urls[j],
                 team_id: null,
                 stats: stats,
-                bronze_badges: infoArray[0][8][1],
+                bronze_badges: infoArray[0][8][0],
                 silver_badges: infoArray[0][8][1],
-                gold_badges: infoArray[0][8][1],
-                hof_badges: infoArray[0][8][1],
-                total_badges: infoArray[0][8][1],
+                gold_badges: infoArray[0][8][2],
+                hof_badges: infoArray[0][8][3],
+                total_badges: infoArray[0][8][4],
             }
 
             allNBAPlayers = allNBAPlayers.concat(NBAplayer)
