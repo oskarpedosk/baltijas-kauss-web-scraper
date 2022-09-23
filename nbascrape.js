@@ -22,6 +22,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
 
     // Create badges database array
     var badgesDatabase = []
+
     // Add other stats to stats struct
     for (let i = 0; i < badgesArray.length; i++) {
         var singleBadge = {}
@@ -39,6 +40,18 @@ puppeteer.launch({ headless: true }).then(async browser => {
         singleBadge.hof_url = null
         badgesDatabase = badgesDatabase.concat(singleBadge)
     }
+
+    // Create edge case 'Guard Up'
+    var singleBadge = {}
+        singleBadge.name = 'Guard Up'
+        singleBadge.badge_id = badgesArray.length + 1
+        singleBadge.type = null
+        singleBadge.info = null
+        singleBadge.bronze_url = null
+        singleBadge.silver_url = null
+        singleBadge.gold_url = null
+        singleBadge.hof_url = null
+        badgesDatabase = badgesDatabase.concat(singleBadge)
 
     var allPlayersBadges = []
     var allNBAPlayers = []
