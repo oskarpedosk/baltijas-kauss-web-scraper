@@ -1,47 +1,19 @@
-const puppeteer = require('puppeteer-extra');
+const puppeteer = require('puppeteer-extra')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
-// Write starting bracket to .json file
-require('fs').writeFile('test.json', ('['),
-    function (err) {
-        if (err) {
-            console.error('Error writing .json file');
-        }
-    }
-);
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var mm = String(today.getMonth() + 1).padStart(2, '0');
+var yyyy = today.getFullYear();
 
-puppeteer.launch({ headless: true }).then(async browser => {
+today = mm + '-' + dd + '-' + yyyy;
+
+puppeteer.launch({ headless: false }).then(async browser => {
     console.log('Running tests..')
     const page = await browser.newPage()
-
-    // Scrape all badges for badges database
-    await page.goto('https://www.2kratings.com')
-    const badgesArray = await page.evaluate(() => {
-        return Array.from(document.querySelectorAll('#ui-list-badge li'))
-            .map(link => link.textContent.trim());
-    })
-
-    // Create badges database array
-    var badgesDatabase = []
-    // Add other stats to stats struct
-    for (let i = 0; i < badgesArray.length; i++) {
-        var singleBadge = {}
-        singleBadge.badge_id = i + 1
-        singleBadge.name = badgesArray[i].replace('-', ' ')
-        singleBadge.type = null
-        singleBadge.info = null
-        singleBadge.bronze_url = null
-        singleBadge.silver_url = null
-        singleBadge.gold_url = null
-        singleBadge.hof_url = null
-        badgesDatabase = badgesDatabase.concat(singleBadge)
-    }
-
-    var allPlayersBadges = []
-
     // Loop through team
-    await page.goto('https://www.2kratings.com/teams/denver-nuggets')
+    await page.goto('https://www.2kratings.com/teams/charlotte-hornets')
     const player_urls = await page.evaluate(() => {
         return Array.from(document.querySelectorAll("div.ml-1:nth-child(2) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(2) > tr > td:nth-child(2) > div:nth-child(1) > a:nth-child(1)"))
             .map(link => link.href);
@@ -49,8 +21,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
     console.log(player_urls)
 
     for (let j = 0; j < 12; j++) {
-        await page.goto(player_urls[j])
-
+        await page.goto(player_urls[j]);
         // Scrape player info to an array
         const infoArray = await page.evaluate(() =>
         (Array.from(document.querySelectorAll('.content > div:nth-child(1)'))
@@ -100,116 +71,45 @@ puppeteer.launch({ headless: true }).then(async browser => {
             stats[key] = statsArray[k][1]
         }
 
-        // Scrape player badges to an array
-        const badgesScrape = await page.evaluate(() =>
-        (Array.from(document.querySelectorAll('#pills-all .badge-card'))
-            .map(element =>
-                [element.querySelector('h4').textContent.replace('-', ' ')]
-                    .concat((element.querySelector('span').textContent),
-                        (element.querySelector('p').textContent.replace('’', '\'')),
-                        ("https://2kratings.com" + element.querySelector('img').getAttribute('data-src')
-                        )))
-        ))
-
-        // Add player badges to allPlayersBadges array and update badges database with type,info and urls
-        for (let k = 0; k < badgesScrape.length; k++) {
-            // Initialize badge data order
-            var singleBadge = {}
-            singleBadge.player_id = j + 1
-            singleBadge.first_name = infoArray[0][0]
-            singleBadge.last_name = infoArray[0][1]
-            singleBadge.badge_id = null
-            singleBadge.name = null
-            singleBadge.level = null
-            if (badgesScrape[k][3].includes('bronze')) {
-                singleBadge.level = 'bronze'
-                for (let l = 0; l < badgesDatabase.length; l++) {
-                    if (badgesScrape[k][0] === badgesDatabase[l].name) {
-                        badgesDatabase[l].type = badgesScrape[k][1]
-                        badgesDatabase[l].info = badgesScrape[k][2]
-                        badgesDatabase[l].bronze_url = badgesScrape[k][3]
-                        singleBadge.badge_id = badgesDatabase[l].badge_id
-                        break
-                    }
-                }
-            } else if (badgesScrape[k][3].includes('silver')) {
-                singleBadge.level = 'silver'
-                for (let l = 0; l < badgesDatabase.length; l++) {
-                    if (badgesScrape[k][0] === badgesDatabase[l].name) {
-                        badgesDatabase[l].type = badgesScrape[k][1]
-                        badgesDatabase[l].info = badgesScrape[k][2]
-                        badgesDatabase[l].silver_url = badgesScrape[k][3]
-                        singleBadge.badge_id = badgesDatabase[l].badge_id
-                        break
-                    }
-                }
-            } else if (badgesScrape[k][3].includes('gold')) {
-                singleBadge.level = 'gold'
-                for (let l = 0; l < badgesDatabase.length; l++) {
-                    if (badgesScrape[k][0] === badgesDatabase[l].name) {
-                        badgesDatabase[l].type = badgesScrape[k][1]
-                        badgesDatabase[l].info = badgesScrape[k][2]
-                        badgesDatabase[l].gold_url = badgesScrape[k][3]
-                        singleBadge.badge_id = badgesDatabase[l].badge_id
-                        break
-                    }
-                }
-            } else if (badgesScrape[k][3].includes('hof')) {
-                singleBadge.level = 'hof'
-                for (let l = 0; l < badgesDatabase.length; l++) {
-                    if (badgesScrape[k][0] === badgesDatabase[l].name) {
-                        badgesDatabase[l].type = badgesScrape[k][1]
-                        badgesDatabase[l].info = badgesScrape[k][2]
-                        badgesDatabase[l].hof_url = badgesScrape[k][3]
-                        singleBadge.badge_id = badgesDatabase[l].badge_id
-                        break
-                    }
-                }
-            }
-            singleBadge.name = badgesScrape[k][0]
-            allPlayersBadges = allPlayersBadges.concat(singleBadge)
+        // Add secondary position null if player doesnt have a secondary position
+        if (infoArray[0][3].length < 2) {
+            infoArray[0][3] = infoArray[0][3].concat(null)
         }
+
+        await page.goto('https://www.nba.com/players')
+        await page.type('.Block_blockAd__1Q_77 > div:nth-child(1) > input:nth-child(1)', infoArray[0][0] + ' ' + infoArray[0][1][0] + infoArray[0][1][1] + infoArray[0][1][2])
+        await page.waitForTimeout(500)
+        const playerNBAurl = await page.evaluate(() => document.querySelector('.players-list > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > a:nth-child(1)').href);
+        console.log(playerNBAurl)
+        await page.goto(playerNBAurl)
+
+        const text = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
+        console.log(text)
 
         // Scrape info
         const NBAplayer = {
-            player_id: j + 1,
             first_name: infoArray[0][0],
             last_name: infoArray[0][1],
-            team: infoArray[0][2],
-            positions: infoArray[0][3],
+            primary_position: infoArray[0][3][0],
+            secondary_position: infoArray[0][3][1],
             archetype: infoArray[0][4],
+            nba_team: infoArray[0][2],
             height: infoArray[0][5],
             weight: infoArray[0][6],
             img_url: infoArray[0][7],
             player_url: player_urls[j],
+            team_id: null,
             stats: stats,
-            badge_count: infoArray[0][8],
-        }
-
-        // Write to .json
-        require('fs').appendFileSync('test.json', JSON.stringify(NBAplayer),
-            function (err) {
-                if (err) {
-                    console.error('Error writing .json file');
-                }
-            }
-        );
-        if (j + 1 < 12) {
-            require('fs').appendFileSync('test.json', (','),
-                function (err) {
-                    if (err) {
-                        console.error('Error writing .json file');
-                    }
-                }
-            );
+            bronze_badges: infoArray[0][8][0],
+            silver_badges: infoArray[0][8][1],
+            gold_badges: infoArray[0][8][2],
+            hof_badges: infoArray[0][8][3],
+            total_badges: infoArray[0][8][4],
         }
     }
 
-    console.log(badgesDatabase)
-    console.log(allPlayersBadges)
-
-    // Write ending bracket to .json file
-    require('fs').appendFileSync('test.json', (']'),
+    // Write players .json
+    require('fs').writeFileSync('./scrape_data/' + today + '-players.json', JSON.stringify(allNBAPlayers, null, "\t"),
         function (err) {
             if (err) {
                 console.error('Error writing .json file');
@@ -217,24 +117,6 @@ puppeteer.launch({ headless: true }).then(async browser => {
         }
     );
 
-    // Write to .json
-    require('fs').writeFileSync('badges.json', JSON.stringify(badgesDatabase),
-        function (err) {
-            if (err) {
-                console.error('Error writing .json file');
-            }
-        }
-    );
-
-    // Write to .json
-    require('fs').writeFileSync('./scrape_data/players_badges.json', JSON.stringify(allPlayersBadges),
-        function (err) {
-            if (err) {
-                console.error('Error writing .json file');
-            }
-        }
-    );
-
-    console.log(`All done!`)
+    console.log(`All done.`)
     await browser.close()
 })

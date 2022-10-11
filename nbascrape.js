@@ -71,7 +71,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
         })
         console.log(player_urls)
 
-        for (let j = 0; j < 12; j++) {
+        for (let j = 0; j < 8; j++) {
             await page.goto(player_urls[j])
 
             // Scrape player info to an array
@@ -197,6 +197,26 @@ puppeteer.launch({ headless: true }).then(async browser => {
             if (infoArray[0][3].length < 2) {
                 infoArray[0][3] = infoArray[0][3].concat(null)
             }
+
+            
+
+            try {
+                await page.goto('https://www.nba.com/players')
+                var firstName = infoArray[0][0]
+                var lastName = infoArray[0][1]
+                await page.type('.Block_blockAd__1Q_77 > div:nth-child(1) > input:nth-child(1)', firstName + ' ' + lastName)
+                await page.waitForTimeout(1000)
+                var playerNBAurl = await page.evaluate(() => document.querySelector('.players-list > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > a:nth-child(1)').href);
+                console.log(playerNBAurl)
+                await page.goto(playerNBAurl)
+
+                await page.waitForSelector('img.PlayerImage_image__wH_YX:nth-child(2)');
+                const playerNBAimg = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
+                console.log(playerNBAimg)
+            } catch {
+                console.log("Couldn't get player: " + firstName + " " + lastName)
+                var playerNBAimg = infoArray[0][7]
+            }
             
             // Scrape info
             const NBAplayer = {
@@ -209,7 +229,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
                 nba_team: infoArray[0][2],
                 height: infoArray[0][5],
                 weight: infoArray[0][6],
-                img_url: infoArray[0][7],
+                img_url: playerNBAimg,
                 player_url: player_urls[j],
                 team_id: null,
                 stats: stats,
