@@ -9,6 +9,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 185,
 		"weight": 81,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
 		"player_url": "https://www.2kratings.com/trae-young",
 		"team_id": null,
 		"stats": {
@@ -75,6 +76,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 193,
 		"weight": 81,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627749.png",
 		"player_url": "https://www.2kratings.com/dejounte-murray",
 		"team_id": null,
 		"stats": {
@@ -141,6 +143,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 208,
 		"weight": 115,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203991.png",
 		"player_url": "https://www.2kratings.com/clint-capela",
 		"team_id": null,
 		"stats": {
@@ -207,6 +210,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 206,
 		"weight": 102,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png",
 		"player_url": "https://www.2kratings.com/john-collins",
 		"team_id": null,
 		"stats": {
@@ -273,6 +277,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 198,
 		"weight": 101,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203992.png",
 		"player_url": "https://www.2kratings.com/bogdan-bogdanovic",
 		"team_id": null,
 		"stats": {
@@ -339,6 +344,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 203,
 		"weight": 108,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630168.png",
 		"player_url": "https://www.2kratings.com/onyeka-okongwu",
 		"team_id": null,
 		"stats": {
@@ -405,6 +411,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 203,
 		"weight": 99,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.png",
 		"player_url": "https://www.2kratings.com/deandre-hunter",
 		"team_id": null,
 		"stats": {
@@ -471,6 +478,7 @@
 		"nba_team": "Atlanta Hawks",
 		"height": 183,
 		"weight": 83,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628988.png",
 		"player_url": "https://www.2kratings.com/aaron-holiday",
 		"team_id": null,
 		"stats": {
@@ -528,7 +536,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 13,
+		"player_id": 9,
 		"first_name": "Jayson",
 		"last_name": "Tatum",
 		"primary_position": "PF",
@@ -537,6 +545,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 203,
 		"weight": 95,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png",
 		"player_url": "https://www.2kratings.com/jayson-tatum",
 		"team_id": null,
 		"stats": {
@@ -594,7 +603,7 @@
 		"total_badges": 40
 	},
 	{
-		"player_id": 14,
+		"player_id": 10,
 		"first_name": "Jaylen",
 		"last_name": "Brown",
 		"primary_position": "SF",
@@ -603,6 +612,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 198,
 		"weight": 100,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png",
 		"player_url": "https://www.2kratings.com/jaylen-brown",
 		"team_id": null,
 		"stats": {
@@ -660,7 +670,7 @@
 		"total_badges": 25
 	},
 	{
-		"player_id": 15,
+		"player_id": 11,
 		"first_name": "Robert",
 		"last_name": "Williams III",
 		"primary_position": "C",
@@ -669,6 +679,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 206,
 		"weight": 107,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.png",
 		"player_url": "https://www.2kratings.com/robert-williams-iii",
 		"team_id": null,
 		"stats": {
@@ -726,7 +737,7 @@
 		"total_badges": 13
 	},
 	{
-		"player_id": 16,
+		"player_id": 12,
 		"first_name": "Malcolm",
 		"last_name": "Brogdon",
 		"primary_position": "PG",
@@ -735,6 +746,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 196,
 		"weight": 103,
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627763.png",
 		"player_url": "https://www.2kratings.com/malcolm-brogdon",
 		"team_id": null,
 		"stats": {
@@ -792,7 +804,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 17,
+		"player_id": 13,
 		"first_name": "Marcus",
 		"last_name": "Smart",
 		"primary_position": "SG",
@@ -801,7 +813,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 193,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png",
 		"player_url": "https://www.2kratings.com/marcus-smart",
 		"team_id": null,
 		"stats": {
@@ -859,7 +871,7 @@
 		"total_badges": 12
 	},
 	{
-		"player_id": 18,
+		"player_id": 14,
 		"first_name": "Al",
 		"last_name": "Horford",
 		"primary_position": "C",
@@ -868,7 +880,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 206,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png",
 		"player_url": "https://www.2kratings.com/al-horford",
 		"team_id": null,
 		"stats": {
@@ -926,7 +938,7 @@
 		"total_badges": 15
 	},
 	{
-		"player_id": 19,
+		"player_id": 15,
 		"first_name": "Danilo",
 		"last_name": "Gallinari",
 		"primary_position": "PF",
@@ -935,7 +947,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 208,
 		"weight": 106,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201568.png",
 		"player_url": "https://www.2kratings.com/danilo-gallinari",
 		"team_id": null,
 		"stats": {
@@ -993,7 +1005,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 20,
+		"player_id": 16,
 		"first_name": "Derrick",
 		"last_name": "White",
 		"primary_position": "SG",
@@ -1002,7 +1014,7 @@
 		"nba_team": "Boston Celtics",
 		"height": 193,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png",
 		"player_url": "https://www.2kratings.com/derrick-white",
 		"team_id": null,
 		"stats": {
@@ -1060,7 +1072,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 25,
+		"player_id": 17,
 		"first_name": "Kevin",
 		"last_name": "Durant",
 		"primary_position": "PF",
@@ -1069,7 +1081,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 208,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
 		"player_url": "https://www.2kratings.com/kevin-durant",
 		"team_id": null,
 		"stats": {
@@ -1127,7 +1139,7 @@
 		"total_badges": 30
 	},
 	{
-		"player_id": 26,
+		"player_id": 18,
 		"first_name": "Kyrie",
 		"last_name": "Irving",
 		"primary_position": "PG",
@@ -1136,7 +1148,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 188,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png",
 		"player_url": "https://www.2kratings.com/kyrie-irving",
 		"team_id": null,
 		"stats": {
@@ -1194,7 +1206,7 @@
 		"total_badges": 32
 	},
 	{
-		"player_id": 27,
+		"player_id": 19,
 		"first_name": "Ben",
 		"last_name": "Simmons",
 		"primary_position": "PG",
@@ -1203,7 +1215,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 211,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png",
 		"player_url": "https://www.2kratings.com/ben-simmons",
 		"team_id": null,
 		"stats": {
@@ -1261,7 +1273,7 @@
 		"total_badges": 26
 	},
 	{
-		"player_id": 28,
+		"player_id": 20,
 		"first_name": "T.J.",
 		"last_name": "Warren",
 		"primary_position": "SF",
@@ -1270,7 +1282,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 203,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203933.png",
 		"player_url": "https://www.2kratings.com/tj-warren",
 		"team_id": null,
 		"stats": {
@@ -1328,7 +1340,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 29,
+		"player_id": 21,
 		"first_name": "Seth",
 		"last_name": "Curry",
 		"primary_position": "SG",
@@ -1337,7 +1349,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 188,
 		"weight": 83,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203552.png",
 		"player_url": "https://www.2kratings.com/seth-curry",
 		"team_id": null,
 		"stats": {
@@ -1395,7 +1407,7 @@
 		"total_badges": 13
 	},
 	{
-		"player_id": 30,
+		"player_id": 22,
 		"first_name": "Joe",
 		"last_name": "Harris",
 		"primary_position": "SF",
@@ -1404,7 +1416,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 198,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203925.png",
 		"player_url": "https://www.2kratings.com/joe-harris",
 		"team_id": null,
 		"stats": {
@@ -1462,7 +1474,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 31,
+		"player_id": 23,
 		"first_name": "Nicolas",
 		"last_name": "Claxton",
 		"primary_position": "C",
@@ -1471,7 +1483,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 211,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/nicolas-claxton",
 		"team_id": null,
 		"stats": {
@@ -1529,7 +1541,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 32,
+		"player_id": 24,
 		"first_name": "Edmond",
 		"last_name": "Sumner",
 		"primary_position": "SG",
@@ -1538,7 +1550,7 @@
 		"nba_team": "Brooklyn Nets",
 		"height": 193,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628410.png",
 		"player_url": "https://www.2kratings.com/edmond-sumner",
 		"team_id": null,
 		"stats": {
@@ -1596,7 +1608,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 37,
+		"player_id": 25,
 		"first_name": "LaMelo",
 		"last_name": "Ball",
 		"primary_position": "PG",
@@ -1605,7 +1617,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 81,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png",
 		"player_url": "https://www.2kratings.com/lamelo-ball",
 		"team_id": null,
 		"stats": {
@@ -1663,7 +1675,7 @@
 		"total_badges": 19
 	},
 	{
-		"player_id": 38,
+		"player_id": 26,
 		"first_name": "Terry",
 		"last_name": "Rozier III",
 		"primary_position": "SG",
@@ -1672,7 +1684,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 185,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/terry-rozier",
 		"team_id": null,
 		"stats": {
@@ -1730,7 +1742,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 39,
+		"player_id": 27,
 		"first_name": "Gordon",
 		"last_name": "Hayward",
 		"primary_position": "SF",
@@ -1739,7 +1751,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202330.png",
 		"player_url": "https://www.2kratings.com/gordon-hayward",
 		"team_id": null,
 		"stats": {
@@ -1797,7 +1809,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 40,
+		"player_id": 28,
 		"first_name": "Kelly",
 		"last_name": "Oubre Jr.",
 		"primary_position": "SF",
@@ -1806,7 +1818,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 198,
 		"weight": 91,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626162.png",
 		"player_url": "https://www.2kratings.com/kelly-oubre-jr",
 		"team_id": null,
 		"stats": {
@@ -1864,7 +1876,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 41,
+		"player_id": 29,
 		"first_name": "P.J.",
 		"last_name": "Washington",
 		"primary_position": "PF",
@@ -1873,7 +1885,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 201,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png",
 		"player_url": "https://www.2kratings.com/pj-washington",
 		"team_id": null,
 		"stats": {
@@ -1931,7 +1943,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 42,
+		"player_id": 30,
 		"first_name": "Mason",
 		"last_name": "Plumlee",
 		"primary_position": "C",
@@ -1940,7 +1952,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 211,
 		"weight": 114,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203486.png",
 		"player_url": "https://www.2kratings.com/mason-plumlee",
 		"team_id": null,
 		"stats": {
@@ -1998,7 +2010,7 @@
 		"total_badges": 7
 	},
 	{
-		"player_id": 43,
+		"player_id": 31,
 		"first_name": "Dennis",
 		"last_name": "Smith Jr.",
 		"primary_position": "PG",
@@ -2007,7 +2019,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 188,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628372.png",
 		"player_url": "https://www.2kratings.com/dennis-smith-jr",
 		"team_id": null,
 		"stats": {
@@ -2065,7 +2077,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 44,
+		"player_id": 32,
 		"first_name": "Cody",
 		"last_name": "Martin",
 		"primary_position": "SF",
@@ -2074,7 +2086,7 @@
 		"nba_team": "Charlotte Hornets",
 		"height": 198,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.png",
 		"player_url": "https://www.2kratings.com/cody-martin",
 		"team_id": null,
 		"stats": {
@@ -2132,7 +2144,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 49,
+		"player_id": 33,
 		"first_name": "DeMar",
 		"last_name": "DeRozan",
 		"primary_position": "SF",
@@ -2141,7 +2153,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 198,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201942.png",
 		"player_url": "https://www.2kratings.com/demar-derozan",
 		"team_id": null,
 		"stats": {
@@ -2199,7 +2211,7 @@
 		"total_badges": 25
 	},
 	{
-		"player_id": 50,
+		"player_id": 34,
 		"first_name": "Zach",
 		"last_name": "LaVine",
 		"primary_position": "SG",
@@ -2208,7 +2220,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 196,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png",
 		"player_url": "https://www.2kratings.com/zach-lavine",
 		"team_id": null,
 		"stats": {
@@ -2266,7 +2278,7 @@
 		"total_badges": 22
 	},
 	{
-		"player_id": 51,
+		"player_id": 35,
 		"first_name": "Nikola",
 		"last_name": "Vucevic",
 		"primary_position": "C",
@@ -2275,7 +2287,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 208,
 		"weight": 117,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png",
 		"player_url": "https://www.2kratings.com/nikola-vucevic",
 		"team_id": null,
 		"stats": {
@@ -2333,7 +2345,7 @@
 		"total_badges": 13
 	},
 	{
-		"player_id": 52,
+		"player_id": 36,
 		"first_name": "Lonzo",
 		"last_name": "Ball",
 		"primary_position": "PG",
@@ -2342,7 +2354,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 198,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.png",
 		"player_url": "https://www.2kratings.com/lonzo-ball",
 		"team_id": null,
 		"stats": {
@@ -2400,7 +2412,7 @@
 		"total_badges": 17
 	},
 	{
-		"player_id": 53,
+		"player_id": 37,
 		"first_name": "Andre",
 		"last_name": "Drummond",
 		"primary_position": "C",
@@ -2409,7 +2421,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 208,
 		"weight": 126,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203083.png",
 		"player_url": "https://www.2kratings.com/andre-drummond",
 		"team_id": null,
 		"stats": {
@@ -2467,7 +2479,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 54,
+		"player_id": 38,
 		"first_name": "Alex",
 		"last_name": "Caruso",
 		"primary_position": "PG",
@@ -2476,7 +2488,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 196,
 		"weight": 84,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png",
 		"player_url": "https://www.2kratings.com/alex-caruso",
 		"team_id": null,
 		"stats": {
@@ -2534,7 +2546,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 55,
+		"player_id": 39,
 		"first_name": "Ayo",
 		"last_name": "Dosunmu",
 		"primary_position": "PG",
@@ -2543,7 +2555,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 193,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630245.png",
 		"player_url": "https://www.2kratings.com/ayo-dosunmu",
 		"team_id": null,
 		"stats": {
@@ -2601,7 +2613,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 56,
+		"player_id": 40,
 		"first_name": "Coby",
 		"last_name": "White",
 		"primary_position": "PG",
@@ -2610,7 +2622,7 @@
 		"nba_team": "Chicago Bulls",
 		"height": 193,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png",
 		"player_url": "https://www.2kratings.com/coby-white",
 		"team_id": null,
 		"stats": {
@@ -2668,7 +2680,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 61,
+		"player_id": 41,
 		"first_name": "Donovan",
 		"last_name": "Mitchell",
 		"primary_position": "SG",
@@ -2677,7 +2689,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
 		"player_url": "https://www.2kratings.com/donovan-mitchell",
 		"team_id": null,
 		"stats": {
@@ -2735,7 +2747,7 @@
 		"total_badges": 36
 	},
 	{
-		"player_id": 62,
+		"player_id": 42,
 		"first_name": "Darius",
 		"last_name": "Garland",
 		"primary_position": "PG",
@@ -2744,7 +2756,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 185,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629636.png",
 		"player_url": "https://www.2kratings.com/darius-garland",
 		"team_id": null,
 		"stats": {
@@ -2802,7 +2814,7 @@
 		"total_badges": 27
 	},
 	{
-		"player_id": 63,
+		"player_id": 43,
 		"first_name": "Jarrett",
 		"last_name": "Allen",
 		"primary_position": "C",
@@ -2811,7 +2823,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 208,
 		"weight": 109,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png",
 		"player_url": "https://www.2kratings.com/jarrett-allen",
 		"team_id": null,
 		"stats": {
@@ -2869,7 +2881,7 @@
 		"total_badges": 14
 	},
 	{
-		"player_id": 64,
+		"player_id": 44,
 		"first_name": "Evan",
 		"last_name": "Mobley",
 		"primary_position": "PF",
@@ -2878,7 +2890,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 211,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png",
 		"player_url": "https://www.2kratings.com/evan-mobley",
 		"team_id": null,
 		"stats": {
@@ -2936,7 +2948,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 65,
+		"player_id": 45,
 		"first_name": "Kevin",
 		"last_name": "Love",
 		"primary_position": "PF",
@@ -2945,7 +2957,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 203,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201567.png",
 		"player_url": "https://www.2kratings.com/kevin-love",
 		"team_id": null,
 		"stats": {
@@ -3003,7 +3015,7 @@
 		"total_badges": 17
 	},
 	{
-		"player_id": 66,
+		"player_id": 46,
 		"first_name": "Caris",
 		"last_name": "LeVert",
 		"primary_position": "SG",
@@ -3012,7 +3024,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 198,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627747.png",
 		"player_url": "https://www.2kratings.com/caris-levert",
 		"team_id": null,
 		"stats": {
@@ -3070,7 +3082,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 67,
+		"player_id": 47,
 		"first_name": "Ricky",
 		"last_name": "Rubio",
 		"primary_position": "PG",
@@ -3079,7 +3091,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 188,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201937.png",
 		"player_url": "https://www.2kratings.com/ricky-rubio",
 		"team_id": null,
 		"stats": {
@@ -3137,7 +3149,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 68,
+		"player_id": 48,
 		"first_name": "Isaac",
 		"last_name": "Okoro",
 		"primary_position": "SF",
@@ -3146,7 +3158,7 @@
 		"nba_team": "Cleveland Cavaliers",
 		"height": 196,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png",
 		"player_url": "https://www.2kratings.com/isaac-okoro",
 		"team_id": null,
 		"stats": {
@@ -3204,7 +3216,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 73,
+		"player_id": 49,
 		"first_name": "Luka",
 		"last_name": "Doncic",
 		"primary_position": "PG",
@@ -3213,7 +3225,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 201,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
 		"player_url": "https://www.2kratings.com/luka-doncic",
 		"team_id": null,
 		"stats": {
@@ -3271,7 +3283,7 @@
 		"total_badges": 39
 	},
 	{
-		"player_id": 74,
+		"player_id": 50,
 		"first_name": "Christian",
 		"last_name": "Wood",
 		"primary_position": "C",
@@ -3280,7 +3292,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 206,
 		"weight": 96,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626174.png",
 		"player_url": "https://www.2kratings.com/christian-wood",
 		"team_id": null,
 		"stats": {
@@ -3338,7 +3350,7 @@
 		"total_badges": 12
 	},
 	{
-		"player_id": 75,
+		"player_id": 51,
 		"first_name": "Spencer",
 		"last_name": "Dinwiddie",
 		"primary_position": "PG",
@@ -3347,7 +3359,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 198,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png",
 		"player_url": "https://www.2kratings.com/spencer-dinwiddie",
 		"team_id": null,
 		"stats": {
@@ -3405,7 +3417,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 76,
+		"player_id": 52,
 		"first_name": "Dorian",
 		"last_name": "Finney-Smith",
 		"primary_position": "SF",
@@ -3414,7 +3426,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 201,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627827.png",
 		"player_url": "https://www.2kratings.com/dorian-finney-smith",
 		"team_id": null,
 		"stats": {
@@ -3472,7 +3484,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 77,
+		"player_id": 53,
 		"first_name": "Tim",
 		"last_name": "Hardaway Jr.",
 		"primary_position": "SF",
@@ -3481,7 +3493,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 196,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203501.png",
 		"player_url": "https://www.2kratings.com/tim-hardaway-jr",
 		"team_id": null,
 		"stats": {
@@ -3539,7 +3551,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 78,
+		"player_id": 54,
 		"first_name": "JaVale",
 		"last_name": "McGee",
 		"primary_position": "C",
@@ -3548,7 +3560,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 213,
 		"weight": 122,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.png",
 		"player_url": "https://www.2kratings.com/javale-mcgee",
 		"team_id": null,
 		"stats": {
@@ -3606,7 +3618,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 79,
+		"player_id": 55,
 		"first_name": "Dwight",
 		"last_name": "Powell",
 		"primary_position": "C",
@@ -3615,7 +3627,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 208,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203939.png",
 		"player_url": "https://www.2kratings.com/dwight-powell",
 		"team_id": null,
 		"stats": {
@@ -3673,7 +3685,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 80,
+		"player_id": 56,
 		"first_name": "Maxi",
 		"last_name": "Kleber",
 		"primary_position": "PF",
@@ -3682,7 +3694,7 @@
 		"nba_team": "Dallas Mavericks",
 		"height": 208,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/maxi-kleber",
 		"team_id": null,
 		"stats": {
@@ -3740,7 +3752,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 85,
+		"player_id": 57,
 		"first_name": "Nikola",
 		"last_name": "Jokic",
 		"primary_position": "C",
@@ -3749,7 +3761,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 211,
 		"weight": 128,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
 		"player_url": "https://www.2kratings.com/nikola-jokic",
 		"team_id": null,
 		"stats": {
@@ -3807,7 +3819,7 @@
 		"total_badges": 36
 	},
 	{
-		"player_id": 86,
+		"player_id": 58,
 		"first_name": "Jamal",
 		"last_name": "Murray",
 		"primary_position": "PG",
@@ -3816,7 +3828,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 191,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png",
 		"player_url": "https://www.2kratings.com/jamal-murray",
 		"team_id": null,
 		"stats": {
@@ -3874,7 +3886,7 @@
 		"total_badges": 27
 	},
 	{
-		"player_id": 87,
+		"player_id": 59,
 		"first_name": "Michael",
 		"last_name": "Porter Jr.",
 		"primary_position": "SF",
@@ -3883,7 +3895,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 208,
 		"weight": 98,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png",
 		"player_url": "https://www.2kratings.com/michael-porter-jr",
 		"team_id": null,
 		"stats": {
@@ -3941,7 +3953,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 88,
+		"player_id": 60,
 		"first_name": "Aaron",
 		"last_name": "Gordon",
 		"primary_position": "PF",
@@ -3950,7 +3962,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 203,
 		"weight": 106,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png",
 		"player_url": "https://www.2kratings.com/aaron-gordon",
 		"team_id": null,
 		"stats": {
@@ -4008,7 +4020,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 89,
+		"player_id": 61,
 		"first_name": "Bones",
 		"last_name": "Hyland",
 		"primary_position": "SG",
@@ -4017,7 +4029,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 188,
 		"weight": 76,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.png",
 		"player_url": "https://www.2kratings.com/nahshon-hyland",
 		"team_id": null,
 		"stats": {
@@ -4075,7 +4087,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 90,
+		"player_id": 62,
 		"first_name": "Zeke",
 		"last_name": "Nnaji",
 		"primary_position": "C",
@@ -4084,7 +4096,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 206,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png",
 		"player_url": "https://www.2kratings.com/zeke-nnaji",
 		"team_id": null,
 		"stats": {
@@ -4142,7 +4154,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 91,
+		"player_id": 63,
 		"first_name": "Bruce",
 		"last_name": "Brown Jr.",
 		"primary_position": "SG",
@@ -4151,7 +4163,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 193,
 		"weight": 91,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/bruce-brown-jr",
 		"team_id": null,
 		"stats": {
@@ -4209,7 +4221,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 92,
+		"player_id": 64,
 		"first_name": "Jeff",
 		"last_name": "Green",
 		"primary_position": "PF",
@@ -4218,7 +4230,7 @@
 		"nba_team": "Denver Nuggets",
 		"height": 203,
 		"weight": 106,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png",
 		"player_url": "https://www.2kratings.com/jeff-green",
 		"team_id": null,
 		"stats": {
@@ -4276,7 +4288,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 97,
+		"player_id": 65,
 		"first_name": "Cade",
 		"last_name": "Cunningham",
 		"primary_position": "PG",
@@ -4285,7 +4297,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 198,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png",
 		"player_url": "https://www.2kratings.com/cade-cunningham",
 		"team_id": null,
 		"stats": {
@@ -4343,7 +4355,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 98,
+		"player_id": 66,
 		"first_name": "Saddiq",
 		"last_name": "Bey",
 		"primary_position": "SF",
@@ -4352,7 +4364,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 201,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png",
 		"player_url": "https://www.2kratings.com/saddiq-bey",
 		"team_id": null,
 		"stats": {
@@ -4410,7 +4422,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 99,
+		"player_id": 67,
 		"first_name": "Bojan",
 		"last_name": "Bogdanovic",
 		"primary_position": "PF",
@@ -4419,7 +4431,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 201,
 		"weight": 102,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202711.png",
 		"player_url": "https://www.2kratings.com/bojan-bogdanovic",
 		"team_id": null,
 		"stats": {
@@ -4477,7 +4489,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 100,
+		"player_id": 68,
 		"first_name": "Kemba",
 		"last_name": "Walker",
 		"primary_position": "PG",
@@ -4486,7 +4498,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 183,
 		"weight": 83,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Marcus-Smart-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202689.png",
 		"player_url": "https://www.2kratings.com/kemba-walker",
 		"team_id": null,
 		"stats": {
@@ -4544,7 +4556,7 @@
 		"total_badges": 15
 	},
 	{
-		"player_id": 101,
+		"player_id": 69,
 		"first_name": "Jaden",
 		"last_name": "Ivey",
 		"primary_position": "PG",
@@ -4553,7 +4565,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 193,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/jaden-ivey",
 		"team_id": null,
 		"stats": {
@@ -4611,7 +4623,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 102,
+		"player_id": 70,
 		"first_name": "Marvin",
 		"last_name": "Bagley III",
 		"primary_position": "PF",
@@ -4620,7 +4632,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 211,
 		"weight": 106,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png",
 		"player_url": "https://www.2kratings.com/marvin-bagley-iii",
 		"team_id": null,
 		"stats": {
@@ -4678,7 +4690,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 103,
+		"player_id": 71,
 		"first_name": "Isaiah",
 		"last_name": "Stewart",
 		"primary_position": "C",
@@ -4687,7 +4699,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 203,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png",
 		"player_url": "https://www.2kratings.com/isaiah-stewart",
 		"team_id": null,
 		"stats": {
@@ -4745,7 +4757,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 104,
+		"player_id": 72,
 		"first_name": "Hamidou",
 		"last_name": "Diallo",
 		"primary_position": "SF",
@@ -4754,7 +4766,7 @@
 		"nba_team": "Detroit Pistons",
 		"height": 196,
 		"weight": 91,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628977.png",
 		"player_url": "https://www.2kratings.com/hamidou-diallo",
 		"team_id": null,
 		"stats": {
@@ -4812,7 +4824,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 109,
+		"player_id": 73,
 		"first_name": "Stephen",
 		"last_name": "Curry",
 		"primary_position": "PG",
@@ -4821,7 +4833,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 188,
 		"weight": 83,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
 		"player_url": "https://www.2kratings.com/stephen-curry",
 		"team_id": null,
 		"stats": {
@@ -4879,7 +4891,7 @@
 		"total_badges": 36
 	},
 	{
-		"player_id": 110,
+		"player_id": 74,
 		"first_name": "Andrew",
 		"last_name": "Wiggins",
 		"primary_position": "SF",
@@ -4888,7 +4900,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 201,
 		"weight": 89,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203952.png",
 		"player_url": "https://www.2kratings.com/andrew-wiggins",
 		"team_id": null,
 		"stats": {
@@ -4946,7 +4958,7 @@
 		"total_badges": 13
 	},
 	{
-		"player_id": 111,
+		"player_id": 75,
 		"first_name": "Draymond",
 		"last_name": "Green",
 		"primary_position": "PF",
@@ -4955,7 +4967,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 198,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png",
 		"player_url": "https://www.2kratings.com/draymond-green",
 		"team_id": null,
 		"stats": {
@@ -5013,7 +5025,7 @@
 		"total_badges": 21
 	},
 	{
-		"player_id": 112,
+		"player_id": 76,
 		"first_name": "Jordan",
 		"last_name": "Poole",
 		"primary_position": "SG",
@@ -5022,7 +5034,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 193,
 		"weight": 87,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png",
 		"player_url": "https://www.2kratings.com/jordan-poole",
 		"team_id": null,
 		"stats": {
@@ -5080,7 +5092,7 @@
 		"total_badges": 17
 	},
 	{
-		"player_id": 113,
+		"player_id": 77,
 		"first_name": "Jonathan",
 		"last_name": "Kuminga",
 		"primary_position": "SF",
@@ -5089,7 +5101,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 201,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630228.png",
 		"player_url": "https://www.2kratings.com/jonathan-kuminga",
 		"team_id": null,
 		"stats": {
@@ -5147,7 +5159,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 114,
+		"player_id": 78,
 		"first_name": "JaMychal",
 		"last_name": "Green",
 		"primary_position": "PF",
@@ -5156,7 +5168,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 203,
 		"weight": 102,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203210.png",
 		"player_url": "https://www.2kratings.com/jamychal-green",
 		"team_id": null,
 		"stats": {
@@ -5214,7 +5226,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 115,
+		"player_id": 79,
 		"first_name": "James",
 		"last_name": "Wiseman",
 		"primary_position": "C",
@@ -5223,7 +5235,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 213,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.png",
 		"player_url": "https://www.2kratings.com/james-wiseman",
 		"team_id": null,
 		"stats": {
@@ -5281,7 +5293,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 116,
+		"player_id": 80,
 		"first_name": "Donte",
 		"last_name": "DiVincenzo",
 		"primary_position": "SG",
@@ -5290,7 +5302,7 @@
 		"nba_team": "Golden State Warriors",
 		"height": 193,
 		"weight": 91,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png",
 		"player_url": "https://www.2kratings.com/donte-divincenzo",
 		"team_id": null,
 		"stats": {
@@ -5348,7 +5360,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 121,
+		"player_id": 81,
 		"first_name": "Jalen",
 		"last_name": "Green",
 		"primary_position": "SG",
@@ -5357,7 +5369,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 193,
 		"weight": 84,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jaden-Ivey-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png",
 		"player_url": "https://www.2kratings.com/jalen-green",
 		"team_id": null,
 		"stats": {
@@ -5415,7 +5427,7 @@
 		"total_badges": 16
 	},
 	{
-		"player_id": 122,
+		"player_id": 82,
 		"first_name": "Jabari",
 		"last_name": "Smith Jr.",
 		"primary_position": "PF",
@@ -5424,7 +5436,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 208,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Smith-Jr.-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/jabari-smith",
 		"team_id": null,
 		"stats": {
@@ -5482,7 +5494,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 123,
+		"player_id": 83,
 		"first_name": "Alperen",
 		"last_name": "Sengun",
 		"primary_position": "C",
@@ -5491,7 +5503,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 208,
 		"weight": 109,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Smith-Jr.-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630578.png",
 		"player_url": "https://www.2kratings.com/alperen-sengun",
 		"team_id": null,
 		"stats": {
@@ -5549,7 +5561,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 124,
+		"player_id": 84,
 		"first_name": "Kevin",
 		"last_name": "Porter Jr.",
 		"primary_position": "SG",
@@ -5558,7 +5570,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 193,
 		"weight": 91,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Smith-Jr.-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png",
 		"player_url": "https://www.2kratings.com/kevin-porter-jr",
 		"team_id": null,
 		"stats": {
@@ -5616,7 +5628,7 @@
 		"total_badges": 7
 	},
 	{
-		"player_id": 125,
+		"player_id": 85,
 		"first_name": "Jae'Sean",
 		"last_name": "Tate",
 		"primary_position": "SF",
@@ -5625,7 +5637,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 193,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Smith-Jr.-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630256.png",
 		"player_url": "https://www.2kratings.com/jaesean-tate",
 		"team_id": null,
 		"stats": {
@@ -5683,7 +5695,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 126,
+		"player_id": 86,
 		"first_name": "Josh",
 		"last_name": "Christopher",
 		"primary_position": "SG",
@@ -5692,7 +5704,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 191,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Smith-Jr.-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.png",
 		"player_url": "https://www.2kratings.com/josh-christopher",
 		"team_id": null,
 		"stats": {
@@ -5750,7 +5762,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 127,
+		"player_id": 87,
 		"first_name": "Kenyon",
 		"last_name": "Martin Jr.",
 		"primary_position": "PF",
@@ -5759,7 +5771,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 196,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jabari-Smith-Jr.-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png",
 		"player_url": "https://www.2kratings.com/kenyon-martin-jr",
 		"team_id": null,
 		"stats": {
@@ -5817,7 +5829,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 128,
+		"player_id": 88,
 		"first_name": "Derrick",
 		"last_name": "Favors",
 		"primary_position": "C",
@@ -5826,7 +5838,7 @@
 		"nba_team": "Houston Rockets",
 		"height": 206,
 		"weight": 119,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202324.png",
 		"player_url": "https://www.2kratings.com/derrick-favors",
 		"team_id": null,
 		"stats": {
@@ -5884,7 +5896,7 @@
 		"total_badges": 7
 	},
 	{
-		"player_id": 133,
+		"player_id": 89,
 		"first_name": "Tyrese",
 		"last_name": "Haliburton",
 		"primary_position": "SG",
@@ -5893,7 +5905,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 196,
 		"weight": 83,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png",
 		"player_url": "https://www.2kratings.com/tyrese-haliburton",
 		"team_id": null,
 		"stats": {
@@ -5951,7 +5963,7 @@
 		"total_badges": 13
 	},
 	{
-		"player_id": 134,
+		"player_id": 90,
 		"first_name": "Myles",
 		"last_name": "Turner",
 		"primary_position": "C",
@@ -5960,7 +5972,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 211,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626167.png",
 		"player_url": "https://www.2kratings.com/myles-turner",
 		"team_id": null,
 		"stats": {
@@ -6018,7 +6030,7 @@
 		"total_badges": 12
 	},
 	{
-		"player_id": 135,
+		"player_id": 91,
 		"first_name": "Buddy",
 		"last_name": "Hield",
 		"primary_position": "SG",
@@ -6027,7 +6039,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 193,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627741.png",
 		"player_url": "https://www.2kratings.com/buddy-hield",
 		"team_id": null,
 		"stats": {
@@ -6085,7 +6097,7 @@
 		"total_badges": 17
 	},
 	{
-		"player_id": 136,
+		"player_id": 92,
 		"first_name": "Chris",
 		"last_name": "Duarte",
 		"primary_position": "SG",
@@ -6094,7 +6106,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 196,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630537.png",
 		"player_url": "https://www.2kratings.com/chris-duarte",
 		"team_id": null,
 		"stats": {
@@ -6152,7 +6164,7 @@
 		"total_badges": 7
 	},
 	{
-		"player_id": 137,
+		"player_id": 93,
 		"first_name": "Isaiah",
 		"last_name": "Jackson",
 		"primary_position": "C",
@@ -6161,7 +6173,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 208,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630543.png",
 		"player_url": "https://www.2kratings.com/isaiah-jackson",
 		"team_id": null,
 		"stats": {
@@ -6219,7 +6231,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 138,
+		"player_id": 94,
 		"first_name": "Jalen",
 		"last_name": "Smith",
 		"primary_position": "C",
@@ -6228,7 +6240,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 208,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.png",
 		"player_url": "https://www.2kratings.com/jalen-smith",
 		"team_id": null,
 		"stats": {
@@ -6286,7 +6298,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 139,
+		"player_id": 95,
 		"first_name": "T.J.",
 		"last_name": "McConnell",
 		"primary_position": "PG",
@@ -6295,7 +6307,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 185,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/204456.png",
 		"player_url": "https://www.2kratings.com/tj-mcconnell",
 		"team_id": null,
 		"stats": {
@@ -6353,7 +6365,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 140,
+		"player_id": 96,
 		"first_name": "Daniel",
 		"last_name": "Theis",
 		"primary_position": "PF",
@@ -6362,7 +6374,7 @@
 		"nba_team": "Indiana Pacers",
 		"height": 206,
 		"weight": 110,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628464.png",
 		"player_url": "https://www.2kratings.com/daniel-theis",
 		"team_id": null,
 		"stats": {
@@ -6420,7 +6432,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 145,
+		"player_id": 97,
 		"first_name": "Kawhi",
 		"last_name": "Leonard",
 		"primary_position": "SF",
@@ -6429,7 +6441,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 201,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png",
 		"player_url": "https://www.2kratings.com/kawhi-leonard",
 		"team_id": null,
 		"stats": {
@@ -6487,7 +6499,7 @@
 		"total_badges": 33
 	},
 	{
-		"player_id": 146,
+		"player_id": 98,
 		"first_name": "Paul",
 		"last_name": "George",
 		"primary_position": "SG",
@@ -6496,7 +6508,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 203,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
 		"player_url": "https://www.2kratings.com/paul-george",
 		"team_id": null,
 		"stats": {
@@ -6554,7 +6566,7 @@
 		"total_badges": 39
 	},
 	{
-		"player_id": 147,
+		"player_id": 99,
 		"first_name": "Norman",
 		"last_name": "Powell",
 		"primary_position": "SF",
@@ -6563,7 +6575,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 191,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626181.png",
 		"player_url": "https://www.2kratings.com/norman-powell",
 		"team_id": null,
 		"stats": {
@@ -6621,7 +6633,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 148,
+		"player_id": 100,
 		"first_name": "John",
 		"last_name": "Wall",
 		"primary_position": "PG",
@@ -6630,7 +6642,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 191,
 		"weight": 95,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202322.png",
 		"player_url": "https://www.2kratings.com/john-wall",
 		"team_id": null,
 		"stats": {
@@ -6688,7 +6700,7 @@
 		"total_badges": 14
 	},
 	{
-		"player_id": 149,
+		"player_id": 101,
 		"first_name": "Reggie",
 		"last_name": "Jackson",
 		"primary_position": "PG",
@@ -6697,7 +6709,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 188,
 		"weight": 94,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202704.png",
 		"player_url": "https://www.2kratings.com/reggie-jackson",
 		"team_id": null,
 		"stats": {
@@ -6755,7 +6767,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 150,
+		"player_id": 102,
 		"first_name": "Marcus",
 		"last_name": "Morris Sr.",
 		"primary_position": "PF",
@@ -6764,7 +6776,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 203,
 		"weight": 98,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202694.png",
 		"player_url": "https://www.2kratings.com/marcus-morris-sr",
 		"team_id": null,
 		"stats": {
@@ -6822,7 +6834,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 151,
+		"player_id": 103,
 		"first_name": "Ivica",
 		"last_name": "Zubac",
 		"primary_position": "C",
@@ -6831,7 +6843,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 213,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627826.png",
 		"player_url": "https://www.2kratings.com/ivica-zubac",
 		"team_id": null,
 		"stats": {
@@ -6889,7 +6901,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 152,
+		"player_id": 104,
 		"first_name": "Robert",
 		"last_name": "Covington",
 		"primary_position": "PF",
@@ -6898,7 +6910,7 @@
 		"nba_team": "Los Angeles Clippers",
 		"height": 201,
 		"weight": 94,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203496.png",
 		"player_url": "https://www.2kratings.com/robert-covington",
 		"team_id": null,
 		"stats": {
@@ -6956,7 +6968,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 157,
+		"player_id": 105,
 		"first_name": "LeBron",
 		"last_name": "James",
 		"primary_position": "SF",
@@ -6965,7 +6977,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 206,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
 		"player_url": "https://www.2kratings.com/lebron-james",
 		"team_id": null,
 		"stats": {
@@ -7023,7 +7035,7 @@
 		"total_badges": 45
 	},
 	{
-		"player_id": 158,
+		"player_id": 106,
 		"first_name": "Anthony",
 		"last_name": "Davis",
 		"primary_position": "PF",
@@ -7032,7 +7044,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 208,
 		"weight": 114,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
 		"player_url": "https://www.2kratings.com/anthony-davis",
 		"team_id": null,
 		"stats": {
@@ -7090,7 +7102,7 @@
 		"total_badges": 25
 	},
 	{
-		"player_id": 159,
+		"player_id": 107,
 		"first_name": "Russell",
 		"last_name": "Westbrook",
 		"primary_position": "PG",
@@ -7099,7 +7111,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 191,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png",
 		"player_url": "https://www.2kratings.com/russell-westbrook",
 		"team_id": null,
 		"stats": {
@@ -7157,7 +7169,7 @@
 		"total_badges": 14
 	},
 	{
-		"player_id": 160,
+		"player_id": 108,
 		"first_name": "Patrick",
 		"last_name": "Beverley",
 		"primary_position": "PG",
@@ -7166,7 +7178,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 185,
 		"weight": 81,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201976.png",
 		"player_url": "https://www.2kratings.com/patrick-beverley",
 		"team_id": null,
 		"stats": {
@@ -7224,7 +7236,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 161,
+		"player_id": 109,
 		"first_name": "Thomas",
 		"last_name": "Bryant",
 		"primary_position": "C",
@@ -7233,7 +7245,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 208,
 		"weight": 112,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png",
 		"player_url": "https://www.2kratings.com/thomas-bryant",
 		"team_id": null,
 		"stats": {
@@ -7291,7 +7303,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 162,
+		"player_id": 110,
 		"first_name": "Dennis",
 		"last_name": "Schroder",
 		"primary_position": "PG",
@@ -7300,7 +7312,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 185,
 		"weight": 77,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203471.png",
 		"player_url": "https://www.2kratings.com/dennis-schroder",
 		"team_id": null,
 		"stats": {
@@ -7358,7 +7370,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 163,
+		"player_id": 111,
 		"first_name": "Lonnie",
 		"last_name": "Walker IV",
 		"primary_position": "SG",
@@ -7367,7 +7379,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 193,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png",
 		"player_url": "https://www.2kratings.com/lonnie-walker-iv",
 		"team_id": null,
 		"stats": {
@@ -7425,7 +7437,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 164,
+		"player_id": 112,
 		"first_name": "Austin",
 		"last_name": "Reaves",
 		"primary_position": "SG",
@@ -7434,7 +7446,7 @@
 		"nba_team": "Los Angeles Lakers",
 		"height": 196,
 		"weight": 89,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630559.png",
 		"player_url": "https://www.2kratings.com/austin-reaves",
 		"team_id": null,
 		"stats": {
@@ -7492,7 +7504,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 169,
+		"player_id": 113,
 		"first_name": "Ja",
 		"last_name": "Morant",
 		"primary_position": "PG",
@@ -7501,7 +7513,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 191,
 		"weight": 78,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png",
 		"player_url": "https://www.2kratings.com/ja-morant",
 		"team_id": null,
 		"stats": {
@@ -7559,7 +7571,7 @@
 		"total_badges": 30
 	},
 	{
-		"player_id": 170,
+		"player_id": 114,
 		"first_name": "Jaren",
 		"last_name": "Jackson Jr.",
 		"primary_position": "PF",
@@ -7568,7 +7580,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 211,
 		"weight": 109,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png",
 		"player_url": "https://www.2kratings.com/jaren-jackson-jr",
 		"team_id": null,
 		"stats": {
@@ -7626,7 +7638,7 @@
 		"total_badges": 12
 	},
 	{
-		"player_id": 171,
+		"player_id": 115,
 		"first_name": "Desmond",
 		"last_name": "Bane",
 		"primary_position": "SF",
@@ -7635,7 +7647,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 196,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/desmond-bane",
 		"team_id": null,
 		"stats": {
@@ -7693,7 +7705,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 172,
+		"player_id": 116,
 		"first_name": "Steven",
 		"last_name": "Adams",
 		"primary_position": "C",
@@ -7702,7 +7714,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 211,
 		"weight": 119,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png",
 		"player_url": "https://www.2kratings.com/steven-adams",
 		"team_id": null,
 		"stats": {
@@ -7760,7 +7772,7 @@
 		"total_badges": 13
 	},
 	{
-		"player_id": 173,
+		"player_id": 117,
 		"first_name": "Dillon",
 		"last_name": "Brooks",
 		"primary_position": "SF",
@@ -7769,7 +7781,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 201,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628415.png",
 		"player_url": "https://www.2kratings.com/dillon-brooks",
 		"team_id": null,
 		"stats": {
@@ -7827,7 +7839,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 174,
+		"player_id": 118,
 		"first_name": "Tyus",
 		"last_name": "Jones",
 		"primary_position": "PG",
@@ -7836,7 +7848,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 183,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626145.png",
 		"player_url": "https://www.2kratings.com/tyus-jones",
 		"team_id": null,
 		"stats": {
@@ -7894,7 +7906,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 175,
+		"player_id": 119,
 		"first_name": "Brandon",
 		"last_name": "Clarke",
 		"primary_position": "PF",
@@ -7903,7 +7915,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 203,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png",
 		"player_url": "https://www.2kratings.com/brandon-clarke",
 		"team_id": null,
 		"stats": {
@@ -7961,7 +7973,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 176,
+		"player_id": 120,
 		"first_name": "Xavier",
 		"last_name": "Tillman",
 		"primary_position": "C",
@@ -7970,7 +7982,7 @@
 		"nba_team": "Memphis Grizzlies",
 		"height": 203,
 		"weight": 110,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png",
 		"player_url": "https://www.2kratings.com/xavier-tillman",
 		"team_id": null,
 		"stats": {
@@ -8028,7 +8040,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 181,
+		"player_id": 121,
 		"first_name": "Jimmy",
 		"last_name": "Butler",
 		"primary_position": "SF",
@@ -8037,7 +8049,7 @@
 		"nba_team": "Miami Heat",
 		"height": 201,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png",
 		"player_url": "https://www.2kratings.com/jimmy-butler",
 		"team_id": null,
 		"stats": {
@@ -8095,7 +8107,7 @@
 		"total_badges": 37
 	},
 	{
-		"player_id": 182,
+		"player_id": 122,
 		"first_name": "Bam",
 		"last_name": "Adebayo",
 		"primary_position": "C",
@@ -8104,7 +8116,7 @@
 		"nba_team": "Miami Heat",
 		"height": 206,
 		"weight": 115,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png",
 		"player_url": "https://www.2kratings.com/bam-adebayo",
 		"team_id": null,
 		"stats": {
@@ -8162,7 +8174,7 @@
 		"total_badges": 24
 	},
 	{
-		"player_id": 183,
+		"player_id": 123,
 		"first_name": "Tyler",
 		"last_name": "Herro",
 		"primary_position": "SG",
@@ -8171,7 +8183,7 @@
 		"nba_team": "Miami Heat",
 		"height": 196,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/tyler-herro",
 		"team_id": null,
 		"stats": {
@@ -8229,7 +8241,7 @@
 		"total_badges": 18
 	},
 	{
-		"player_id": 184,
+		"player_id": 124,
 		"first_name": "Kyle",
 		"last_name": "Lowry",
 		"primary_position": "PG",
@@ -8238,7 +8250,7 @@
 		"nba_team": "Miami Heat",
 		"height": 183,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png",
 		"player_url": "https://www.2kratings.com/kyle-lowry",
 		"team_id": null,
 		"stats": {
@@ -8296,7 +8308,7 @@
 		"total_badges": 23
 	},
 	{
-		"player_id": 185,
+		"player_id": 125,
 		"first_name": "Victor",
 		"last_name": "Oladipo",
 		"primary_position": "PG",
@@ -8305,7 +8317,7 @@
 		"nba_team": "Miami Heat",
 		"height": 193,
 		"weight": 96,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203506.png",
 		"player_url": "https://www.2kratings.com/victor-oladipo",
 		"team_id": null,
 		"stats": {
@@ -8363,7 +8375,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 186,
+		"player_id": 126,
 		"first_name": "Max",
 		"last_name": "Strus",
 		"primary_position": "SF",
@@ -8372,7 +8384,7 @@
 		"nba_team": "Miami Heat",
 		"height": 196,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629622.png",
 		"player_url": "https://www.2kratings.com/max-strus",
 		"team_id": null,
 		"stats": {
@@ -8430,7 +8442,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 187,
+		"player_id": 127,
 		"first_name": "Caleb",
 		"last_name": "Martin",
 		"primary_position": "SG",
@@ -8439,7 +8451,7 @@
 		"nba_team": "Miami Heat",
 		"height": 196,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628997.png",
 		"player_url": "https://www.2kratings.com/caleb-martin",
 		"team_id": null,
 		"stats": {
@@ -8497,7 +8509,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 188,
+		"player_id": 128,
 		"first_name": "Gabe",
 		"last_name": "Vincent",
 		"primary_position": "SG",
@@ -8506,7 +8518,7 @@
 		"nba_team": "Miami Heat",
 		"height": 191,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629216.png",
 		"player_url": "https://www.2kratings.com/gabe-vincent",
 		"team_id": null,
 		"stats": {
@@ -8564,7 +8576,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 193,
+		"player_id": 129,
 		"first_name": "Giannis",
 		"last_name": "Antetokounmpo",
 		"primary_position": "PF",
@@ -8573,7 +8585,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 211,
 		"weight": 109,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
 		"player_url": "https://www.2kratings.com/giannis-antetokounmpo",
 		"team_id": null,
 		"stats": {
@@ -8631,7 +8643,7 @@
 		"total_badges": 41
 	},
 	{
-		"player_id": 194,
+		"player_id": 130,
 		"first_name": "Khris",
 		"last_name": "Middleton",
 		"primary_position": "SF",
@@ -8640,7 +8652,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 201,
 		"weight": 100,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203114.png",
 		"player_url": "https://www.2kratings.com/khris-middleton",
 		"team_id": null,
 		"stats": {
@@ -8698,7 +8710,7 @@
 		"total_badges": 21
 	},
 	{
-		"player_id": 195,
+		"player_id": 131,
 		"first_name": "Jrue",
 		"last_name": "Holiday",
 		"primary_position": "PG",
@@ -8707,7 +8719,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 191,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png",
 		"player_url": "https://www.2kratings.com/jrue-holiday",
 		"team_id": null,
 		"stats": {
@@ -8765,7 +8777,7 @@
 		"total_badges": 21
 	},
 	{
-		"player_id": 196,
+		"player_id": 132,
 		"first_name": "Bobby",
 		"last_name": "Portis",
 		"primary_position": "C",
@@ -8774,7 +8786,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 208,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626171.png",
 		"player_url": "https://www.2kratings.com/bobby-portis",
 		"team_id": null,
 		"stats": {
@@ -8832,7 +8844,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 197,
+		"player_id": 133,
 		"first_name": "Brook",
 		"last_name": "Lopez",
 		"primary_position": "C",
@@ -8841,7 +8853,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 213,
 		"weight": 127,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png",
 		"player_url": "https://www.2kratings.com/brook-lopez",
 		"team_id": null,
 		"stats": {
@@ -8899,7 +8911,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 198,
+		"player_id": 134,
 		"first_name": "Pat",
 		"last_name": "Connaughton",
 		"primary_position": "SF",
@@ -8908,7 +8920,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 196,
 		"weight": 94,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626192.png",
 		"player_url": "https://www.2kratings.com/pat-connaughton",
 		"team_id": null,
 		"stats": {
@@ -8966,7 +8978,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 199,
+		"player_id": 135,
 		"first_name": "Joe",
 		"last_name": "Ingles",
 		"primary_position": "SF",
@@ -8975,7 +8987,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 203,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/204060.png",
 		"player_url": "https://www.2kratings.com/joe-ingles",
 		"team_id": null,
 		"stats": {
@@ -9033,7 +9045,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 200,
+		"player_id": 136,
 		"first_name": "Grayson",
 		"last_name": "Allen",
 		"primary_position": "SG",
@@ -9042,7 +9054,7 @@
 		"nba_team": "Milwaukee Bucks",
 		"height": 193,
 		"weight": 89,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png",
 		"player_url": "https://www.2kratings.com/grayson-allen",
 		"team_id": null,
 		"stats": {
@@ -9100,7 +9112,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 205,
+		"player_id": 137,
 		"first_name": "Karl-Anthony",
 		"last_name": "Towns",
 		"primary_position": "C",
@@ -9109,7 +9121,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 211,
 		"weight": 112,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png",
 		"player_url": "https://www.2kratings.com/karl-anthony-towns",
 		"team_id": null,
 		"stats": {
@@ -9167,7 +9179,7 @@
 		"total_badges": 22
 	},
 	{
-		"player_id": 206,
+		"player_id": 138,
 		"first_name": "Rudy",
 		"last_name": "Gobert",
 		"primary_position": "C",
@@ -9176,7 +9188,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 216,
 		"weight": 110,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png",
 		"player_url": "https://www.2kratings.com/rudy-gobert",
 		"team_id": null,
 		"stats": {
@@ -9234,7 +9246,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 207,
+		"player_id": 139,
 		"first_name": "Anthony",
 		"last_name": "Edwards",
 		"primary_position": "SG",
@@ -9243,7 +9255,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
 		"weight": 95,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png",
 		"player_url": "https://www.2kratings.com/anthony-edwards",
 		"team_id": null,
 		"stats": {
@@ -9301,7 +9313,7 @@
 		"total_badges": 17
 	},
 	{
-		"player_id": 208,
+		"player_id": 140,
 		"first_name": "D'Angelo",
 		"last_name": "Russell",
 		"primary_position": "PG",
@@ -9310,7 +9322,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 193,
 		"weight": 89,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626156.png",
 		"player_url": "https://www.2kratings.com/dangelo-russell",
 		"team_id": null,
 		"stats": {
@@ -9368,7 +9380,7 @@
 		"total_badges": 15
 	},
 	{
-		"player_id": 209,
+		"player_id": 141,
 		"first_name": "Naz",
 		"last_name": "Reid",
 		"primary_position": "C",
@@ -9377,7 +9389,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
 		"weight": 115,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Derrick-Favors-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629675.png",
 		"player_url": "https://www.2kratings.com/naz-reid",
 		"team_id": null,
 		"stats": {
@@ -9435,7 +9447,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 210,
+		"player_id": 142,
 		"first_name": "Kyle",
 		"last_name": "Anderson",
 		"primary_position": "PF",
@@ -9444,7 +9456,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203937.png",
 		"player_url": "https://www.2kratings.com/kyle-anderson",
 		"team_id": null,
 		"stats": {
@@ -9502,7 +9514,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 211,
+		"player_id": 143,
 		"first_name": "Taurean",
 		"last_name": "Prince",
 		"primary_position": "PF",
@@ -9511,7 +9523,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 201,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627752.png",
 		"player_url": "https://www.2kratings.com/taurean-prince",
 		"team_id": null,
 		"stats": {
@@ -9569,7 +9581,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 212,
+		"player_id": 144,
 		"first_name": "Jaden",
 		"last_name": "McDaniels",
 		"primary_position": "PF",
@@ -9578,7 +9590,7 @@
 		"nba_team": "Minnesota Timberwolves",
 		"height": 206,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/jaden-mcdaniels",
 		"team_id": null,
 		"stats": {
@@ -9636,7 +9648,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 217,
+		"player_id": 145,
 		"first_name": "Zion",
 		"last_name": "Williamson",
 		"primary_position": "PF",
@@ -9645,7 +9657,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 198,
 		"weight": 128,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
 		"player_url": "https://www.2kratings.com/zion-williamson",
 		"team_id": null,
 		"stats": {
@@ -9703,7 +9715,7 @@
 		"total_badges": 25
 	},
 	{
-		"player_id": 218,
+		"player_id": 146,
 		"first_name": "Brandon",
 		"last_name": "Ingram",
 		"primary_position": "SF",
@@ -9712,7 +9724,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 203,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627742.png",
 		"player_url": "https://www.2kratings.com/brandon-ingram",
 		"team_id": null,
 		"stats": {
@@ -9770,7 +9782,7 @@
 		"total_badges": 15
 	},
 	{
-		"player_id": 219,
+		"player_id": 147,
 		"first_name": "C.J.",
 		"last_name": "McCollum",
 		"primary_position": "SG",
@@ -9779,7 +9791,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 191,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203468.png",
 		"player_url": "https://www.2kratings.com/cj-mccollum",
 		"team_id": null,
 		"stats": {
@@ -9837,7 +9849,7 @@
 		"total_badges": 28
 	},
 	{
-		"player_id": 220,
+		"player_id": 148,
 		"first_name": "Jonas",
 		"last_name": "Valanciunas",
 		"primary_position": "C",
@@ -9846,7 +9858,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 211,
 		"weight": 119,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202685.png",
 		"player_url": "https://www.2kratings.com/jonas-valanciunas",
 		"team_id": null,
 		"stats": {
@@ -9904,7 +9916,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 221,
+		"player_id": 149,
 		"first_name": "Herbert",
 		"last_name": "Jones",
 		"primary_position": "SF",
@@ -9913,7 +9925,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 201,
 		"weight": 93,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png",
 		"player_url": "https://www.2kratings.com/herbert-jones",
 		"team_id": null,
 		"stats": {
@@ -9971,7 +9983,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 222,
+		"player_id": 150,
 		"first_name": "Jose",
 		"last_name": "Alvarado",
 		"primary_position": "PG",
@@ -9980,7 +9992,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 183,
 		"weight": 81,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png",
 		"player_url": "https://www.2kratings.com/jose-alvarado",
 		"team_id": null,
 		"stats": {
@@ -10038,7 +10050,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 223,
+		"player_id": 151,
 		"first_name": "Larry",
 		"last_name": "Nance Jr.",
 		"primary_position": "PF",
@@ -10047,7 +10059,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 201,
 		"weight": 110,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626204.png",
 		"player_url": "https://www.2kratings.com/larry-nance-jr",
 		"team_id": null,
 		"stats": {
@@ -10105,7 +10117,7 @@
 		"total_badges": 7
 	},
 	{
-		"player_id": 224,
+		"player_id": 152,
 		"first_name": "Jaxson",
 		"last_name": "Hayes",
 		"primary_position": "C",
@@ -10114,7 +10126,7 @@
 		"nba_team": "New Orleans Pelicans",
 		"height": 211,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629637.png",
 		"player_url": "https://www.2kratings.com/jaxson-hayes",
 		"team_id": null,
 		"stats": {
@@ -10172,7 +10184,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 229,
+		"player_id": 153,
 		"first_name": "R.J.",
 		"last_name": "Barrett",
 		"primary_position": "SF",
@@ -10181,7 +10193,7 @@
 		"nba_team": "New York Knicks",
 		"height": 198,
 		"weight": 96,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png",
 		"player_url": "https://www.2kratings.com/rj-barrett",
 		"team_id": null,
 		"stats": {
@@ -10239,7 +10251,7 @@
 		"total_badges": 19
 	},
 	{
-		"player_id": 230,
+		"player_id": 154,
 		"first_name": "Jalen",
 		"last_name": "Brunson",
 		"primary_position": "PG",
@@ -10248,7 +10260,7 @@
 		"nba_team": "New York Knicks",
 		"height": 185,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png",
 		"player_url": "https://www.2kratings.com/jalen-brunson",
 		"team_id": null,
 		"stats": {
@@ -10306,7 +10318,7 @@
 		"total_badges": 20
 	},
 	{
-		"player_id": 231,
+		"player_id": 155,
 		"first_name": "Julius",
 		"last_name": "Randle",
 		"primary_position": "PF",
@@ -10315,7 +10327,7 @@
 		"nba_team": "New York Knicks",
 		"height": 203,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png",
 		"player_url": "https://www.2kratings.com/julius-randle",
 		"team_id": null,
 		"stats": {
@@ -10373,7 +10385,7 @@
 		"total_badges": 16
 	},
 	{
-		"player_id": 232,
+		"player_id": 156,
 		"first_name": "Derrick",
 		"last_name": "Rose",
 		"primary_position": "PG",
@@ -10382,7 +10394,7 @@
 		"nba_team": "New York Knicks",
 		"height": 188,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201565.png",
 		"player_url": "https://www.2kratings.com/derrick-rose",
 		"team_id": null,
 		"stats": {
@@ -10440,7 +10452,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 233,
+		"player_id": 157,
 		"first_name": "Mitchell",
 		"last_name": "Robinson",
 		"primary_position": "C",
@@ -10449,7 +10461,7 @@
 		"nba_team": "New York Knicks",
 		"height": 213,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png",
 		"player_url": "https://www.2kratings.com/mitchell-robinson",
 		"team_id": null,
 		"stats": {
@@ -10507,7 +10519,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 234,
+		"player_id": 158,
 		"first_name": "Immanuel",
 		"last_name": "Quickley",
 		"primary_position": "SG",
@@ -10516,7 +10528,7 @@
 		"nba_team": "New York Knicks",
 		"height": 191,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png",
 		"player_url": "https://www.2kratings.com/immanuel-quickley",
 		"team_id": null,
 		"stats": {
@@ -10574,7 +10586,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 235,
+		"player_id": 159,
 		"first_name": "Obi",
 		"last_name": "Toppin",
 		"primary_position": "PF",
@@ -10583,7 +10595,7 @@
 		"nba_team": "New York Knicks",
 		"height": 206,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.png",
 		"player_url": "https://www.2kratings.com/obi-toppin",
 		"team_id": null,
 		"stats": {
@@ -10641,7 +10653,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 236,
+		"player_id": 160,
 		"first_name": "Evan",
 		"last_name": "Fournier",
 		"primary_position": "SG",
@@ -10650,7 +10662,7 @@
 		"nba_team": "New York Knicks",
 		"height": 198,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203095.png",
 		"player_url": "https://www.2kratings.com/evan-fournier",
 		"team_id": null,
 		"stats": {
@@ -10708,7 +10720,7 @@
 		"total_badges": 12
 	},
 	{
-		"player_id": 241,
+		"player_id": 161,
 		"first_name": "Shai",
 		"last_name": "Gilgeous-Alexander",
 		"primary_position": "PG",
@@ -10717,7 +10729,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
 		"weight": 81,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png",
 		"player_url": "https://www.2kratings.com/shai-gilgeous-alexander",
 		"team_id": null,
 		"stats": {
@@ -10775,7 +10787,7 @@
 		"total_badges": 14
 	},
 	{
-		"player_id": 242,
+		"player_id": 162,
 		"first_name": "Josh",
 		"last_name": "Giddey",
 		"primary_position": "SG",
@@ -10784,7 +10796,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.png",
 		"player_url": "https://www.2kratings.com/josh-giddey",
 		"team_id": null,
 		"stats": {
@@ -10842,7 +10854,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 243,
+		"player_id": 163,
 		"first_name": "Chet",
 		"last_name": "Holmgren",
 		"primary_position": "PF",
@@ -10851,7 +10863,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 213,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png",
 		"player_url": "https://www.2kratings.com/chet-holmgren",
 		"team_id": null,
 		"stats": {
@@ -10909,7 +10921,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 244,
+		"player_id": 164,
 		"first_name": "Luguentz",
 		"last_name": "Dort",
 		"primary_position": "SG",
@@ -10918,7 +10930,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 191,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png",
 		"player_url": "https://www.2kratings.com/luguentz-dort",
 		"team_id": null,
 		"stats": {
@@ -10976,7 +10988,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 245,
+		"player_id": 165,
 		"first_name": "Darius",
 		"last_name": "Bazley",
 		"primary_position": "PF",
@@ -10985,7 +10997,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 203,
 		"weight": 94,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629647.png",
 		"player_url": "https://www.2kratings.com/darius-bazley",
 		"team_id": null,
 		"stats": {
@@ -11043,7 +11055,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 246,
+		"player_id": 166,
 		"first_name": "Tre",
 		"last_name": "Mann",
 		"primary_position": "PG",
@@ -11052,7 +11064,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 191,
 		"weight": 80,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png",
 		"player_url": "https://www.2kratings.com/tre-mann",
 		"team_id": null,
 		"stats": {
@@ -11110,7 +11122,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 247,
+		"player_id": 167,
 		"first_name": "Aleksej",
 		"last_name": "Pokusevski",
 		"primary_position": "SF",
@@ -11119,7 +11131,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 213,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630197.png",
 		"player_url": "https://www.2kratings.com/aleksej-pokusevski",
 		"team_id": null,
 		"stats": {
@@ -11177,7 +11189,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 248,
+		"player_id": 168,
 		"first_name": "Kenrich",
 		"last_name": "Williams",
 		"primary_position": "SF",
@@ -11186,7 +11198,7 @@
 		"nba_team": "Oklahoma City Thunder",
 		"height": 198,
 		"weight": 95,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629026.png",
 		"player_url": "https://www.2kratings.com/kenrich-williams",
 		"team_id": null,
 		"stats": {
@@ -11244,7 +11256,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 253,
+		"player_id": 169,
 		"first_name": "Wendell",
 		"last_name": "Carter Jr.",
 		"primary_position": "C",
@@ -11253,7 +11265,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 208,
 		"weight": 122,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png",
 		"player_url": "https://www.2kratings.com/wendell-carter-jr",
 		"team_id": null,
 		"stats": {
@@ -11311,7 +11323,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 254,
+		"player_id": 170,
 		"first_name": "Franz",
 		"last_name": "Wagner",
 		"primary_position": "SF",
@@ -11320,7 +11332,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 208,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Kyle-Anderson-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png",
 		"player_url": "https://www.2kratings.com/franz-wagner",
 		"team_id": null,
 		"stats": {
@@ -11378,7 +11390,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 255,
+		"player_id": 171,
 		"first_name": "Mohamed",
 		"last_name": "Bamba",
 		"primary_position": "C",
@@ -11387,7 +11399,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 213,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Mo-Bamba-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/mohamed-bamba",
 		"team_id": null,
 		"stats": {
@@ -11445,7 +11457,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 256,
+		"player_id": 172,
 		"first_name": "Paolo",
 		"last_name": "Banchero",
 		"primary_position": "PF",
@@ -11454,7 +11466,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 208,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Mo-Bamba-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png",
 		"player_url": "https://www.2kratings.com/paolo-banchero",
 		"team_id": null,
 		"stats": {
@@ -11512,7 +11524,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 257,
+		"player_id": 173,
 		"first_name": "Cole",
 		"last_name": "Anthony",
 		"primary_position": "PG",
@@ -11521,7 +11533,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 191,
 		"weight": 83,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Mo-Bamba-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png",
 		"player_url": "https://www.2kratings.com/cole-anthony",
 		"team_id": null,
 		"stats": {
@@ -11579,7 +11591,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 258,
+		"player_id": 174,
 		"first_name": "Jonathan",
 		"last_name": "Isaac",
 		"primary_position": "PF",
@@ -11588,7 +11600,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 208,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Mo-Bamba-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png",
 		"player_url": "https://www.2kratings.com/jonathan-isaac",
 		"team_id": null,
 		"stats": {
@@ -11646,7 +11658,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 259,
+		"player_id": 175,
 		"first_name": "Markelle",
 		"last_name": "Fultz",
 		"primary_position": "PG",
@@ -11655,7 +11667,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 193,
 		"weight": 94,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Mo-Bamba-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png",
 		"player_url": "https://www.2kratings.com/markelle-fultz",
 		"team_id": null,
 		"stats": {
@@ -11713,7 +11725,7 @@
 		"total_badges": 7
 	},
 	{
-		"player_id": 260,
+		"player_id": 176,
 		"first_name": "Jalen",
 		"last_name": "Suggs",
 		"primary_position": "PG",
@@ -11722,7 +11734,7 @@
 		"nba_team": "Orlando Magic",
 		"height": 196,
 		"weight": 92,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Jalen-Suggs-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png",
 		"player_url": "https://www.2kratings.com/jalen-suggs",
 		"team_id": null,
 		"stats": {
@@ -11780,7 +11792,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 265,
+		"player_id": 177,
 		"first_name": "Joel",
 		"last_name": "Embiid",
 		"primary_position": "C",
@@ -11789,7 +11801,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 213,
 		"weight": 126,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png",
 		"player_url": "https://www.2kratings.com/joel-embiid",
 		"team_id": null,
 		"stats": {
@@ -11847,7 +11859,7 @@
 		"total_badges": 28
 	},
 	{
-		"player_id": 266,
+		"player_id": 178,
 		"first_name": "James",
 		"last_name": "Harden",
 		"primary_position": "SG",
@@ -11856,7 +11868,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 196,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
 		"player_url": "https://www.2kratings.com/james-harden",
 		"team_id": null,
 		"stats": {
@@ -11914,7 +11926,7 @@
 		"total_badges": 31
 	},
 	{
-		"player_id": 267,
+		"player_id": 179,
 		"first_name": "Tyrese",
 		"last_name": "Maxey",
 		"primary_position": "PG",
@@ -11923,7 +11935,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 188,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png",
 		"player_url": "https://www.2kratings.com/tyrese-maxey",
 		"team_id": null,
 		"stats": {
@@ -11981,7 +11993,7 @@
 		"total_badges": 15
 	},
 	{
-		"player_id": 268,
+		"player_id": 180,
 		"first_name": "Tobias",
 		"last_name": "Harris",
 		"primary_position": "PF",
@@ -11990,7 +12002,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 201,
 		"weight": 102,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202699.png",
 		"player_url": "https://www.2kratings.com/tobias-harris",
 		"team_id": null,
 		"stats": {
@@ -12048,7 +12060,7 @@
 		"total_badges": 11
 	},
 	{
-		"player_id": 269,
+		"player_id": 181,
 		"first_name": "De'Anthony",
 		"last_name": "Melton",
 		"primary_position": "SG",
@@ -12057,7 +12069,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 188,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.png",
 		"player_url": "https://www.2kratings.com/deanthony-melton",
 		"team_id": null,
 		"stats": {
@@ -12115,7 +12127,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 270,
+		"player_id": 182,
 		"first_name": "Matisse",
 		"last_name": "Thybulle",
 		"primary_position": "SF",
@@ -12124,7 +12136,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 196,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png",
 		"player_url": "https://www.2kratings.com/matisse-thybulle",
 		"team_id": null,
 		"stats": {
@@ -12182,7 +12194,7 @@
 		"total_badges": 12
 	},
 	{
-		"player_id": 271,
+		"player_id": 183,
 		"first_name": "P.J.",
 		"last_name": "Tucker",
 		"primary_position": "PF",
@@ -12191,7 +12203,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 196,
 		"weight": 110,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200782.png",
 		"player_url": "https://www.2kratings.com/pj-tucker",
 		"team_id": null,
 		"stats": {
@@ -12249,7 +12261,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 272,
+		"player_id": 184,
 		"first_name": "Montrezl",
 		"last_name": "Harrell",
 		"primary_position": "C",
@@ -12258,7 +12270,7 @@
 		"nba_team": "Philadelphia 76ers",
 		"height": 201,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626149.png",
 		"player_url": "https://www.2kratings.com/montrezl-harrell",
 		"team_id": null,
 		"stats": {
@@ -12316,7 +12328,7 @@
 		"total_badges": 14
 	},
 	{
-		"player_id": 277,
+		"player_id": 185,
 		"first_name": "Devin",
 		"last_name": "Booker",
 		"primary_position": "SG",
@@ -12325,7 +12337,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 196,
 		"weight": 93,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png",
 		"player_url": "https://www.2kratings.com/devin-booker",
 		"team_id": null,
 		"stats": {
@@ -12383,7 +12395,7 @@
 		"total_badges": 33
 	},
 	{
-		"player_id": 278,
+		"player_id": 186,
 		"first_name": "Chris",
 		"last_name": "Paul",
 		"primary_position": "PG",
@@ -12392,7 +12404,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 183,
 		"weight": 79,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Joel-Embiid-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png",
 		"player_url": "https://www.2kratings.com/chris-paul",
 		"team_id": null,
 		"stats": {
@@ -12450,7 +12462,7 @@
 		"total_badges": 37
 	},
 	{
-		"player_id": 279,
+		"player_id": 187,
 		"first_name": "Deandre",
 		"last_name": "Ayton",
 		"primary_position": "C",
@@ -12459,7 +12471,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 211,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png",
 		"player_url": "https://www.2kratings.com/deandre-ayton",
 		"team_id": null,
 		"stats": {
@@ -12517,7 +12529,7 @@
 		"total_badges": 15
 	},
 	{
-		"player_id": 280,
+		"player_id": 188,
 		"first_name": "Mikal",
 		"last_name": "Bridges",
 		"primary_position": "SF",
@@ -12526,7 +12538,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 198,
 		"weight": 94,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png",
 		"player_url": "https://www.2kratings.com/mikal-bridges",
 		"team_id": null,
 		"stats": {
@@ -12584,7 +12596,7 @@
 		"total_badges": 14
 	},
 	{
-		"player_id": 281,
+		"player_id": 189,
 		"first_name": "Cameron",
 		"last_name": "Johnson",
 		"primary_position": "PF",
@@ -12593,7 +12605,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 203,
 		"weight": 95,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.png",
 		"player_url": "https://www.2kratings.com/cameron-johnson",
 		"team_id": null,
 		"stats": {
@@ -12651,7 +12663,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 282,
+		"player_id": 190,
 		"first_name": "Cameron",
 		"last_name": "Payne",
 		"primary_position": "PG",
@@ -12660,7 +12672,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 185,
 		"weight": 82,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626166.png",
 		"player_url": "https://www.2kratings.com/cameron-payne",
 		"team_id": null,
 		"stats": {
@@ -12718,7 +12730,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 283,
+		"player_id": 191,
 		"first_name": "Dario",
 		"last_name": "Saric",
 		"primary_position": "C",
@@ -12727,7 +12739,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 208,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203967.png",
 		"player_url": "https://www.2kratings.com/dario-saric",
 		"team_id": null,
 		"stats": {
@@ -12785,7 +12797,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 284,
+		"player_id": 192,
 		"first_name": "Jae",
 		"last_name": "Crowder",
 		"primary_position": "PF",
@@ -12794,7 +12806,7 @@
 		"nba_team": "Phoenix Suns",
 		"height": 198,
 		"weight": 106,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203109.png",
 		"player_url": "https://www.2kratings.com/jae-crowder",
 		"team_id": null,
 		"stats": {
@@ -12852,7 +12864,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 289,
+		"player_id": 193,
 		"first_name": "Damian",
 		"last_name": "Lillard",
 		"primary_position": "PG",
@@ -12861,7 +12873,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 188,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
 		"player_url": "https://www.2kratings.com/damian-lillard",
 		"team_id": null,
 		"stats": {
@@ -12919,7 +12931,7 @@
 		"total_badges": 36
 	},
 	{
-		"player_id": 290,
+		"player_id": 194,
 		"first_name": "Jerami",
 		"last_name": "Grant",
 		"primary_position": "PF",
@@ -12928,7 +12940,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 203,
 		"weight": 95,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203924.png",
 		"player_url": "https://www.2kratings.com/jerami-grant",
 		"team_id": null,
 		"stats": {
@@ -12986,7 +12998,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 291,
+		"player_id": 195,
 		"first_name": "Jusuf",
 		"last_name": "Nurkic",
 		"primary_position": "C",
@@ -12995,7 +13007,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 211,
 		"weight": 131,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203994.png",
 		"player_url": "https://www.2kratings.com/jusuf-nurkic",
 		"team_id": null,
 		"stats": {
@@ -13053,7 +13065,7 @@
 		"total_badges": 9
 	},
 	{
-		"player_id": 292,
+		"player_id": 196,
 		"first_name": "Anfernee",
 		"last_name": "Simons",
 		"primary_position": "PG",
@@ -13062,7 +13074,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 191,
 		"weight": 81,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png",
 		"player_url": "https://www.2kratings.com/anfernee-simons",
 		"team_id": null,
 		"stats": {
@@ -13120,7 +13132,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 293,
+		"player_id": 197,
 		"first_name": "Josh",
 		"last_name": "Hart",
 		"primary_position": "SF",
@@ -13129,7 +13141,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 196,
 		"weight": 97,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png",
 		"player_url": "https://www.2kratings.com/josh-hart",
 		"team_id": null,
 		"stats": {
@@ -13187,7 +13199,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 294,
+		"player_id": 198,
 		"first_name": "Gary",
 		"last_name": "Payton II",
 		"primary_position": "SG",
@@ -13196,7 +13208,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 191,
 		"weight": 88,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png",
 		"player_url": "https://www.2kratings.com/gary-payton-ii",
 		"team_id": null,
 		"stats": {
@@ -13254,7 +13266,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 295,
+		"player_id": 199,
 		"first_name": "Nassir",
 		"last_name": "Little",
 		"primary_position": "SF",
@@ -13263,7 +13275,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 196,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629642.png",
 		"player_url": "https://www.2kratings.com/nassir-little",
 		"team_id": null,
 		"stats": {
@@ -13321,7 +13333,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 296,
+		"player_id": 200,
 		"first_name": "Justise",
 		"last_name": "Winslow",
 		"primary_position": "SF",
@@ -13330,7 +13342,7 @@
 		"nba_team": "Portland Trail Blazers",
 		"height": 198,
 		"weight": 100,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626159.png",
 		"player_url": "https://www.2kratings.com/justise-winslow",
 		"team_id": null,
 		"stats": {
@@ -13388,7 +13400,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 301,
+		"player_id": 201,
 		"first_name": "Domantas",
 		"last_name": "Sabonis",
 		"primary_position": "PF",
@@ -13397,7 +13409,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 211,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png",
 		"player_url": "https://www.2kratings.com/domantas-sabonis",
 		"team_id": null,
 		"stats": {
@@ -13455,7 +13467,7 @@
 		"total_badges": 14
 	},
 	{
-		"player_id": 302,
+		"player_id": 202,
 		"first_name": "De'Aaron",
 		"last_name": "Fox",
 		"primary_position": "PG",
@@ -13464,7 +13476,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 191,
 		"weight": 83,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png",
 		"player_url": "https://www.2kratings.com/deaaron-fox",
 		"team_id": null,
 		"stats": {
@@ -13522,7 +13534,7 @@
 		"total_badges": 21
 	},
 	{
-		"player_id": 303,
+		"player_id": 203,
 		"first_name": "Harrison",
 		"last_name": "Barnes",
 		"primary_position": "SF",
@@ -13531,7 +13543,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 203,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png",
 		"player_url": "https://www.2kratings.com/harrison-barnes",
 		"team_id": null,
 		"stats": {
@@ -13589,7 +13601,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 304,
+		"player_id": 204,
 		"first_name": "Davion",
 		"last_name": "Mitchell",
 		"primary_position": "PG",
@@ -13598,7 +13610,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 183,
 		"weight": 91,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.png",
 		"player_url": "https://www.2kratings.com/davion-mitchell",
 		"team_id": null,
 		"stats": {
@@ -13656,7 +13668,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 305,
+		"player_id": 205,
 		"first_name": "Keegan",
 		"last_name": "Murray",
 		"primary_position": "SF",
@@ -13665,7 +13677,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 203,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png",
 		"player_url": "https://www.2kratings.com/keegan-murray",
 		"team_id": null,
 		"stats": {
@@ -13723,7 +13735,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 306,
+		"player_id": 206,
 		"first_name": "Malik",
 		"last_name": "Monk",
 		"primary_position": "SG",
@@ -13732,7 +13744,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 191,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628370.png",
 		"player_url": "https://www.2kratings.com/malik-monk",
 		"team_id": null,
 		"stats": {
@@ -13790,7 +13802,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 307,
+		"player_id": 207,
 		"first_name": "Terence",
 		"last_name": "Davis",
 		"primary_position": "SF",
@@ -13799,7 +13811,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 193,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629056.png",
 		"player_url": "https://www.2kratings.com/terence-davis",
 		"team_id": null,
 		"stats": {
@@ -13857,7 +13869,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 308,
+		"player_id": 208,
 		"first_name": "Kevin",
 		"last_name": "Huerter",
 		"primary_position": "SG",
@@ -13866,7 +13878,7 @@
 		"nba_team": "Sacramento Kings",
 		"height": 201,
 		"weight": 89,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628989.png",
 		"player_url": "https://www.2kratings.com/kevin-huerter",
 		"team_id": null,
 		"stats": {
@@ -13924,7 +13936,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 313,
+		"player_id": 209,
 		"first_name": "Keldon",
 		"last_name": "Johnson",
 		"primary_position": "SF",
@@ -13933,7 +13945,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 198,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.png",
 		"player_url": "https://www.2kratings.com/keldon-johnson",
 		"team_id": null,
 		"stats": {
@@ -13991,7 +14003,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 314,
+		"player_id": 210,
 		"first_name": "Jakob",
 		"last_name": "Poeltl",
 		"primary_position": "C",
@@ -14000,7 +14012,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 216,
 		"weight": 110,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627751.png",
 		"player_url": "https://www.2kratings.com/jakob-poeltl",
 		"team_id": null,
 		"stats": {
@@ -14058,7 +14070,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 315,
+		"player_id": 211,
 		"first_name": "Devin",
 		"last_name": "Vassell",
 		"primary_position": "SF",
@@ -14067,7 +14079,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 196,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.png",
 		"player_url": "https://www.2kratings.com/devin-vassell",
 		"team_id": null,
 		"stats": {
@@ -14125,7 +14137,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 316,
+		"player_id": 212,
 		"first_name": "Josh",
 		"last_name": "Richardson",
 		"primary_position": "SG",
@@ -14134,7 +14146,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 196,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626196.png",
 		"player_url": "https://www.2kratings.com/josh-richardson",
 		"team_id": null,
 		"stats": {
@@ -14192,7 +14204,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 317,
+		"player_id": 213,
 		"first_name": "Isaiah",
 		"last_name": "Roby",
 		"primary_position": "PF",
@@ -14201,7 +14213,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 203,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629676.png",
 		"player_url": "https://www.2kratings.com/isaiah-roby",
 		"team_id": null,
 		"stats": {
@@ -14259,7 +14271,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 318,
+		"player_id": 214,
 		"first_name": "Tre",
 		"last_name": "Jones",
 		"primary_position": "PG",
@@ -14268,7 +14280,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 185,
 		"weight": 83,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630200.png",
 		"player_url": "https://www.2kratings.com/tre-jones",
 		"team_id": null,
 		"stats": {
@@ -14326,7 +14338,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 319,
+		"player_id": 215,
 		"first_name": "Zach",
 		"last_name": "Collins",
 		"primary_position": "PF",
@@ -14335,7 +14347,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 211,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.png",
 		"player_url": "https://www.2kratings.com/zach-collins",
 		"team_id": null,
 		"stats": {
@@ -14393,7 +14405,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 320,
+		"player_id": 216,
 		"first_name": "Doug",
 		"last_name": "McDermott",
 		"primary_position": "PF",
@@ -14402,7 +14414,7 @@
 		"nba_team": "San Antonio Spurs",
 		"height": 201,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203926.png",
 		"player_url": "https://www.2kratings.com/doug-mcdermott",
 		"team_id": null,
 		"stats": {
@@ -14460,7 +14472,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 325,
+		"player_id": 217,
 		"first_name": "Pascal",
 		"last_name": "Siakam",
 		"primary_position": "PF",
@@ -14469,7 +14481,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png",
 		"player_url": "https://www.2kratings.com/pascal-siakam",
 		"team_id": null,
 		"stats": {
@@ -14527,7 +14539,7 @@
 		"total_badges": 16
 	},
 	{
-		"player_id": 326,
+		"player_id": 218,
 		"first_name": "Scottie",
 		"last_name": "Barnes",
 		"primary_position": "PF",
@@ -14536,7 +14548,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 201,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png",
 		"player_url": "https://www.2kratings.com/scottie-barnes",
 		"team_id": null,
 		"stats": {
@@ -14594,7 +14606,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 327,
+		"player_id": 219,
 		"first_name": "Fred",
 		"last_name": "VanVleet",
 		"primary_position": "SG",
@@ -14603,7 +14615,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 185,
 		"weight": 89,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png",
 		"player_url": "https://www.2kratings.com/fred-vanvleet",
 		"team_id": null,
 		"stats": {
@@ -14661,7 +14673,7 @@
 		"total_badges": 15
 	},
 	{
-		"player_id": 328,
+		"player_id": 220,
 		"first_name": "OG",
 		"last_name": "Anunoby",
 		"primary_position": "SF",
@@ -14670,7 +14682,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 201,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png",
 		"player_url": "https://www.2kratings.com/og-anunoby",
 		"team_id": null,
 		"stats": {
@@ -14728,7 +14740,7 @@
 		"total_badges": 17
 	},
 	{
-		"player_id": 329,
+		"player_id": 221,
 		"first_name": "Gary",
 		"last_name": "Trent Jr.",
 		"primary_position": "SG",
@@ -14737,7 +14749,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 196,
 		"weight": 94,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "",
 		"player_url": "https://www.2kratings.com/gary-trent-jr",
 		"team_id": null,
 		"stats": {
@@ -14795,7 +14807,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 330,
+		"player_id": 222,
 		"first_name": "Precious",
 		"last_name": "Achiuwa",
 		"primary_position": "C",
@@ -14804,7 +14816,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 101,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png",
 		"player_url": "https://www.2kratings.com/precious-achiuwa",
 		"team_id": null,
 		"stats": {
@@ -14862,7 +14874,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 331,
+		"player_id": 223,
 		"first_name": "Chris",
 		"last_name": "Boucher",
 		"primary_position": "PF",
@@ -14871,7 +14883,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 206,
 		"weight": 90,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628449.png",
 		"player_url": "https://www.2kratings.com/chris-boucher",
 		"team_id": null,
 		"stats": {
@@ -14929,7 +14941,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 332,
+		"player_id": 224,
 		"first_name": "Otto",
 		"last_name": "Porter Jr.",
 		"primary_position": "PF",
@@ -14938,7 +14950,7 @@
 		"nba_team": "Toronto Raptors",
 		"height": 203,
 		"weight": 89,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203490.png",
 		"player_url": "https://www.2kratings.com/otto-porter-jr",
 		"team_id": null,
 		"stats": {
@@ -14996,7 +15008,7 @@
 		"total_badges": 0
 	},
 	{
-		"player_id": 337,
+		"player_id": 225,
 		"first_name": "Mike",
 		"last_name": "Conley",
 		"primary_position": "PG",
@@ -15005,7 +15017,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 185,
 		"weight": 79,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png",
 		"player_url": "https://www.2kratings.com/mike-conley",
 		"team_id": null,
 		"stats": {
@@ -15063,7 +15075,7 @@
 		"total_badges": 13
 	},
 	{
-		"player_id": 338,
+		"player_id": 226,
 		"first_name": "Collin",
 		"last_name": "Sexton",
 		"primary_position": "SG",
@@ -15072,7 +15084,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 185,
 		"weight": 86,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png",
 		"player_url": "https://www.2kratings.com/collin-sexton",
 		"team_id": null,
 		"stats": {
@@ -15130,7 +15142,7 @@
 		"total_badges": 7
 	},
 	{
-		"player_id": 339,
+		"player_id": 227,
 		"first_name": "Lauri",
 		"last_name": "Markkanen",
 		"primary_position": "PF",
@@ -15139,7 +15151,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 211,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
 		"player_url": "https://www.2kratings.com/lauri-markkanen",
 		"team_id": null,
 		"stats": {
@@ -15197,7 +15209,7 @@
 		"total_badges": 3
 	},
 	{
-		"player_id": 340,
+		"player_id": 228,
 		"first_name": "Jarred",
 		"last_name": "Vanderbilt",
 		"primary_position": "PF",
@@ -15206,7 +15218,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 206,
 		"weight": 96,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png",
 		"player_url": "https://www.2kratings.com/jarred-vanderbilt",
 		"team_id": null,
 		"stats": {
@@ -15264,7 +15276,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 341,
+		"player_id": 229,
 		"first_name": "Jordan",
 		"last_name": "Clarkson",
 		"primary_position": "SG",
@@ -15273,7 +15285,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 193,
 		"weight": 87,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203903.png",
 		"player_url": "https://www.2kratings.com/jordan-clarkson",
 		"team_id": null,
 		"stats": {
@@ -15331,7 +15343,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 342,
+		"player_id": 230,
 		"first_name": "Kelly",
 		"last_name": "Olynyk",
 		"primary_position": "PF",
@@ -15340,7 +15352,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 211,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203482.png",
 		"player_url": "https://www.2kratings.com/kelly-olynyk",
 		"team_id": null,
 		"stats": {
@@ -15398,7 +15410,7 @@
 		"total_badges": 2
 	},
 	{
-		"player_id": 343,
+		"player_id": 231,
 		"first_name": "Malik",
 		"last_name": "Beasley",
 		"primary_position": "SG",
@@ -15407,7 +15419,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 193,
 		"weight": 84,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627736.png",
 		"player_url": "https://www.2kratings.com/malik-beasley",
 		"team_id": null,
 		"stats": {
@@ -15465,7 +15477,7 @@
 		"total_badges": 10
 	},
 	{
-		"player_id": 344,
+		"player_id": 232,
 		"first_name": "Rudy",
 		"last_name": "Gay",
 		"primary_position": "PF",
@@ -15474,7 +15486,7 @@
 		"nba_team": "Utah Jazz",
 		"height": 203,
 		"weight": 113,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.png",
 		"player_url": "https://www.2kratings.com/rudy-gay",
 		"team_id": null,
 		"stats": {
@@ -15532,7 +15544,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 349,
+		"player_id": 233,
 		"first_name": "Bradley",
 		"last_name": "Beal",
 		"primary_position": "SG",
@@ -15541,7 +15553,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 193,
 		"weight": 93,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png",
 		"player_url": "https://www.2kratings.com/bradley-beal",
 		"team_id": null,
 		"stats": {
@@ -15599,7 +15611,7 @@
 		"total_badges": 26
 	},
 	{
-		"player_id": 350,
+		"player_id": 234,
 		"first_name": "Kristaps",
 		"last_name": "Porzingis",
 		"primary_position": "C",
@@ -15608,7 +15620,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 221,
 		"weight": 108,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/204001.png",
 		"player_url": "https://www.2kratings.com/kristaps-porzingis",
 		"team_id": null,
 		"stats": {
@@ -15666,7 +15678,7 @@
 		"total_badges": 8
 	},
 	{
-		"player_id": 351,
+		"player_id": 235,
 		"first_name": "Kyle",
 		"last_name": "Kuzma",
 		"primary_position": "SF",
@@ -15675,7 +15687,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 99,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png",
 		"player_url": "https://www.2kratings.com/kyle-kuzma",
 		"team_id": null,
 		"stats": {
@@ -15733,7 +15745,7 @@
 		"total_badges": 4
 	},
 	{
-		"player_id": 352,
+		"player_id": 236,
 		"first_name": "Monte",
 		"last_name": "Morris",
 		"primary_position": "PG",
@@ -15742,7 +15754,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 188,
 		"weight": 82,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.png",
 		"player_url": "https://www.2kratings.com/monte-morris",
 		"team_id": null,
 		"stats": {
@@ -15800,7 +15812,7 @@
 		"total_badges": 6
 	},
 	{
-		"player_id": 353,
+		"player_id": 237,
 		"first_name": "Daniel",
 		"last_name": "Gafford",
 		"primary_position": "C",
@@ -15809,7 +15821,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 105,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.png",
 		"player_url": "https://www.2kratings.com/daniel-gafford",
 		"team_id": null,
 		"stats": {
@@ -15867,7 +15879,7 @@
 		"total_badges": 5
 	},
 	{
-		"player_id": 354,
+		"player_id": 238,
 		"first_name": "Will",
 		"last_name": "Barton",
 		"primary_position": "SG",
@@ -15876,7 +15888,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 196,
 		"weight": 81,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203115.png",
 		"player_url": "https://www.2kratings.com/will-barton",
 		"team_id": null,
 		"stats": {
@@ -15934,7 +15946,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 355,
+		"player_id": 239,
 		"first_name": "Deni",
 		"last_name": "Avdija",
 		"primary_position": "SF",
@@ -15943,7 +15955,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 206,
 		"weight": 95,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png",
 		"player_url": "https://www.2kratings.com/deni-avdija",
 		"team_id": null,
 		"stats": {
@@ -16001,7 +16013,7 @@
 		"total_badges": 1
 	},
 	{
-		"player_id": 356,
+		"player_id": 240,
 		"first_name": "Rui",
 		"last_name": "Hachimura",
 		"primary_position": "PF",
@@ -16010,7 +16022,7 @@
 		"nba_team": "Washington Wizards",
 		"height": 203,
 		"weight": 104,
-		"img_url": "https://www.2kratings.com/wp-content/uploads/Deandre-Ayton-2K-Rating-411x300.png",
+		"img_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png",
 		"player_url": "https://www.2kratings.com/rui-hachimura",
 		"team_id": null,
 		"stats": {

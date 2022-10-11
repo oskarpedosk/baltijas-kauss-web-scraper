@@ -138,7 +138,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
             for (let k = 0; k < badgesScrape.length; k++) {
                 // Initialize badge data order
                 var singleBadge = {}
-                singleBadge.player_id = i * 12 + j + 1
+                singleBadge.player_id = i * 8 + j + 1
                 singleBadge.first_name = infoArray[0][0]
                 singleBadge.last_name = infoArray[0][1]
                 singleBadge.badge_id = null
@@ -211,16 +211,16 @@ puppeteer.launch({ headless: true }).then(async browser => {
                 await page.goto(playerNBAurl)
 
                 await page.waitForSelector('img.PlayerImage_image__wH_YX:nth-child(2)');
-                const playerNBAimg = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
+                var playerNBAimg = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
                 console.log(playerNBAimg)
             } catch {
                 console.log("Couldn't get player: " + firstName + " " + lastName)
-                var playerNBAimg = infoArray[0][7]
+                var playerNBAimg = ""
             }
             
             // Scrape info
             const NBAplayer = {
-                player_id: i * 12 + j + 1,
+                player_id: i * 8 + j + 1,
                 first_name: infoArray[0][0],
                 last_name: infoArray[0][1],
                 primary_position: infoArray[0][3][0],
