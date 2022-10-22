@@ -214,7 +214,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
                 var playerNBAimg = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
                 console.log(playerNBAimg)
             } catch {
-                console.log("Couldn't get player: " + firstName + " " + lastName)
+                console.log("Couldn't get player image: " + firstName + " " + lastName)
                 var playerNBAimg = ""
             }
             
