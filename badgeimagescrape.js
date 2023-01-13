@@ -56,7 +56,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
     console.log(team_urls)
 
     // Loop through team
-    for (let i = 19; i < team_urls.length; i++) {
+    for (let i = 0; i < team_urls.length; i++) {
         await page.goto(team_urls[i])
         const player_urls = await page.evaluate(() => {
             return Array.from(document.querySelectorAll("div.ml-1:nth-child(2) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(2) > tr > td:nth-child(2) > div:nth-child(1) > a:nth-child(1)"))
@@ -104,7 +104,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
                                     }
                                 });
                                 await page.goto(badgesDatabase[l].bronze_url)
-                                await page.waitForTimeout(500)
+                                await page.waitForTimeout(1000)
                                 break
                             }
                         }
@@ -133,7 +133,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
                                     }
                                 });
                                 await page.goto(badgesDatabase[l].silver_url)
-                                await page.waitForTimeout(500)
+                                await page.waitForTimeout(1000)
                                 break
                             } 
                         }
@@ -162,7 +162,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
                                     }
                                 });
                                 await page.goto(badgesDatabase[l].gold_url)
-                                await page.waitForTimeout(500)
+                                await page.waitForTimeout(1000)
                                 break
                             }
                         }
@@ -191,7 +191,7 @@ puppeteer.launch({ headless: true }).then(async browser => {
                                     }
                                     });
                                 await page.goto(badgesDatabase[l].hof_url)
-                                await page.waitForTimeout(500)
+                                await page.waitForTimeout(1000)
                                 break
                             }
                         }
