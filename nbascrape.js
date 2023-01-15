@@ -1,11 +1,12 @@
+let page;
 const puppeteer = require('puppeteer-extra')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
 
-puppeteer.launch({ headless: false }).then(async browser => {
+puppeteer.launch({ headless: true }).then(async browser => {
     console.log('Running scrape...')
-    const page = await browser.newPage()
-    const teams = await scrapeTeams(page, 'https://2kratings.com/current-teams'); // Scrape all 30 NBA teams urls
+    page = await browser.newPage()
+    const teams = await scrapeTeams('https://2kratings.com/current-teams'); // Scrape all 30 NBA teams urls
     console.log(teams)
     
     await page.goto('https://2kratings.com/current-teams')
@@ -49,15 +50,18 @@ puppeteer.launch({ headless: false }).then(async browser => {
         badgesDatabase = badgesDatabase.concat(singleBadge)
 
     var allPlayersBadges = []
-    var allNBAPlayers = []
+    var players = []
 
     // Loop through team
     for (let i = 0; i < teams.length; i++) {
-        const team_players = await scrapeTeamPlayers(page, teams[i]); // Scrape all 30 NBA teams urls
+        const team_players = await scrapeTeamPlayers(teams[i]); // Scrape all 30 NBA teams urls
         console.log(team_players)
 
         for (let j = 0; j < 7; j++) {
-            await page.goto(team_players[j])
+            // https://www.2kratings.com/charles-barkley-all-time-phoenix-suns
+            var player = await scrapePlayer('https://www.2kratings.com/charles-barkley-all-time-phoenix-suns');
+            var player = await scrapePlayer(team_players[j]);
+            console.log(player)
 
             // Scrape player info to an array
             const infoArray = await page.evaluate(() =>
@@ -76,9 +80,9 @@ puppeteer.launch({ headless: false }).then(async browser => {
                 )))
 
             // Scrape player overall rating
-            const overall = await page.evaluate(() =>
-                ["Overall", parseInt(document.querySelector('.attribute-box-player').textContent)]
-            )
+            // const overall = await page.evaluate(() =>
+            //     ["Overall", parseInt(document.querySelector('.attribute-box-player').textContent)]
+            // )
 
             // Scrape player stats
             const statsArray = await page.evaluate(() =>
@@ -183,44 +187,7 @@ puppeteer.launch({ headless: false }).then(async browser => {
                 infoArray[0][3] = infoArray[0][3].concat(null)
             }
 
-            try {
-                var firstName = infoArray[0][0]
-                var lastName = infoArray[0][1]
-                var query = firstName + ' ' + lastName + ' ' + 'nba.com'
-                await page.goto('https://www.duckduckgo.com/')
-                const search = await page.$("#search_form_input_homepage")
-                await search.type(query)
-                await page.click('#search_button_homepage');
-                // await page.waitForTimeout(5000)
-                await page.waitForSelector('#r1-0 > div:nth-child(2) > h2:nth-child(1) > a:nth-child(1)');
-                var playerNBAurl = await page.evaluate(() => document.querySelector('#r1-0 > div:nth-child(2) > h2:nth-child(1) > a:nth-child(1)').href);
-                console.log(playerNBAurl)
-                await page.goto(playerNBAurl)
-                await page.waitForSelector('img.PlayerImage_image__wH_YX:nth-child(2)');
-                var playerNBAimg = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
-                console.log(playerNBAimg)
-            } catch {
-                console.log("Couldn't get player image: " + firstName + " " + lastName)
-                var playerNBAimg = ""
-            }
-
-            // try {
-            //     await page.goto('https://www.nba.com/players')
-            //     var firstName = infoArray[0][0]
-            //     var lastName = infoArray[0][1]
-            //     await page.type('.Block_blockAd__1Q_77 > div:nth-child(1) > input:nth-child(1)', firstName + ' ' + lastName)
-            //     await page.waitForTimeout(1000)
-            //     var playerNBAurl = await page.evaluate(() => document.querySelector('.players-list > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) > a:nth-child(1)').href);
-            //     console.log(playerNBAurl)
-            //     await page.goto(playerNBAurl)
-
-            //     await page.waitForSelector('img.PlayerImage_image__wH_YX:nth-child(2)');
-            //     var playerNBAimg = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
-            //     console.log(playerNBAimg)
-            // } catch {
-            //     console.log("Couldn't get player image: " + firstName + " " + lastName)
-            //     var playerNBAimg = ""
-            // }
+            // var playerNBAimg = await scrapePlayerImageURL(infoArray[0][0], infoArray[0][1])
             
             // Scrape info
             const NBAplayer = {
@@ -233,7 +200,7 @@ puppeteer.launch({ headless: false }).then(async browser => {
                 nba_team: infoArray[0][2],
                 height: infoArray[0][5],
                 weight: infoArray[0][6],
-                img_url: playerNBAimg,
+                img_url: await scrapePlayerImageURL(infoArray[0][0], infoArray[0][1]),
                 player_url: team_players[j],
                 team_id: null,
                 stats: stats,
@@ -244,7 +211,7 @@ puppeteer.launch({ headless: false }).then(async browser => {
                 total_badges: infoArray[0][8][4],
             }
 
-            allNBAPlayers = allNBAPlayers.concat(NBAplayer)
+            players = players.concat(NBAplayer)
         }
     }
 
@@ -256,22 +223,88 @@ puppeteer.launch({ headless: false }).then(async browser => {
     await browser.close()
 })
 
-async function scrapeTeams(page, url) {
+async function scrapePlayer(url) {
     await page.goto(url)
-    const team_urls = await page.evaluate(() => {
-        return Array.from(document.querySelectorAll(".fixed-columns > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(2) > tr > td:nth-child(1) > a:nth-child(1)"))
-            .map(link => link.href);
-    })
-    return team_urls
+    // Scrape player overall rating
+    var overall = await page.evaluate(() =>
+    ["Overall", parseInt(document.querySelector('.attribute-box-player').textContent)]
+    )
+    var player_info = await page.evaluate(() =>
+            (Array.from(document.querySelectorAll('.content > div:nth-child(1)'))
+                .map(element =>
+                    // Main stats
+                    [(element.querySelector('h1').innerText.trim().match(/^(\S+)\s(.*)/).slice(1)[0]).replace('’', '\'')]
+                        .concat(((element.querySelector('h1').innerText.trim().match(/^(\S+)\s(.*)/).slice(1)[1]).replace('’', '\'')),
+                            (element.querySelector('.header-subtitle > p:nth-child(3) > a:nth-child(1)').textContent),
+                            ([Array.from(document.querySelectorAll('.header-subtitle > p:nth-child(5) a')).map(element => element.textContent)]),
+                            (element.querySelector('p.mb-0:nth-child(4) > span:nth-child(1)').textContent),
+                            (parseInt(element.querySelector('p.mb-0:nth-child(6) > span:nth-child(1)').textContent.split(/[(c]+/)[1])),
+                            (parseInt(element.querySelector('span.mb-0 > span:nth-child(1)')?.textContent.split(/[(k]+/)[1])),
+                            (element.querySelector('.profile-photo .header-image').src),
+                            ([Array.from(document.querySelectorAll('div.d-inline-block > span')).map(element => parseInt(element.textContent))]))
+                )))
+    var player = {
+        first_name: "Jack",
+        last_name: "Bauer",
+        primary_position: "PG",
+        secondary_position: "SG",
+        archetype: "Mädaputs",
+        nba_team: "LAL",
+        height: 185,
+        weight: 85,
+        img_url: await scrapePlayerImageURL("Lonzo", "Ball"),
+        player_url: url,
+        team_id: null,
+        stats: "stats",
+        bronze_badges: 10,
+        silver_badges: 12,
+        gold_badges: 4,
+        hof_badges: 1,
+        total_badges: 27,
+    }
+    console.log(overall)
+        
+    return player
 }
 
-async function scrapeTeamPlayers(page, url) {
+async function scrapePlayerImageURL(first_name, last_name) {
+    var query = first_name + ' ' + last_name + ' ' + 'nba.com';
+    try {
+        await page.goto('https://www.duckduckgo.com/');
+        const search = await page.$("#search_form_input_homepage");
+        await search.type(query);
+        await page.click('#search_button_homepage');
+
+        await page.waitForSelector('#r1-0 > div:nth-child(2) > h2:nth-child(1) > a:nth-child(1)');
+        var player_url = await page.evaluate(() => document.querySelector('#r1-0 > div:nth-child(2) > h2:nth-child(1) > a:nth-child(1)').href);
+
+        await page.goto(player_url);
+        await page.waitForSelector('img.PlayerImage_image__wH_YX:nth-child(2)');
+        var player_image_url = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
+        console.log(player_image_url);
+    } catch {
+        console.log("Couldn't get player image: " + first_name + " " + last_name);
+        var player_image_url = ""
+    }
+    return player_image_url
+}
+
+async function scrapeTeamPlayers(url) {
     await page.goto(url)
-        const team_players = await page.evaluate(() => {
+        var team_players = await page.evaluate(() => {
             return Array.from(document.querySelectorAll("div.ml-1:nth-child(2) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(2) > tr > td:nth-child(2) > div:nth-child(1) > a:nth-child(1)"))
                 .map(link => link.href);
         })
     return team_players
+}
+
+async function scrapeTeams(url) {
+    await page.goto(url)
+    var team_urls = await page.evaluate(() => {
+        return Array.from(document.querySelectorAll(".fixed-columns > div:nth-child(2) > table:nth-child(2) > tbody:nth-child(2) > tr > td:nth-child(1) > a:nth-child(1)"))
+            .map(link => link.href);
+    })
+    return team_urls
 }
 
 function writeJSON(data, name) {
