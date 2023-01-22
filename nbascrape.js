@@ -6,7 +6,7 @@ puppeteer.use(StealthPlugin())
 
 puppeteer.launch({ headless: true }).then(async browser => {
     console.log('Running scrape...')
-    var startTime = performance.now()
+    let startTime = performance.now()
     page = await browser.newPage()
     const teams = await scrapeTeams('https://2kratings.com/current-teams'); // Scrape all 30 NBA teams urls
     teams.push("https://www.2kratings.com/teams/free-agency") // Add free agents to teams
@@ -15,16 +15,18 @@ puppeteer.launch({ headless: true }).then(async browser => {
     let players = [];
 
     // Loop through team
-    for (let i = 0; i < teams.length; i++) {
+    for (let i = 30; i < teams.length; i++) {
         const team_players = await scrapeTeamPlayers(teams[i]); // Scrape all team players
 
         for (let j = 0; j < team_players.length; j++) {
+            if (j === 8) {
+                break; // Dont want to scrape too many free agents
+            }
             const player = await scrapePlayer(team_players[j])
             player.id = player_id
             player_id++
             players.push(player)
             console.log(player.first_name, player.last_name, "scraped")
-            // player.img_url = await scrapePlayerImageURL(player.first_name, player.last_name);
         }
         console.log(teams[i], "scraped")
         console.log("-----------------")
@@ -34,14 +36,15 @@ puppeteer.launch({ headless: true }).then(async browser => {
     // writeJSON(badgesDatabase, 'badges');
     // writeJSON(allPlayersBadges, 'players-badges');
 
-    console.log(`All done.`)
-    var endTime = performance.now()
-    console.log(`Scrape took ${endTime - startTime} milliseconds`)
-    await browser.close()
+    console.log(`All done.`);
+    let endTime = performance.now();
+    let seconds = (endTime - startTime) / 1000.0;
+    console.log(`Scrape took ` + seconds + ` seconds`);
+    await browser.close();
 })
 
 async function scrapePlayer(url) {
-    await page.goto(url)
+    await page.goto(url) 
 
     const player = {
         id: null,
@@ -49,13 +52,15 @@ async function scrapePlayer(url) {
         last_name: null,
         primary_position: null,
         secondary_position: null,
+        assigned_position: null,
         archetype: null,
+        height: null,
+        weight: null,
         nba_team: null,
         nationality: null,
         birthdate: null,
-        jersey: null,
-        height: null,
-        weight: null,
+        jersey: "#",
+        draft: null,
         img_url: null,
         ratings_url: url,
         team_id: null,
@@ -69,30 +74,33 @@ async function scrapePlayer(url) {
     }
 
     // Name
-    const name = await page.evaluate(() =>
-        document.querySelector('.header-title').innerText);
-    let regex = /(\S+)\s/;
-    if (regex.test(name)) {
-        player.first_name = getGroup(regex, name, 1)
-        regex = /\S+\s(.+\S|)/;
-        player.last_name = getGroup(regex, name, 1)
+    const name_element = await page.evaluate(() =>
+        document.querySelector('.header-title'));
+    if (name_element) {
+        const name = name_element.innerText;
+        let regex = /(\S+)\s/;
+        if (regex.test(name)) {
+            player.first_name = getGroup(regex, name, 1)
+            regex = /\S+\s(.+\S|)/;
+            player.last_name = getGroup(regex, name, 1)
+        }
     }
 
     // Info (team, height, weight etc.)
     const player_info = await page.evaluate(() =>
             (Array.from(document.querySelectorAll('.header-subtitle > p'))
-            .map(element => element.innerText)))
+            .map(element => element.innerText)));
 
     for (let i = 0; i < player_info.length; i++) {
-        const info = player_info[i];
+        let info = player_info[i];
         // Nationality
-        let regex = /Nationality: (.+\w)/;
-        if (regex.test(info)) {
-            player.nationality = getGroup(regex, info, 1);
-            continue;
-        }
+        // let regex = /Nationality: (.+\w)/;
+        // if (regex.test(info)) {
+        //     player.nationality = getGroup(regex, info, 1);
+        //     continue;
+        
         // NBA team
-        regex = /Team: (.+\w)/;
+        let regex = /Team: (.+\w)/;
         if (regex.test(info)) {
             player.nba_team = getGroup(regex, info, 1);
             continue;
@@ -124,33 +132,64 @@ async function scrapePlayer(url) {
             }
             continue;
         }
-    }
-
-    // Scrape attributes
-    const attributes_scrape = await page.evaluate(() => {
-        const navAttributes = document.getElementById('nav-attributes');
-        if (!navAttributes) {
-          return [];
+        // Jersey
+        regex = /Jersey: (#\d+)$/;
+        if (regex.test(info)) {
+            player.jersey = getGroup(regex, info, 1);
+            continue;
         }
-        return [
-          ...navAttributes.querySelectorAll('.card-header'),
-          ...navAttributes.querySelectorAll('li')
-        ].map(element => element.innerText);
-      });
-      
-    
+    }
 
     // Add overall rating
     const overall_rating = await page.evaluate(() => {
-        const element = document.querySelector('.attribute-box-player');
-        return element ? parseInt(element.innerText) : null;
+        const overall_rating_element = document.querySelector('.attribute-box-player');
+        return overall_rating_element ? parseInt(overall_rating_element.innerText) : null;
         });
         
     if (overall_rating) {
     player.overall = overall_rating;
     }
 
+    // Scrape attributes
+    const attributes_scrape = await page.evaluate(() => {
+        const attributes_element = document.getElementById('nav-attributes');
+        if (!attributes_element) {
+          return [];
+        }
+        return [
+          ...attributes_element.querySelectorAll('.card-header'),
+          ...attributes_element.querySelectorAll('li')
+        ].map(element => element.innerText);
+      });
+      
     // Add attributes
+    const attributes = addAttributes(attributes_scrape)
+    player.attributes = attributes;
+
+    // Scrape player badges
+    const badges = await scrapePlayerBadges();
+
+    for (let i = 0; i < badges.length; i++) {
+        const level = getGroup(/_(\w+)./, badges[i].url, 1)
+        if (level === "bronze") {
+            player.bronze_badges++
+        } else if (level === "silver") {
+            player.silver_badges++
+        } else if (level === "gold") {
+            player.gold_badges++
+        } else if (level === "hof") {
+            player.hof_badges++
+        }
+        player.total_badges++
+    }
+
+    // Scrape nba.com info and image
+    const nba_com_scrape = await scrapePlayerImageURL(player.first_name, player.last_name);
+
+    return player
+}
+
+function addAttributes(attributes_scrape) {
     let attributes = {
         OutsideScoring: null,
         Athleticism: null,
@@ -198,11 +237,14 @@ async function scrapePlayer(url) {
         OffensiveRebound: null,
         DefensiveRebound: null,
     }
+    
     for (let i = 0; i < attributes_scrape.length; i++) {
         regex = /(\S+) (.+\w)/;
-        const attribute_str = getGroup(regex, attributes_scrape[i], 2);
+        let attribute_str = getGroup(regex, attributes_scrape[i], 2);
+        attribute_str = attribute_str.replaceAll(' ', '');
+        attribute_str = attribute_str.replaceAll('-', '');
         let attribute_int = null;
-        if (attribute_str === "Total Attributes") {
+        if (attribute_str === "TotalAttributes") {
             regex = /\d+/g;
             attribute_int = parseInt(getGroup(regex, attributes_scrape[i], 0) + getGroup(regex, attributes_scrape[i], 1));
             if (attribute_int === 0) {
@@ -220,27 +262,7 @@ async function scrapePlayer(url) {
             attributes[key] = null;
         }
     }
-
-    player.attributes = attributes;
-
-    // Scrape player badges
-    const badges = await scrapePlayerBadges();
-
-    for (let i = 0; i < badges.length; i++) {
-        const level = getGroup(/_(\w+)./, badges[i].url, 1)
-        if (level === "bronze") {
-            player.bronze_badges++
-        } else if (level === "silver") {
-            player.silver_badges++
-        } else if (level === "gold") {
-            player.gold_badges++
-        } else if (level === "hof") {
-            player.hof_badges++
-        }
-        player.total_badges++
-    }
-
-    return player
+    return attributes
 }
 
 function getGroup(regex, str, index) {
@@ -287,24 +309,76 @@ async function scrapePlayerBadges() {
 }
 
 async function scrapePlayerImageURL(first_name, last_name) {
+    const nba_com_scrape = {};
     try {
+        // Search for player with DuckDuckGo
         const query = first_name + ' ' + last_name + ' ' + 'nba.com';
         await page.goto('https://www.duckduckgo.com/');
         await page.waitForSelector('#searchbox_input');
         const search = await page.$('#searchbox_input');
         await search.type(query);
         await page.keyboard.press('Enter');
-        // await page.click('#search_button_homepage');
 
         await page.waitForSelector('#r1-0 > div:nth-child(2) > h2:nth-child(1) > a:nth-child(1)');
         const player_url = await page.evaluate(() => document.querySelector('#r1-0 > div:nth-child(2) > h2:nth-child(1) > a:nth-child(1)').href);
 
+        // Go to nba.com
         await page.goto(player_url);
-        await page.waitForSelector('img.PlayerImage_image__wH_YX:nth-child(2)');
-        return await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
+
+        const nba_dot_com_info = await page.evaluate(() => {
+            return Array.from(document.querySelectorAll('div.PlayerSummary_hw__HNuGb > div > div')).map(parent => 
+                Array.from(parent.querySelectorAll('p')).map(element => element.innerText)
+            );
+        });
+
+        const nba_dot_com_jersey_element = await page.evaluate(() => 
+            document.querySelector('p.PlayerSummary_mainInnerInfo__jv3LO'));
+
+        if (nba_dot_com_jersey_element) {
+            const nba_dot_com_jersey = nba_dot_com_jersey_element.innerText;
+            let regex = /(#\d+)/;
+            if (regex.test(nba_dot_com_jersey)) {
+                nba_com_scrape.jersey = getGroup(regex, nba_dot_com_jersey, 1);
+            }
+        }
+
+        if (await page.$('img.PlayerImage_image__wH_YX:nth-child(2)') !== null) {
+            nba_com_scrape.img_url = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX:nth-child(2)').src);
+        } else {
+            nba_com_scrape.img_url = await page.evaluate(() => document.querySelector('img.PlayerImage_image__wH_YX').src);
+        }
+
+        for (let i = 0; i < nba_dot_com_info.length; i++) {
+            if (nba_dot_com_info[i].length === 2) {
+                const info = nba_dot_com_info[i][0]
+                const data = nba_dot_com_info[i][1]
+                if (info === "HEIGHT") {
+                    regex = /\((\d\d\d)m\)/;
+                    const height = data.replace('.', '');
+                    if (regex.test(height)) {
+                        nba_com_scrape.height = parseInt(getGroup(regex, height, 1));
+                    }
+                } else if (info === "WEIGHT") {
+                    let regex = /\((\d+)kg\)/;
+                    if (regex.test(data)) {
+                        nba_com_scrape.weight = parseInt(getGroup(regex, data, 1));
+                    }
+                } else if (info === "COUNTRY") {
+                    nba_com_scrape.nationality = data;
+                } else if (info === "DRAFT") {
+                    nba_com_scrape.draft = data;
+                } else if (info === "BIRTHDATE") {
+                    nba_com_scrape.birthdate = data;
+                }
+
+            }
+        }
+        console.log(nba_com_scrape)
+        
+        return nba_com_scrape
     } catch {
-        console.log("Couldn't get player image: " + first_name + " " + last_name);
-        return "https://cdn.nba.com/headshots/nba/latest/1040x760/977.png"
+        console.log("Couldn't get player data from nba.com: " + first_name + " " + last_name);
+        return nba_com_scrape
     }
 }
 
